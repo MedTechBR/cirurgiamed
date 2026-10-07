@@ -49,3 +49,12 @@ tto (indicação e tática), urg, prev (complicações e seguimento), bas (bases
 - O banco autoral nasce com uma AMOSTRA para o Matheus aprovar o padrão antes de escalar (regra do
   template de app de estudo: "não gere 500 antes de eu ver 10").
 - Figuras: nenhuma imagem de terceiros. Esquemas em SVG inline nas leituras.
+
+## Estado no lançamento (07/10/2026, cg-v1)
+397 questões: 359 de prova real (ENARE 2025/26 e 2024/25 pré-requisito em Cirurgia Geral, USP/FUVEST
+Especialidades Cirúrgicas 2025 e 2026, Revalida de cirurgia) e 38 autorais de amostra (2 por área,
+revisadas por um segundo agente). 6 monografias, 8 estações de arguição, 150 cartões. Extração das
+provas: `docs/PROVAS_REAIS.md` e scripts em `docs/extracao/`; triagem e campos editoriais pelo
+`docs/BRIEF_REAIS.md` (relatórios de descarte em `provas-reais/relatorios/`, fora do git).
+Atenção ao `docs/extrai_prova.py` herdado: apaga linhas só com número (perde dado de tabela); a extração
+daqui contornou isso. USP: `fonte.ano` = ano da EDIÇÃO (2025, 2026), como no ClínicaMed.
