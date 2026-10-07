@@ -1,0 +1,1704 @@
+[
+ {
+  "q": "Mulher de 68 anos, com história prévia de hérnia crural direita não tratada, é levada ao pronto-socorro com dor em fossa ilíaca direita, náuseas e sensação de distensão abdominal há 24 horas. Nega vômitos ou parada total de eliminação de gases e fezes. Ao exame físico, apresenta massa dolorosa e pouco reduzível em região inguinal direita, com dor localizada, sem sinais francos de peritonite. Ruídos hidroaéreos presentes. Exames laboratoriais mostram leucocitose (14.000/mm³) e PCR elevada. A tomografia evidenciou alça intestinal com parede espessada herniando parcialmente pelo canal femoral, sem dilatação significativa de alças proximais. Nesse caso, a conduta mais apropriada será",
+  "alts": [
+   "tratamento conservador com analgesia e vigilância clínica.",
+   "redução manual da hérnia com sedação e reavaliação ambulatorial.",
+   "cirurgia de urgência com abordagem da hérnia e avaliação de viabilidade intestinal.",
+   "antibioticoterapia de amplo espectro e dieta zero por 72 horas.",
+   "CPRE urgente para alívio da compressão mecânica intestinal."
+  ],
+  "gab": 2,
+  "tema": "hernias",
+  "sub": "Hérnia inguinal e femoral",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "HerniaSurge International Guidelines for groin hernia management, 2018",
+  "coment": "Hérnia femoral pouco redutível e dolorosa, com leucocitose, PCR elevada e alça de parede espessada no canal femoral na TC, é encarceramento com suspeita de sofrimento de alça (hérnia de Richter é típica do canal femoral, por isso pode não haver obstrução completa). A hérnia femoral tem o maior risco de estrangulamento entre as hérnias da virilha, e a HerniaSurge 2018 indica correção de urgência quando há encarceramento com dor e sinais inflamatórios, com inspeção da alça e ressecção se inviável. Redução manual é contraindicada quando há suspeita de estrangulamento.",
+  "porAlt": [
+   "Observar com analgesia expõe a alça a necrose e perfuração; encarceramento com sinais inflamatórios não admite conduta expectante.",
+   "Redução manual sob sedação é proscrita na suspeita de estrangulamento, pois pode devolver à cavidade uma alça necrótica.",
+   "Correta: encarceramento femoral com sinais de sofrimento de alça exige cirurgia de urgência com avaliação da viabilidade intestinal.",
+   "Antibiótico e jejum não desfazem o encarceramento e só retardam a cirurgia de uma alça possivelmente isquêmica.",
+   "CPRE trata a via biliar e não tem qualquer papel na hérnia encarcerada ou na obstrução intestinal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Homem de 63 anos apresenta perda ponderal de 10 kg, saciedade precoce e dor epigástrica nos últimos 3 meses. A endoscopia digestiva alta com biópsia revelou adenocarcinoma gástrico pouco diferenciado na pequena curvatura do antro. A tomografia de abdome e pelve com contraste não evidenciou metástases. A ecoendoscopia mostrou lesão comprometendo a submucosa e parte da muscular própria, com linfonodos regionais positivos. A classificação TNM foi T2N1M0. A conduta apropriada é",
+  "alts": [
+   "iniciar quimioterapia paliativa com fluorouracil e cisplatina.",
+   "iniciar imunoterapia com anti-PD1 seguida de gastrectomia total.",
+   "apenas vigilância clínica, pois se trata de um tumor limitado à submucosa.",
+   "indicar radioterapia isolada antes da cirurgia para reduzir o volume tumoral.",
+   "realizar gastrectomia subtotal com linfadenectomia D2 e considerar quimioterapia adjuvante."
+  ],
+  "gab": 4,
+  "tema": "esofago",
+  "sub": "Câncer gástrico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESMO Clinical Practice Guideline Gastric Cancer, 2022; Japanese Gastric Cancer Treatment Guidelines, 6ª ed., 2021",
+  "coment": "Adenocarcinoma de antro cT2N1M0 é doença localmente avançada e ressecável. A cirurgia oncológica é gastrectomia subtotal (tumor distal) com linfadenectomia D2, padrão ocidental e oriental. Entre as opções, só a alternativa E é aceitável. Controvérsia: a ESMO 2022 e o NCCN recomendam quimioterapia perioperatória (FLOT) para tumores a partir de cT2 ou N+, enquanto a escola japonesa opera primeiro e faz quimioterapia adjuvante, conduta que o gabarito reproduz. Quimioterapia paliativa, imunoterapia isolada pré-operatória e radioterapia isolada não são o padrão.",
+  "porAlt": [
+   "Quimioterapia paliativa é para doença metastática ou irressecável; o tumor está estadiado como M0 e ressecável.",
+   "Imunoterapia anti-PD1 isolada antes da cirurgia não é tratamento padrão, e o tumor de antro dispensa gastrectomia total.",
+   "Vigilância é inaceitável: o tumor invade a muscular própria e tem linfonodos positivos, não é lesão restrita à submucosa.",
+   "Radioterapia isolada pré-operatória não tem papel no adenocarcinoma gástrico distal.",
+   "Correta: gastrectomia subtotal com D2 é a cirurgia oncológica do tumor de antro, com quimioterapia complementar (adjuvante ou perioperatória)."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Homem de 67 anos, com histórico de fibrilação atrial crônica, em uso irregular de anticoagulante, apresenta dor abdominal súbita e intensa há 6 horas, desproporcional ao exame físico, que revela apenas discreta distensão e dor difusa à palpação. Está taquicárdico e com sinais de hipoperfusão. Leucograma com 18.000/mm³, lactato sérico elevado (5,2 mmol/L) e gasometria com acidose metabólica. A tomografia de abdome com contraste mostra pneumatose intestinal e ausência de realce da artéria mesentérica superior. Não há sinais de perfuração ou peritonite evidente. A conduta mais adequada nesse caso será",
+  "alts": [
+   "iniciar anticoagulação plena e manter observação clínica com jejum.",
+   "repetir tomografia em 12 horas para avaliar progressão da imagem.",
+   "encaminhar para laparotomia exploradora imediata para avaliação da viabilidade intestinal.",
+   "realizar colonoscopia urgente para confirmar o diagnóstico.",
+   "administrar antibióticos e iniciar nutrição parenteral total."
+  ],
+  "gab": 2,
+  "tema": "abdome",
+  "sub": "Isquemia mesentérica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "WSES guidelines (isquemia mesentérica aguda), 2022",
+  "coment": "Dor desproporcional ao exame em paciente com fibrilação atrial e anticoagulação irregular sugere embolia da artéria mesentérica superior. Lactato de 5,2 mmol/L, acidose, ausência de realce da AMS e pneumatose intestinal indicam isquemia transmural já instalada. A WSES 2022 orienta, diante de sinais de necrose ou peritonite iminente, laparotomia imediata para revascularização e avaliação da viabilidade das alças, com ressecção do segmento necrótico e second look quando necessário. Anticoagulação isolada, observação ou nova imagem atrasam o tratamento e elevam a mortalidade.",
+  "porAlt": [
+   "Anticoagulação é adjuvante, mas observar com jejum diante de pneumatose e acidose deixa a necrose progredir.",
+   "Repetir a TC em 12 horas atrasa o tratamento de uma isquemia que já mostra sinais de necrose transmural.",
+   "Correta: pneumatose, lactato elevado e AMS sem realce exigem laparotomia imediata para revascularizar e ressecar alça inviável.",
+   "Colonoscopia não avalia a isquemia do delgado pela AMS e insufla alças isquêmicas com risco de perfuração.",
+   "Antibiótico e nutrição parenteral são medidas de suporte e não tratam a oclusão arterial nem a necrose intestinal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "A correta síntese da parede abdominal é um fator importante na diminuição de ocorrência de hérnias incisionais de parede abdominal. O estudo STITCH demonstrou diminuição de hérnias incisionais, com o fechamento da parede abdominal da seguinte forma:",
+  "alts": [
+   "pontos a 1 cm da borda, 0,5 cm entre os pontos e fio multifilamentar.",
+   "pontos a 0,5 cm da borda, 0,5 cm entre os pontos e fio monofilamentar.",
+   "pontos a 1 cm da borda, 1 cm entre os pontos e fio monofilamentar.",
+   "pontos a 0,5 cm da borda, 1 cm entre os pontos e fio monofilamentar.",
+   "pontos a 1 cm da borda, 1 cm entre os pontos e fio multifilamentar."
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Síntese da parede abdominal",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "EHS/AHS Updated guideline for closure of abdominal wall incisions, 2022 (ensaio STITCH, Lancet 2015)",
+  "coment": "O ensaio STITCH comparou o fechamento da aponeurose da linha mediana com pontos grandes (1 cm da borda e 1 cm entre pontos) e com a técnica de pequenas mordidas: pontos a 5 mm da borda e 5 mm entre si, sutura contínua com fio monofilamentar de absorção lenta (PDS 2-0). As pequenas mordidas reduziram a hérnia incisional em 1 ano, e a diretriz europeia e americana de 2022 recomenda essa técnica, mantendo a relação fio/ferida de pelo menos 4:1.",
+  "porAlt": [
+   "Pontos a 1 cm da borda são a técnica de grandes mordidas, e o fio multifilamentar não é o recomendado.",
+   "Correta: pequenas mordidas a 0,5 cm da borda, 0,5 cm entre os pontos e fio monofilamentar foram a técnica vencedora no STITCH.",
+   "Pontos a 1 cm da borda e 1 cm entre si correspondem ao grupo controle do STITCH, com mais hérnia incisional.",
+   "A distância entre pontos no STITCH também foi de 0,5 cm, não de 1 cm.",
+   "Grandes mordidas com fio multifilamentar reúnem os dois fatores associados a mais hérnia incisional."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Segundo a Resolução nº 2.429/2025 do Conselho Federal de Medicina, as cirurgias bariátricas em adolescentes podem ser realizadas",
+  "alts": [
+   "acima de 14 anos, respeitando os mesmos critérios que os adultos.",
+   "acima de 16 anos, respeitando os mesmos critérios que os adultos.",
+   "acima de 16 anos, somente se o IMC for acima de 40 kg/m² e houver comorbidades graves.",
+   "acima de 14 anos, somente se o IMC for acima de 35 kg/m² e houver comorbidades graves.",
+   "acima de 16 anos somente se o IMC for acima de 35 kg/m² e houver comorbidades graves."
+  ],
+  "gab": 1,
+  "tema": "esofago",
+  "sub": "Cirurgia bariátrica e metabólica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Resolução CFM nº 2.429/2025",
+  "coment": "A Resolução CFM nº 2.429, de 25 de abril de 2025, substituiu a Resolução 2.131/2015 e ampliou as indicações de cirurgia bariátrica. Para adolescentes, a norma permite a cirurgia entre 16 e 18 anos com os mesmos critérios dos adultos, com concordância dos responsáveis e da equipe. Entre 14 e 16 anos ela também é possível, mas apenas na obesidade grave (IMC acima de 40 kg/m²) com comorbidades e avaliação multidisciplinar. Por isso a única afirmativa correta é a de que, acima de 16 anos, valem os critérios dos adultos.",
+  "porAlt": [
+   "Aos 14 anos a resolução não aplica os critérios dos adultos; exige IMC acima de 40 kg/m² com comorbidades.",
+   "Correta: entre 16 e 18 anos a Resolução CFM 2.429/2025 aplica os mesmos critérios usados para adultos.",
+   "Acima de 16 anos não se exige IMC acima de 40 com comorbidades graves; valem os critérios dos adultos.",
+   "Para a faixa de 14 a 16 anos o corte é IMC acima de 40 kg/m², e não acima de 35.",
+   "Acima de 16 anos a regra não se restringe a IMC acima de 35 com comorbidades graves; seguem-se os critérios dos adultos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "No pós-operatório de cirurgias em que não se utilizam próteses permanentes, as infecções de sítio cirúrgico são aquelas que ocorrem em até",
+  "alts": [
+   "cinco dias.",
+   "sete dias.",
+   "dez dias.",
+   "quinze dias.",
+   "trinta dias."
+  ],
+  "gab": 4,
+  "tema": "infeccao",
+  "sub": "Infecção de sítio cirúrgico",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "ANVISA, Critérios Diagnósticos de Infecção Relacionada à Assistência à Saúde, 2017",
+  "coment": "Pelos critérios da ANVISA, alinhados ao CDC/NHSN, a infecção de sítio cirúrgico é a que ocorre em até 30 dias após o procedimento quando não há implante de prótese, e em até 90 dias quando há implante. O dia da cirurgia é o dia 1. A vigilância por esse período é o que permite captar infecções que se manifestam após a alta, que são parte relevante do total.",
+  "porAlt": [
+   "Cinco dias é prazo curto demais e deixaria de fora a maioria das infecções de sítio cirúrgico.",
+   "Sete dias não corresponde ao critério de vigilância; muitas infecções surgem após a alta e depois disso.",
+   "Dez dias não é o prazo definido pela ANVISA nem pelo CDC/NHSN.",
+   "Quinze dias é metade do período de vigilância usado para cirurgias sem implante.",
+   "Correta: sem implante, considera-se infecção de sítio cirúrgico a que ocorre em até 30 dias do procedimento."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Dos tumores benignos do fígado, o que apresenta maior potencial de sangramento é",
+  "alts": [
+   "a hiperplasia nodular focal.",
+   "o hemangioma.",
+   "o hamartoma.",
+   "o adenoma.",
+   "a mielolipoma."
+  ],
+  "gab": 3,
+  "tema": "hepatobiliar",
+  "sub": "Tumores benignos do fígado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "EASL Clinical Practice Guidelines on the management of benign liver tumours, 2016",
+  "coment": "Entre os tumores hepáticos benignos, o adenoma hepatocelular é o que sangra e o único com potencial de transformação maligna. A EASL 2016 associa o risco de sangramento ao tamanho acima de 5 cm, ao subtipo inflamatório e ao uso de estrogênio, e indica ressecção em homens e em lesões que persistem acima de 5 cm. O hemangioma, apesar de vascular, raramente rompe espontaneamente, e a hiperplasia nodular focal não sangra nem degenera.",
+  "porAlt": [
+   "A hiperplasia nodular focal não tem risco relevante de sangramento nem de malignização e dispensa tratamento.",
+   "O hemangioma é vascular, mas a ruptura espontânea é rara mesmo nas lesões grandes.",
+   "O hamartoma biliar é lesão pequena e inerte, sem potencial de sangramento significativo.",
+   "Correta: o adenoma hepatocelular é o tumor benigno com maior risco de sangramento, sobretudo acima de 5 cm.",
+   "Mielolipoma é tumor típico da adrenal e não está entre os tumores benignos com risco de sangramento hepático."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Mulher de 26 anos, previamente hígida, chega ao pronto-socorro com dor abdominal súbita e intensa no quadrante inferior direito, associada a tontura e síncope ao se levantar. Relata atraso menstrual de 6 semanas e sangramento vaginal discreto há 2 dias. Ao exame, encontra-se pálida, sudorética, com PA 80/50 mmHg, FC 122 bpm. O teste de gravidez urinário é positivo. Ultrassonografia transvaginal mostra ausência de saco gestacional intrauterino, líquido livre em fundo de saco e imagem sugestiva de massa anexial direita. Nesse caso, a conduta mais apropriada é",
+  "alts": [
+   "observar clinicamente com hidratação venosa e repetir beta-hCG em 48 horas.",
+   "internar para metotrexato intramuscular e acompanhamento seriado ambulatorial.",
+   "laparoscopia diagnóstica eletiva com biópsia da massa anexial.",
+   "laparotomia de urgência com salpingectomia e controle do sangramento.",
+   "coleta de beta-hCG e alta com retorno ambulatorial para ultrassonografia repetida."
+  ],
+  "gab": 3,
+  "tema": "abdome",
+  "sub": "Dor abdominal na mulher e na gestante",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "ACOG Practice Bulletin nº 193 (gravidez tubária), 2018",
+  "coment": "Teste de gravidez positivo, útero vazio, massa anexial, líquido livre e choque (PA 80/50, FC 122) definem gravidez ectópica rota com hemorragia. O ACOG 2018 indica cirurgia imediata na instabilidade hemodinâmica ou ruptura, com salpingectomia. A laparoscopia pode ser usada por equipe experiente, mas a opção de laparoscopia eletiva com biópsia não serve. Metotrexato e conduta expectante só se aplicam à paciente estável, sem ruptura e com critérios laboratoriais.",
+  "porAlt": [
+   "Observar e repetir o beta-hCG é inaceitável em paciente em choque hemorrágico por ectópica rota.",
+   "Metotrexato exige estabilidade hemodinâmica e ausência de ruptura, o oposto deste caso.",
+   "A cirurgia é de urgência e não eletiva, e o objetivo é controlar o sangramento, não biopsiar a massa.",
+   "Correta: ectópica rota com instabilidade exige cirurgia imediata com salpingectomia e controle do sangramento.",
+   "Dar alta a paciente hipotensa com hemoperitônio provável expõe a risco de morte."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Mulher, 72 anos, na UTI por sepse abdominal, apresenta hipoperfusão persistente. A equipe decide por acesso venoso central para monitorização hemodinâmica e infusão de drogas vasoativas. A veia jugular interna direita é escolhida para punção guiada por ultrassom. A execução da técnica correta para punção da veia jugular interna com menor risco de complicação é",
+  "alts": [
+   "realizar inserção com paciente em posição sentada e cabeça fletida lateralmente.",
+   "puncionar com agulha direcionada para cima, perpendicular ao pescoço.",
+   "localizar a veia medial à artéria carótida comum.",
+   "realizar punção com cabeça levemente rodada para o lado oposto, com o paciente em Trendelenburg.",
+   "realizar a punção no ponto médio da clavícula com agulha em ângulo de 90°."
+  ],
+  "gab": 3,
+  "tema": "critico",
+  "sub": "Medicina intensiva em cirurgia",
+  "cenario": "uti",
+  "comp": "bas",
+  "nivel": "r1",
+  "base": "ASA Practice Guidelines for Central Venous Access, 2020",
+  "coment": "Na punção da veia jugular interna, o paciente fica em Trendelenburg, o que distende a veia e reduz o risco de embolia gasosa, com a cabeça discretamente rodada para o lado oposto. Rotação excessiva sobrepõe a veia à artéria carótida. A veia fica lateral e anterior à carótida, e a ASA 2020 recomenda a punção guiada por ultrassom em tempo real, que confirma a anatomia e reduz punção arterial e pneumotórax.",
+  "porAlt": [
+   "Posição sentada colaba a veia e aumenta o risco de embolia gasosa durante a punção.",
+   "A agulha é direcionada caudalmente, rumo ao mamilo ipsilateral, e não para cima em ângulo perpendicular.",
+   "A veia jugular interna é lateral à artéria carótida comum, não medial a ela.",
+   "Correta: Trendelenburg e leve rotação contralateral da cabeça distendem a veia e expõem a anatomia com segurança.",
+   "Ponto médio da clavícula com agulha a 90 graus não é técnica de punção jugular e arrisca pneumotórax."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "O arco arterial pancreatoduodenal irriga a segunda porção do duodeno e a cabeça do pâncreas. Ele é formado, na grande maioria das pessoas, pela artéria pancreatoduodenal inferior, que é ramo da artéria mesentérica superior, e pela artéria pancreatoduodenal superior, que é ramo direto do(a)",
+  "alts": [
+   "tronco celíaco.",
+   "artéria hepática comum.",
+   "artéria hepática própria.",
+   "artéria gastroduodenal.",
+   "artéria supraduodenal."
+  ],
+  "gab": 3,
+  "tema": "bases",
+  "sub": "Correlações anatômicas e técnico-cirúrgicas",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "As arcadas pancreatoduodenais anterior e posterior unem o tronco celíaco à mesentérica superior. As artérias pancreatoduodenais superiores, anterior e posterior, saem da artéria gastroduodenal, ramo da hepática comum. As inferiores saem da mesentérica superior. Esse conhecimento é decisivo na duodenopancreatectomia, em que a gastroduodenal é ligada, e explica a circulação colateral quando há estenose do tronco celíaco pelo ligamento arqueado.",
+  "porAlt": [
+   "O tronco celíaco dá origem à hepática comum, mas a pancreatoduodenal superior não sai diretamente dele.",
+   "A hepática comum origina a gastroduodenal, e é desta que nasce a pancreatoduodenal superior.",
+   "A hepática própria segue para o hilo hepático e não origina a pancreatoduodenal superior.",
+   "Correta: as artérias pancreatoduodenais superiores são ramos diretos da artéria gastroduodenal.",
+   "A artéria supraduodenal é ramo pequeno que irriga o bulbo e não forma o arco pancreatoduodenal."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Homem de 58 anos é admitido no pronto-socorro após colisão automobilística. Está consciente, mas com sonolência progressiva, fala entrecortada e frequência respiratória de 34 irpm. Gasometria arterial: pH 7,28; PaCO₂ 60 mmHg; PaO₂ 70 mmHg (em ar ambiente); SatO₂ 89%; Glasgow 10. A melhor conduta respiratória imediata para esse paciente é",
+  "alts": [
+   "intubação orotraqueal imediata por rebaixamento do nível de consciência e hipercapnia.",
+   "ventilação com máscara de oxigênio a 5L/min e observação.",
+   "suporte com ventilação não invasiva (VNI) e reavaliação em 30 minutos.",
+   "oxigenoterapia com cateter nasal e sedação leve para agitação.",
+   "solicitar tomografia antes de qualquer medida invasiva."
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Via aérea e ventilação no trauma",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ATLS 11ª ed., 2025",
+  "coment": "O paciente tem insuficiência respiratória hipercápnica (pH 7,28 e PaCO2 60 mmHg), hipoxemia, taquipneia de 34 irpm e rebaixamento progressivo da consciência (Glasgow 10). O ATLS indica via aérea definitiva quando o paciente não consegue manter a ventilação ou a oxigenação adequadas, não apenas quando Glasgow é 8 ou menos. A ventilação não invasiva é contraindicada no rebaixamento de consciência e no trauma com risco de aspiração. A intubação com proteção da coluna cervical não deve esperar a tomografia.",
+  "porAlt": [
+   "Correta: hipercapnia com acidose, hipoxemia e sonolência progressiva indicam via aérea definitiva imediata.",
+   "Máscara a 5 L/min não corrige a hipoventilação e deixa a hipercapnia progredir.",
+   "VNI é contraindicada com rebaixamento de consciência e risco de aspiração no trauma.",
+   "Sedar paciente hipercápnico e sonolento sem via aérea protegida agrava a hipoventilação.",
+   "A via aérea vem antes de qualquer exame de imagem na avaliação primária do trauma."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "Paciente, 45 anos, será submetida à histerectomia total abdominal por conta de miomatose uterina. O antibiótico profilático mais indicado, entre os elencados a seguir, a ser administrado momentos antes da incisão cirúrgica é",
+  "alts": [
+   "ceftriaxone.",
+   "cefuroxima.",
+   "clindamicina.",
+   "cefazolina.",
+   "ciprofloxacino."
+  ],
+  "gab": 3,
+  "tema": "infeccao",
+  "sub": "Antibioticoprofilaxia",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "ASHP/IDSA/SIS/SHEA Clinical practice guidelines for antimicrobial prophylaxis in surgery, 2013; ACOG Practice Bulletin nº 195, 2018",
+  "coment": "Na histerectomia abdominal ou vaginal, a profilaxia recomendada é a cefazolina 2 g IV (3 g acima de 120 kg) nos 60 minutos antes da incisão, segundo a diretriz ASHP/IDSA/SIS/SHEA 2013 e o ACOG 2018. A cefazolina cobre os gram-positivos da pele e os gram-negativos da flora vaginal com espectro estreito. Clindamicina associada a aminoglicosídeo ou quinolona fica para alergia grave a betalactâmicos, e cefalosporinas de terceira geração não são usadas na profilaxia.",
+  "porAlt": [
+   "Ceftriaxona é de terceira geração e de espectro amplo demais para profilaxia, favorecendo resistência.",
+   "Cefuroxima é alternativa em outros cenários, mas a escolha padrão na histerectomia é a cefazolina.",
+   "Clindamicina isolada não cobre gram-negativos e fica para alérgicos, sempre associada a outro agente.",
+   "Correta: cefazolina antes da incisão é a profilaxia de escolha na histerectomia.",
+   "Ciprofloxacino não é primeira escolha e só entra associado em alérgicos a betalactâmicos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2025,
+   "prova": "Pré-requisito em Cirurgia Geral 2025/2026"
+  }
+ },
+ {
+  "q": "O conhecimento sobre os anestésicos locais é de fundamental importância, dado que eles são usados constantemente em pequenas cirurgias e procedimentos que necessitam de anestesia. Nesse contexto, é correto afirmar que:",
+  "alts": [
+   "a mepivacaína é indicada como anestésico local em pacientes com insuficiência hepática;",
+   "a bupivacaína é indicada para procedimentos de pequena duração devido à sua curta meia-vida;",
+   "a lidocaína tem um início de ação lento e é frequentemente usada em bloqueios nervosos de longa duração;",
+   "a prilocaína é contraindicada em pacientes com histórico de doenças hepáticas devido ao risco elevado de toxicidade;",
+   "a ropivacaína tem menor cardiotoxicidade em comparação com a bupivacaína e é adequada para bloqueios nervosos periféricos de longa duração."
+  ],
+  "gab": 4,
+  "tema": "periop",
+  "sub": "Anestesia local e locorregional",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "A ropivacaína é um enantiômero S puro, de longa duração como a bupivacaína, porém com menor afinidade pelos canais de sódio cardíacos e, portanto, menor cardiotoxicidade, o que a torna adequada para bloqueios periféricos prolongados. A lidocaína tem início rápido e duração intermediária. A bupivacaína é de longa duração. Os anestésicos do tipo amida, como a mepivacaína, dependem do metabolismo hepático, e o efeito adverso típico da prilocaína é a metemoglobinemia.",
+  "porAlt": [
+   "A mepivacaína é uma amida metabolizada no fígado e exige cautela, não indicação, na insuficiência hepática.",
+   "A bupivacaína é de longa duração e por isso é usada em procedimentos prolongados, não nos curtos.",
+   "A lidocaína tem início rápido e duração intermediária, não início lento e longa duração.",
+   "O risco característico da prilocaína é a metemoglobinemia, não a toxicidade ligada à doença hepática.",
+   "Correta: a ropivacaína tem menor cardiotoxicidade que a bupivacaína e serve a bloqueios periféricos longos."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Um paciente de 81 anos, com diagnóstico de doença pulmonar obstrutiva crônica e insuficiência cardíaca congestiva, é internado para tratamento de pneumonia. Após alguns dias de tratamento com antibióticos e repouso no leito, ele começa a apresentar distensão abdominal significativa, dor leve e náuseas, mas sem vômitos. Não apresenta sinais clínicos de peritonite aos exames físico e laboratorial. Radiografias do abdômen mostram dilatação importante dos cólons, principalmente no ceco e cólon ascendente, porém sem evidência de obstrução mecânica. Diante desse quadro clínico, o diagnóstico mais provável e a melhor abordagem inicial para o manejo desse paciente são, respectivamente:",
+  "alts": [
+   "síndrome de Ogilvie e tratamento com neostigmina;",
+   "colite pseudomembranosa e tratamento com metronidazol;",
+   "obstrução intestinal por brida e tratamento com cirurgia exploratória;",
+   "volvo de sigmoide e tratamento com sigmoidoscopia descompressiva;",
+   "íleo paralítico e tratamento com reposição de eletrólitos e mobilização precoce."
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Abdome agudo obstrutivo",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ASCRS Clinical Practice Guidelines for colonic volvulus and acute colonic pseudo-obstruction, 2021",
+  "coment": "Idoso internado por doença clínica grave, acamado, com distensão importante do ceco e do cólon direito e sem obstrução mecânica tem pseudo-obstrução colônica aguda (síndrome de Ogilvie). A ASCRS 2021 inicia com medidas de suporte (jejum, descompressão, correção hidroeletrolítica, suspensão de opioides) e indica neostigmina quando o quadro persiste ou o ceco está muito dilatado, com monitorização por risco de bradicardia e broncoespasmo, cuidado relevante aqui por DPOC e insuficiência cardíaca. Entre as opções, só a A tem diagnóstico e tratamento específico corretos.",
+  "porAlt": [
+   "Correta: dilatação colônica sem obstrução mecânica em doente grave é Ogilvie, e a neostigmina é o tratamento farmacológico.",
+   "Colite pseudomembranosa cursa com diarreia e colite, e o tratamento atual é vancomicina oral ou fidaxomicina.",
+   "Não há obstrução mecânica na radiografia, e brida não justifica cirurgia de imediato sem peritonite.",
+   "O volvo de sigmoide dilata o sigmoide em alça fechada, não o ceco e o cólon ascendente.",
+   "Íleo paralítico acomete todo o tubo digestivo; dilatação colônica isolada caracteriza a pseudo-obstrução."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Uma paciente se queixa de boca seca por diminuição da saliva e olhos secos devido à diminuição da produção de lágrimas. Esse quadro clínico é característico da:",
+  "alts": [
+   "síndrome de Williams;",
+   "síndrome de Peutz-Jeghers;",
+   "síndrome de Kleine-Levin;",
+   "síndrome Sjögren;",
+   "síndrome de Down."
+  ],
+  "gab": 3,
+  "tema": "endocrina",
+  "sub": "Glândulas salivares",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACR/EULAR Classification Criteria for Primary Sjögren's Syndrome, 2016",
+  "coment": "Xerostomia e xeroftalmia são a apresentação clássica da síndrome de Sjögren, doença autoimune que infiltra glândulas salivares e lacrimais. Os critérios ACR/EULAR 2016 usam anti-Ro/SSA, biópsia de glândula salivar menor com sialoadenite linfocítica focal, teste de Schirmer, coloração da superfície ocular e fluxo salivar. Para o cirurgião, importa que o Sjögren aumenta parótidas e eleva o risco de linfoma MALT da parótida.",
+  "porAlt": [
+   "A síndrome de Williams é genética, com fácies típica, estenose aórtica supravalvar e hipercalcemia.",
+   "Peutz-Jeghers cursa com pólipos hamartomatosos intestinais e manchas melânicas na mucosa oral.",
+   "Kleine-Levin é distúrbio raro de hipersonia recorrente com hiperfagia, sem relação com secreções.",
+   "Correta: boca seca e olhos secos por hipofunção glandular são a marca da síndrome de Sjögren.",
+   "A síndrome de Down é trissomia do 21 e não se caracteriza por xerostomia e xeroftalmia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Um paciente de 68 anos queixa-se de dor abdominal intermitente e perda de peso inexplicada. Apresenta anemia ferropriva. Ele relata um histórico de síndrome do intestino irritável, mas observou um aumento na frequência e na gravidade dos sintomas nos últimos quatro meses. O exame físico revela uma massa palpável, com certa mobilidade, no quadrante inferior direito do abdômen. Diante desse quadro clínico, a hipótese diagnóstica principal é:",
+  "alts": [
+   "doença celíaca;",
+   "síndrome do intestino irritável;",
+   "tumor carcinoide do intestino delgado;",
+   "adenocarcinoma do intestino delgado;",
+   "doença de Crohn."
+  ],
+  "gab": 3,
+  "tema": "intestino",
+  "sub": "Tumores do delgado",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "Idoso com dor abdominal intermitente, perda ponderal, anemia ferropriva e massa móvel palpável sugere neoplasia intestinal com sangramento oculto. Entre as opções, o adenocarcinoma do delgado é a que explica anemia por perda crônica, emagrecimento e massa. O tumor carcinoide (neuroendócrino), embora frequente no íleo, costuma dar dor e obstrução intermitentes por fibrose mesentérica e raramente anemia. Na prática, o primeiro diagnóstico a afastar seria o câncer de cólon direito, que não está entre as opções. A queixa antiga de intestino irritável não explica sinais de alarme.",
+  "porAlt": [
+   "Doença celíaca causa anemia e emagrecimento, mas não massa abdominal palpável em idoso.",
+   "Perda de peso, anemia e massa palpável são sinais de alarme que afastam o diagnóstico funcional.",
+   "O carcinoide do delgado causa mais dor obstrutiva por fibrose mesentérica e raramente anemia ferropriva.",
+   "Correta: anemia ferropriva por sangramento oculto, emagrecimento e massa favorecem adenocarcinoma do delgado.",
+   "Crohn pode dar massa em fossa ilíaca direita, mas o início aos 68 anos com sinais de alarme favorece neoplasia."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Um paciente de 65 anos apresenta icterícia progressiva, perda de peso significativa e dor abdominal. Uma tomografia computadorizada revela uma massa na cabeça do pâncreas de 3 cm, sem evidência de metástases à distância. A colangiopancreatografia por ressonância magnética mostra dilatação do ducto biliar comum e do ducto pancreático. Os exames laboratoriais indicam elevação das bilirrubinas. Os marcadores tumorais (CA 19-9) estão elevados. A melhor opção de tratamento para esse paciente é:",
+  "alts": [
+   "procedimento de Whipple;",
+   "quimioterapia neoadjuvante seguida de ressecção pancreática;",
+   "terapia de suporte com stent biliar e manejo clínico dos sintomas;",
+   "radioterapia exclusiva;",
+   "procedimento de Puestow."
+  ],
+  "gab": 0,
+  "tema": "pancreas",
+  "sub": "Adenocarcinoma de pâncreas",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESMO Clinical Practice Guideline Pancreatic Cancer, 2023; NCCN Guidelines Pancreatic Adenocarcinoma, 2025",
+  "coment": "Massa de 3 cm na cabeça do pâncreas, sem metástases e sem descrição de contato vascular, é tratada como ressecável, e a cirurgia padrão é a duodenopancreatectomia (Whipple) seguida de quimioterapia adjuvante (mFOLFIRINOX). Controvérsia: o NCCN admite quimioterapia neoadjuvante na doença ressecável com fatores de alto risco, como CA 19-9 muito elevado e perda de peso importante, ambos presentes. Como a ESMO 2023 mantém a cirurgia inicial como padrão fora de estudo, o gabarito é defensável. Puestow é derivação para pancreatite crônica.",
+  "porAlt": [
+   "Correta: tumor de cabeça de pâncreas ressecável e sem metástases é operado por duodenopancreatectomia, seguida de adjuvância.",
+   "Neoadjuvância é opção em casos selecionados de alto risco e padrão no limítrofe, não a regra para o ressecável.",
+   "Stent e manejo clínico são paliativos e só se aplicam a quem não tem doença ressecável ou condição cirúrgica.",
+   "Radioterapia exclusiva não é tratamento curativo do adenocarcinoma pancreático ressecável.",
+   "O procedimento de Puestow é pancreatojejunostomia lateral para pancreatite crônica, não cirurgia oncológica."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Uma mulher de 39 anos chega ao ambulatório com queixa de dificuldade para engolir, inicialmente apenas para sólidos, mas agora também para líquidos, que vem se agravando progressivamente nos últimos 8 meses. Ela também relata perda de peso significativa de mais de 10 kg e episódios de regurgitação de alimentos não digeridos. Não há histórico de doenças crônicas ou cirurgia prévia. No exame físico, o estado geral é bom, mas com perda ponderal evidente. A endoscopia digestiva alta revela retenção de alimentos no esôfago, sem evidências de estenose ou massa. A manometria esofágica mostra aperistalse no corpo do esôfago e ausência de relaxamento do esfíncter esofágico inferior durante a deglutição. Diante desse quadro clínico, o diagnóstico mais provável para essa paciente é:",
+  "alts": [
+   "esofagite eosinofílica;",
+   "carcinoma esofágico;",
+   "doença do refluxo gastroesofágico;",
+   "acalasia;",
+   "estenose esofágica."
+  ],
+  "gab": 3,
+  "tema": "esofago",
+  "sub": "Acalasia e distúrbios motores",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ACG Clinical Guideline: Diagnosis and Management of Achalasia, 2020; Classificação de Chicago v4.0, 2021",
+  "coment": "Disfagia progressiva para sólidos e líquidos, regurgitação de alimento não digerido e perda ponderal, com endoscopia mostrando estase sem estenose ou massa, sugerem acalasia. A manometria confirma: aperistalse do corpo esofágico e relaxamento incompleto do esfíncter inferior, critério central da Classificação de Chicago v4.0. A ACG 2020 exige endoscopia para afastar pseudoacalasia por neoplasia, sobretudo com emagrecimento importante, o que foi feito aqui.",
+  "porAlt": [
+   "Esofagite eosinofílica causa disfagia e impactação, mas tem peristalse e relaxamento esfincteriano preservados.",
+   "O carcinoma esofágico apareceria como massa ou estenose na endoscopia, ausente neste caso.",
+   "A DRGE causa pirose e regurgitação ácida, não aperistalse com relaxamento ausente do esfíncter.",
+   "Correta: aperistalse e ausência de relaxamento do esfíncter inferior na manometria definem acalasia.",
+   "Estenose esofágica seria vista na endoscopia, que não mostrou estreitamento."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Uma mulher de 86 anos apresenta úlcera sacra de cerca de 5 cm no maior diâmetro, com exposição do tecido celular subcutâneo, porém sem sinais de infecção e/ou necrose. Apresenta bastante secreção serosa e está sem odor. O tratamento mais indicado neste momento é:",
+  "alts": [
+   "filme transparente;",
+   "placa de hidrocoloide;",
+   "alginato de cálcio;",
+   "colagenase;",
+   "desbridamento cirúrgico."
+  ],
+  "gab": 2,
+  "tema": "bases",
+  "sub": "Cicatrização e cuidados com a ferida",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "NPIAP/EPUAP/PPPIA Prevention and Treatment of Pressure Ulcers/Injuries: Clinical Practice Guideline, 2019",
+  "coment": "Lesão por pressão sacral com exposição do subcutâneo é estágio 3. Sem necrose ou infecção, o objetivo é manter o leito úmido e controlar o exsudato. Com secreção serosa abundante, a cobertura indicada é o alginato de cálcio, que absorve grande volume e forma gel, como recomendam as diretrizes internacionais de 2019. Hidrocoloide e filme servem a feridas com pouco exsudato, a colagenase é desbridante enzimático e o desbridamento cirúrgico fica para tecido necrótico.",
+  "porAlt": [
+   "Filme transparente não absorve exsudato e serve para proteção ou feridas superficiais secas.",
+   "Hidrocoloide é para pouco a moderado exsudato; com muita secreção ele satura e macera a pele.",
+   "Correta: alginato de cálcio absorve exsudato abundante e mantém meio úmido na lesão estágio 3 limpa.",
+   "Colagenase é desbridante enzimático, indicado quando há tecido desvitalizado, ausente aqui.",
+   "Desbridamento cirúrgico só se indica com necrose ou infecção, que a lesão não apresenta."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Um paciente de 62 anos, queixando-se de dor em andar superior do abdômen, realizou tomografia com contraste que mostrou lesão de 3 cm entre o corpo e a cabeça do pâncreas, com envolvimento de segmento (1 cm) da veia mesentérica superior (90° anterolateral). O exame não mostrou metástases nodais e à distância. Foi realizada ultrassonografia endoscópica com punção da lesão pancreática via transgástrica, cuja citologia foi de adenocarcinoma ductal, com presença de células em “anel de sinete”. A próxima conduta nesse caso é:",
+  "alts": [
+   "quimioradioterapia paliativa;",
+   "quimioradioterapia neoadjuvante;",
+   "gastroenteroanastomose paliativa;",
+   "mesopancreatectomia;",
+   "gastroduodenopancreatectomia."
+  ],
+  "gab": 1,
+  "tema": "pancreas",
+  "sub": "Adenocarcinoma de pâncreas",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "NCCN Guidelines Pancreatic Adenocarcinoma, 2025; ESMO Clinical Practice Guideline Pancreatic Cancer, 2023",
+  "coment": "Adenocarcinoma ductal com envolvimento de segmento de 1 cm da veia mesentérica superior, sem metástases, é tratado como doença limítrofe (borderline), cujo padrão é a terapia neoadjuvante seguida de reestadiamento e ressecção. O NCCN classifica como limítrofe o contato venoso acima de 180 graus ou de até 180 graus com irregularidade de contorno ou trombose, e o termo envolvimento sugere comprometimento da parede. Controvérsia: se fosse só contato de 90 graus sem deformidade, o NCCN o chamaria de ressecável. A histologia em anel de sinete, agressiva, reforça a neoadjuvância.",
+  "porAlt": [
+   "Tratamento paliativo pressupõe doença metastática ou irressecável, que não foi demonstrada.",
+   "Correta: envolvimento venoso caracteriza doença limítrofe, e o padrão é neoadjuvância antes da ressecção.",
+   "Gastroenteroanastomose paliativa só se indica na obstrução duodenal em doença não ressecável.",
+   "Pancreatectomia central serve a lesões benignas ou de baixo grau do colo, não a adenocarcinoma com envolvimento venoso.",
+   "Operar de início um tumor com envolvimento da veia aumenta o risco de margem positiva; a neoadjuvância vem antes."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Uma paciente de 56 anos foi submetida a colecistectomia eletiva por doença calculosa biliar. Após 15 dias, saiu o resultado do exame histopatológico mostrando adenocarcinoma de vesícula, com extensão até o tecido conectivo perimuscular, sem invasão da camada serosa. Não havendo, no estadiamento clínico, evidência de metástases à distância, a melhor proposta terapêutica é:",
+  "alts": [
+   "observação clínica, pois a colecistectomia é o suficiente;",
+   "ressecção do leito hepático somente (cirurgia de Fain);",
+   "ressecção dos segmentos IVB e V, com linfadenectomia;",
+   "hepatectomia direita alargada com linfadenectomia;",
+   "quimioterapia e radioterapia adjuvantes somente."
+  ],
+  "gab": 2,
+  "tema": "hepatobiliar",
+  "sub": "Câncer de vesícula e colangiocarcinoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESMO Clinical Practice Guideline Biliary Tract Cancer, 2023; AJCC 8ª ed., 2017",
+  "coment": "Invasão do tecido conjuntivo perimuscular sem atingir a serosa é T2 pelo AJCC 8ª edição. No câncer incidental de vesícula T1b ou mais, a diretriz indica reoperação com ressecção hepática do leito (segmentos IVb e V) e linfadenectomia do ligamento hepatoduodenal, pois há doença residual frequente e ganho de sobrevida. Só o T1a, restrito à lâmina própria, é tratado com colecistectomia isolada. Hepatectomia direita alargada não acrescenta benefício quando a margem é obtida com a ressecção dos segmentos IVb e V.",
+  "porAlt": [
+   "Colecistectomia isolada só basta no T1a; no T2 há risco alto de doença residual no fígado e nos linfonodos.",
+   "Ressecar o leito sem linfadenectomia deixa sem tratamento e sem estadiamento os linfonodos regionais.",
+   "Correta: no T2 incidental indica-se ressecção dos segmentos IVb e V com linfadenectomia regional.",
+   "Hepatectomia direita alargada aumenta a morbidade sem ganho oncológico quando a ressecção menor dá margem livre.",
+   "Quimioterapia e radioterapia isoladas não substituem a reoperação curativa no T2 ressecável."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Um paciente de 70 anos apresenta quadro de pancreatite aguda grave. Nota-se, além de distensão abdominal, a presença de equimose na região periumbilical. O nome desse sinal semiológico é sinal de:",
+  "alts": [
+   "Cullen;",
+   "Grey-Turner;",
+   "Rovsing;",
+   "Lenander;",
+   "Jobert."
+  ],
+  "gab": 0,
+  "tema": "pancreas",
+  "sub": "Pancreatite aguda",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "Equimose periumbilical na pancreatite aguda é o sinal de Cullen, causado pela dissecção do exsudato hemorrágico retroperitoneal pelo ligamento falciforme até a cicatriz umbilical. O sinal de Grey-Turner é a equimose em flancos. Ambos indicam pancreatite necro-hemorrágica e se associam a maior gravidade, mas são tardios e pouco sensíveis.",
+  "porAlt": [
+   "Correta: equimose periumbilical é o sinal de Cullen.",
+   "Grey-Turner é a equimose nos flancos, não na região periumbilical.",
+   "Rovsing é dor na fossa ilíaca direita à compressão da esquerda, sinal de apendicite.",
+   "Lenander é a diferença de temperatura axilar e retal, também descrita na apendicite.",
+   "Jobert é o timpanismo na área hepática, sinal de pneumoperitônio."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Uma paciente de 59 anos, diabética, hipertensa e dislipidêmica, em uso de metformina, rosuvastatina e captopril, relata também uso de escitalopram e clonazepam para tratamento de transtorno de ansiedade. Encontra-se em pré-operatório de colecistectomia eletiva. A medicação de uso regular da paciente que deve ser suspensa em até 48 horas do procedimento é:",
+  "alts": [
+   "metformina;",
+   "rosuvastatina;",
+   "captopril;",
+   "escitalopram;",
+   "clonazepam."
+  ],
+  "gab": 0,
+  "tema": "periop",
+  "sub": "Avaliação do risco cirúrgico",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r1",
+  "base": "ADA Standards of Care in Diabetes, 2025; ACC/AHA Guideline for Perioperative Cardiovascular Management for Noncardiac Surgery, 2024",
+  "coment": "A metformina deve ser suspensa antes da cirurgia pelo risco de acidose lática na hipoperfusão, no uso de contraste e na lesão renal aguda perioperatória. Textos clássicos falavam em 48 horas; a ADA atual recomenda suspender no dia da cirurgia, o que cabe no enunciado. Estatina, ISRS e benzodiazepínico devem ser mantidos, pois a suspensão traz rebote ou abstinência. O IECA tem conduta individualizada: a diretriz ACC/AHA 2024 aceita omitir na manhã da cirurgia para reduzir hipotensão, mas não é a suspensão obrigatória que a questão pede.",
+  "porAlt": [
+   "Correta: a metformina é suspensa no período pré-operatório pelo risco de acidose lática.",
+   "A rosuvastatina deve ser mantida, pois a estatina tem efeito protetor cardiovascular perioperatório.",
+   "O captopril pode ser omitido na manhã da cirurgia em alguns protocolos, mas não é a suspensão obrigatória pedida.",
+   "O escitalopram deve ser mantido para evitar síndrome de descontinuação e piora da ansiedade.",
+   "O clonazepam deve ser mantido para evitar abstinência de benzodiazepínico."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "No que diz respeito às fístulas anorretais, é correto afirmar que:",
+  "alts": [
+   "cerca de 50% dos pacientes que tiveram abscessos anorretais drenados irão desenvolver uma fístula;",
+   "as fístulas anteriores, segundo a regra de Goodsall, têm um trajeto curvado, enquanto as posteriores têm trajeto retilíneo;",
+   "as fístulas extraesfincterianas são as mais comuns, e são tratadas com esfincterotomia lateral;",
+   "fístulas transesfinctéricas altas, que envolvem uma grande quantidade de músculo, são mais bem tratadas com fistulotomia;",
+   "o uso de fio (seton) só está indicado em fístulas interesfinctéricas simples."
+  ],
+  "gab": 0,
+  "tema": "intestino",
+  "sub": "Doenças orificiais",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ASCRS Clinical Practice Guidelines for anorectal abscess, fistula-in-ano and rectovaginal fistula, 2022",
+  "coment": "A fístula anal aparece em grande parte dos abscessos anorretais: a diretriz da ASCRS 2022 descreve fístula associada em 30% a 70% dos casos, e a cifra de cerca de metade, usada na alternativa, é a referência clássica. Pela regra de Goodsall, orifícios anteriores à linha transversa têm trajeto reto e radial, e os posteriores, curvo até a linha média posterior. As fístulas mais comuns são as interesfinctéricas, e as transesfinctéricas altas não devem ser tratadas com fistulotomia pelo risco de incontinência; usam-se seton, LIFT ou retalho de avanço.",
+  "porAlt": [
+   "Correta: cerca de metade dos abscessos anorretais drenados está associada a fístula ou evolui para ela.",
+   "A regra de Goodsall é o inverso: fístulas anteriores são retilíneas e as posteriores, curvas.",
+   "As mais comuns são as interesfinctéricas, e esfincterotomia lateral é tratamento de fissura, não de fístula.",
+   "Fistulotomia em fístula transesfinctérica alta secciona muito esfíncter e causa incontinência.",
+   "O seton é usado justamente nas fístulas complexas e altas, e não só nas interesfinctéricas simples."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Um paciente de 45 anos, com 70 kg, foi submetido a esofagectomia toracolaparoscópica sem intercorrências e mantido em dieta zero no primeiro dia de pós-operatório. O aporte hidroeletrolítico mais adequado para esse paciente em 24 horas é de:",
+  "alts": [
+   "2.200 mL de soro fisiológico a 0,9%;",
+   "2.500 mL de soro glicosado a 5%;",
+   "4.000 mL de ringer lactato;",
+   "1.200 mL de soro fisiológico a 0,9%;",
+   "2.100 mL de ringer lactato."
+  ],
+  "gab": 4,
+  "tema": "bases",
+  "sub": "Equilíbrio hidroeletrolítico e ácido-base",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ERAS Society guidelines for perioperative care in esophagectomy, 2019; NICE CG174 Intravenous fluid therapy in adults, 2013 (atualizada 2017)",
+  "coment": "A manutenção hídrica do adulto é de 25 a 30 mL/kg/dia, ou seja, cerca de 1.750 a 2.100 mL para 70 kg (NICE CG174). Na esofagectomia, as diretrizes ERAS de 2019 recomendam reposição restritiva e guiada por metas, com cristaloide balanceado, porque o excesso de volume aumenta complicações pulmonares e de anastomose. Por isso, 2.100 mL de Ringer lactato é a melhor opção. Soro fisiológico em volume alto causa acidose hiperclorêmica, e o glicosado isolado é hipotônico.",
+  "porAlt": [
+   "Soro fisiológico em volume de manutenção causa sobrecarga de cloro e acidose hiperclorêmica.",
+   "Soro glicosado a 5% isolado não fornece sódio e predispõe a hiponatremia.",
+   "Quatro litros em 24 horas é sobrecarga hídrica que eleva complicações pulmonares e de anastomose.",
+   "1.200 mL ficam abaixo da necessidade basal de 25 a 30 mL/kg/dia para 70 kg.",
+   "Correta: cerca de 30 mL/kg/dia de cristaloide balanceado atende a manutenção com reposição restritiva."
+  ],
+  "fonte": {
+   "banca": "ENARE (EBSERH/FGV)",
+   "ano": 2024,
+   "prova": "Pré-requisito em Cirurgia Geral 2024/2025"
+  }
+ },
+ {
+  "q": "Mulher, 35 anos de idade, procura o ambulatório com queixa de dor na região lombar inferior direita. A dor iniciou-se há cerca de dois meses após levantar um objeto pesado. É descrita como contínua e latejante, piorando ao se inclinar para a frente ou levantar objetos. Ao exame físico, apresentou sensibilidade localizada na área do triângulo lombar inferior, associada a abaulamento redutível, sem sinais de encarceramento ou estrangulamento. Qual é o tipo de hérnia mais provável desta paciente?",
+  "alts": [
+   "Spiegel.",
+   "Grynfelt-Lesshaft.",
+   "Obturatória.",
+   "Petit."
+  ],
+  "gab": 3,
+  "tema": "hernias",
+  "sub": "Hérnias raras",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "As hérnias lombares surgem em dois triângulos. O triângulo lombar inferior (de Petit) é limitado pela crista ilíaca, pela borda do grande dorsal e pela borda do oblíquo externo, e a hérnia nele é a de Petit. O triângulo lombar superior (de Grynfelt-Lesshaft), mais comum para hérnias, é limitado pela 12ª costela, pelo quadrado lombar e pelo oblíquo interno. A paciente tem abaulamento redutível no triângulo inferior.",
+  "porAlt": [
+   "A hérnia de Spiegel ocorre na linha semilunar da parede anterolateral, não na região lombar.",
+   "Grynfelt-Lesshaft é a hérnia do triângulo lombar superior, abaixo da 12ª costela.",
+   "A hérnia obturatória ocorre no forame obturado da pelve e dá dor na face medial da coxa.",
+   "Correta: abaulamento no triângulo lombar inferior corresponde à hérnia de Petit."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Mulher, 55 anos de idade, comparece no consultório com queixa de dor abdominal há vários meses. Descreve a dor como localizada na região da linha arqueada perto da borda lateral do músculo reto do abdome. A dor é intermitente, mas tem se tornado mais frequente e intensa nas últimas semanas. Piora com a atividade física e melhora com o repouso. No exame físico, observa-se e palpa-se protuberância na região da linha arqueada direita que aumenta de tamanho quando a paciente tosse ou faz manobra de Valsalva. Com suspeita de hérnia, decide-se solicitar exame para confirmar o diagnóstico. A ultrassonografia abdominal revela hérnia de Spiegel, caracterizada por protrusão de conteúdo abdominal através do espaço semilunar entre as fibras do músculo reto do abdome e a aponeurose lateral. A paciente está clinicamente estável e não apresenta sinais de estrangulamento ou obstrução intestinal. No tratamento cirúrgico desta condição, qual é o plano ideal para colocação da tela?",
+  "alts": [
+   "Pré-peritoneal.",
+   "Pré-aponeurótico, sobre a aponeurose anterior do músculo reto do abdome e do músculo oblíquo externo.",
+   "Intermuscular, entre o músculo oblíquo externo e o músculo oblíquo interno.",
+   "Intermuscular, entre o músculo oblíquo interno e o músculo transverso."
+  ],
+  "gab": 0,
+  "tema": "hernias",
+  "sub": "Hérnias raras",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "A hérnia de Spiegel atravessa a fáscia de Spiegel, em geral na altura da linha arqueada, e fica sob a aponeurose íntegra do oblíquo externo, por isso é chamada de interparietal. A correção com tela é a regra, e o plano ideal é o pré-peritoneal, por via laparoscópica (TAPP ou TEP) ou aberta. Nesse plano a tela cobre o defeito profundo com ampla sobreposição e fica protegida da pele e do contato visceral.",
+  "porAlt": [
+   "Correta: a tela pré-peritoneal cobre o defeito profundo da fáscia de Spiegel com boa sobreposição.",
+   "A tela pré-aponeurótica fica longe do defeito, que é profundo ao oblíquo externo, e tem mais seroma.",
+   "Entre os oblíquos externo e interno a tela fica no espaço do saco herniário, sem cobrir o defeito profundo.",
+   "O plano entre oblíquo interno e transverso é estreito, de dissecção difícil e não é o padrão."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Em relação à gastrectomia laparoscópica para o tratamento do adenocarcinoma gástrico, é correto afirmar:",
+  "alts": [
+   "Não existem evidências de alto nível que permitam recomendar seu uso fora de protocolos de pesquisa.",
+   "Pode ser recomendada nas lesões distais avançadas cT4a.",
+   "Está consagrada pelo uso e deve ser a via preferencial.",
+   "Está em desuso, sendo substituída pela via robótica."
+  ],
+  "gab": 1,
+  "tema": "esofago",
+  "sub": "Câncer gástrico",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Ensaios CLASS-01 (JAMA, 2019) e KLASS-02 (J Clin Oncol, 2020); Japanese Gastric Cancer Treatment Guidelines, 6ª ed., 2021",
+  "coment": "Os ensaios randomizados CLASS-01, na China, e KLASS-02, na Coreia, incluíram câncer gástrico distal localmente avançado (cT2 a cT4a) e mostraram que a gastrectomia distal laparoscópica com D2, feita por cirurgiões experientes, não é inferior à aberta em sobrevida livre de doença em 3 anos, com recuperação mais rápida. Por isso ela pode ser recomendada em lesões distais avançadas, inclusive cT4a. Ainda não é a via obrigatória, e a robótica não a substituiu.",
+  "porAlt": [
+   "Já existem ensaios randomizados de alto nível, como KLASS-01, KLASS-02 e CLASS-01, que apoiam seu uso.",
+   "Correta: CLASS-01 e KLASS-02 apoiam a gastrectomia distal laparoscópica em tumores avançados até cT4a.",
+   "É uma opção validada em centros experientes, mas não a via preferencial obrigatória para todos os casos.",
+   "A via robótica é alternativa em estudo e não tornou a laparoscopia obsoleta."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Homem, 63 anos de idade, no 7º dia pós-operatório de esplenectomia por suspeita de linfoma B de zona marginal esplênico. Retorna ao hospital com dor abdominal há 1 dia e febre sem calafrios. Ao exame físico, apresenta-se febril (Temp. de 38,2 °C), PA de 110x80 mmHg, FC de 96 bpm, abdome doloroso à palpação em hipocôndrio esquerdo, sem descompressão brusca. Realizou tomografia de abdome que mostrou coleção em topografia esplênica com volume aproximado de 70 mL. Qual a principal hipótese diagnóstica e conduta terapêutica para o paciente?",
+  "alts": [
+   "Fístula pancreática, antibioticoterapia e drenagem da coleção por radiointervenção.",
+   "Sepse pós-esplenectomia, antibioticoterapia com coberturas para bactérias encapsuladas.",
+   "Trombose da veia porta com hematoma infectado em loja esplênica, antibioticoterapia e laparoscopia diagnóstica.",
+   "Fístula entérica, antibioticoterapia e laparotomia exploradora."
+  ],
+  "gab": 0,
+  "tema": "complic",
+  "sub": "Fístulas digestivas",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ISGPS, definição e graduação da fístula pancreática pós-operatória, 2016",
+  "coment": "Febre, dor no hipocôndrio esquerdo e coleção na loja esplênica no 7º dia após esplenectomia sugerem fístula pancreática por lesão da cauda do pâncreas, complicação típica da ligadura do hilo esplênico. Em paciente estável, a conduta é antibiótico e drenagem percutânea guiada por imagem, com dosagem de amilase no líquido para confirmar (critério ISGPS: amilase acima de 3 vezes o valor sérico). A sepse pós-esplenectomia por germes encapsulados é fulminante e não forma coleção localizada.",
+  "porAlt": [
+   "Correta: coleção na loja esplênica após esplenectomia sugere fístula de cauda pancreática, tratada com antibiótico e drenagem percutânea.",
+   "A sepse fulminante pós-esplenectomia é bacteremia grave e tardia, sem coleção localizada na loja.",
+   "Trombose portal causa dor e febre, mas não explica coleção, e laparoscopia não é a primeira escolha em paciente estável.",
+   "Fístula entérica não é complicação típica da esplenectomia, e laparotomia é excessiva em paciente estável."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Mulher, 45 anos de idade, submetida à colecistectomia com colangiografia eletiva por calculose não complicada da vesícula biliar há 14 dias. Procedimento sem intercorrências. No 6º dia pós-operatório, procurou pronto-socorro com dor abdominal difusa. Submetida à laparoscopia diagnóstica com achado de coleperitôneo devido à perda de ligadura do ducto cístico. Realizada limpeza do sítio cirúrgico, rafia do ducto cístico e drenagem da cavidade. Atualmente no 8º PO, paciente encontra-se em bom estado geral, com exames laboratoriais normais, porém apresenta débito de 240 mL de bile pelo dreno abdominal. Em relação ao caso apresentado, qual a melhor conduta nesse momento?",
+  "alts": [
+   "CPRE com passagem de prótese biliar.",
+   "Laparoscopia, ressutura da via biliar e drenagem da cavidade.",
+   "Anastomose biliodigestiva.",
+   "Drenagem transparietohepática da via biliar."
+  ],
+  "gab": 0,
+  "tema": "hepatobiliar",
+  "sub": "Lesão iatrogênica da via biliar",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "WSES guidelines (lesão de via biliar na colecistectomia), 2020",
+  "coment": "Persistência de débito biliar de 240 mL/dia após reabordagem do coto do ducto cístico, em paciente estável e com a cavidade drenada, é fístula biliar de baixa complexidade (Strasberg A). A WSES 2020 indica CPRE com esfincterotomia e prótese biliar, que reduz o gradiente de pressão transpapilar e desvia a bile para o duodeno, com fechamento em mais de 90% dos casos. Nova cirurgia e anastomose biliodigestiva ficam para lesões da via biliar principal.",
+  "porAlt": [
+   "Correta: fístula do coto cístico com drenagem adequada fecha com CPRE e prótese biliar.",
+   "Nova laparoscopia para ressutura expõe a mais uma cirurgia quando o tratamento endoscópico resolve.",
+   "Anastomose biliodigestiva serve a secção ou estenose da via biliar principal, não a fístula do cístico.",
+   "Drenagem trans-hepática é alternativa quando a CPRE falha ou não é possível, não a primeira escolha."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Paciente do sexo masculino, 55 anos de idade e sobrepeso, apresenta-se com sintomas de fadiga, diminuição da libido e disfunção erétil. O mesmo compareceu em consulta médica, pois tem amigos que recomendaram o uso de reposição de testosterona. Em relação ao diagnóstico de hipogonadismo, assinale a alternativa correta.",
+  "alts": [
+   "Os sintomas são altamente específicos para deficiência de testosterona e os exames laboratoriais têm pouca importância no diagnóstico nessa faixa etária.",
+   "A elevação dos níveis de testosterona é benéfica, podendo ser iniciada mesmo sem clareza de sintomas e/ou dosagem laboratorial, uma vez que seu uso promove bem-estar aos homens.",
+   "A elevação dos níveis de testosterona é arriscada, devendo ser evitada. O tratamento com atividade física e perda de peso deve ser a conduta em homens pelos riscos cardiovasculares.",
+   "A dosagem de testosterona total deve ser realizada e repetida para um diagnóstico formal de deficiência hormonal, por mais sugestivos que forem os sintomas."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Urologia cirúrgica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "AUA Guideline: Evaluation and Management of Testosterone Deficiency, 2018",
+  "coment": "Fadiga, queda de libido e disfunção erétil são inespecíficos e comuns no homem com sobrepeso. A AUA 2018 exige, para o diagnóstico de deficiência de testosterona, sintomas compatíveis e testosterona total baixa (abaixo de 300 ng/dL) em duas dosagens, colhidas pela manhã. Sem confirmação laboratorial não se inicia reposição. A perda de peso e a atividade física ajudam, mas a reposição é indicada quando o diagnóstico está confirmado.",
+  "porAlt": [
+   "Os sintomas são inespecíficos, e a dosagem laboratorial é obrigatória para o diagnóstico.",
+   "Repor testosterona sem diagnóstico confirmado é contraindicado e expõe a eritrocitose e infertilidade.",
+   "A reposição não deve ser evitada em todos; é indicada quando a deficiência é confirmada.",
+   "Correta: o diagnóstico exige testosterona total baixa em duas dosagens matinais, por mais sugestivos que sejam os sintomas."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Qual o fator comum que enxertos de pele, enxertos de gordura e enxertos ósseos apresentam e que está diretamente associado à taxa de integração dos mesmos?",
+  "alts": [
+   "Características adequadas do leito receptor.",
+   "Espessura do enxerto.",
+   "Fixação do enxerto.",
+   "Localização anatômica."
+  ],
+  "gab": 0,
+  "tema": "onco",
+  "sub": "Bases da cirurgia plástica",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "Enxerto é tecido transferido sem pedículo vascular próprio, que depende do leito receptor para sobreviver: primeiro por embebição plasmática, depois por inosculação e neovascularização. Isso vale para pele, gordura e osso. Por isso o fator comum decisivo para a integração é um leito bem vascularizado, sem infecção, hematoma ou seroma. Osso exposto sem periósteo, tendão sem paratendão e área irradiada aceitam mal enxertos. Espessura, fixação e localização influenciam, mas de forma secundária e variável entre os tipos.",
+  "porAlt": [
+   "Correta: todo enxerto depende da vascularização do leito receptor para integrar.",
+   "A espessura influencia a pega do enxerto de pele, mas não é o fator comum aos três tipos.",
+   "A fixação evita cisalhamento, mas sem leito viável o enxerto não integra.",
+   "A localização importa pela qualidade do leito, não por si mesma."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Paciente, 27 anos de idade, apresenta o segundo episódio de pneumotórax espontâneo de pequeno volume relacionado ao período menstrual. Foi tratada conservadoramente. Quais etiologias devem ser consideradas, além de pneumotórax espontâneo primário?",
+  "alts": [
+   "Pneumotórax secundário a sequestro pulmonar e pneumotórax catamenial.",
+   "Pneumotórax relacionado a DPOC e linfangioleiomiomatose.",
+   "Linfangioleiomiomatose e pneumotórax secundário a sequestro pulmonar.",
+   "Pneumotórax catamenial e linfangioleiomiomatose."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Bases da cirurgia torácica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "BTS Guideline for Pleural Disease, 2023",
+  "coment": "Pneumotórax recorrente em mulher jovem relacionado à menstruação sugere pneumotórax catamenial, ligado à endometriose torácica e a fenestrações diafragmáticas, em geral à direita. Outro diagnóstico a considerar em mulher em idade fértil com pneumotórax de repetição é a linfangioleiomiomatose, doença cística pulmonar que pode piorar com estrogênio. A investigação inclui TC de tórax de alta resolução, e a BTS 2023 lembra essas causas secundárias no pneumotórax de repetição.",
+  "porAlt": [
+   "Sequestro pulmonar é malformação que causa infecções de repetição, e não pneumotórax catamenial.",
+   "DPOC não é esperada aos 27 anos e não explica a relação com a menstruação.",
+   "A linfangioleiomiomatose entra no diferencial, mas o sequestro pulmonar não.",
+   "Correta: pneumotórax catamenial e linfangioleiomiomatose são as causas a considerar nessa mulher jovem."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Com relação ao aneurisma de aorta abdominal na urgência, assinale a alternativa correta.",
+  "alts": [
+   "O sexo feminino apresenta maior risco de rotura.",
+   "A oclusão da artéria hipogástrica esquerda não aumenta o risco de colite isquêmica.",
+   "A rotura da aorta abdominal, geralmente, ocorre para o interior do peritônio.",
+   "A correção endovascular tem baixa aplicabilidade na emergência."
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Aneurisma de aorta",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "ESVS Clinical Practice Guidelines on the Management of Abdominal Aorto-iliac Artery Aneurysms, 2024",
+  "coment": "As mulheres têm risco de rotura cerca de quatro vezes maior que os homens para o mesmo diâmetro de aneurisma, o que a ESVS 2024 considera ao discutir limiares de tratamento. A rotura ocorre mais para o retroperitônio, à esquerda e posterior, o que tampona temporariamente e permite chegada ao hospital; a rotura livre para o peritônio costuma ser fatal. O reparo endovascular é preferido na rotura quando a anatomia permite. A oclusão de artéria hipogástrica aumenta o risco de colite isquêmica e claudicação glútea.",
+  "porAlt": [
+   "Correta: o sexo feminino tem maior risco de rotura do aneurisma para um mesmo diâmetro.",
+   "Ocluir a hipogástrica reduz o fluxo colateral para o sigmoide e aumenta o risco de colite isquêmica.",
+   "A rotura costuma ser retroperitoneal, o que tampona o sangramento; a intraperitoneal é menos frequente e mais letal.",
+   "O reparo endovascular é preferido na rotura quando a anatomia é favorável, com menor mortalidade precoce."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Em relação ao hipertireoidismo, assinale a alternativa correta.",
+  "alts": [
+   "O tratamento ablativo com iodo radioativo conduz, na maioria dos casos, ao eutireoidismo. É o tratamento preconizado para portadores de Doença de Basedow-Graves com oftalmopatia associada.",
+   "O risco operatório inerente a essa condição metabólica deve ser minimizado pela administração de drogas beta-agonistas por 5 dias antes do procedimento cirúrgico, para evitar o risco de tempestade tireotóxica.",
+   "Seu diagnóstico demanda a detecção de títulos elevados do anticorpo antitireoperoxidase (anti-TPO).",
+   "A tireoidectomia é uma das modalidades terapêuticas disponíveis, mesmo com potencial maior de dificuldade e complicações como sangramento durante a cirurgia."
+  ],
+  "gab": 3,
+  "tema": "endocrina",
+  "sub": "Nódulo de tireoide",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ATA Guidelines for Diagnosis and Management of Hyperthyroidism and Other Causes of Thyrotoxicosis, 2016",
+  "coment": "O hipertireoidismo de Graves tem três tratamentos: antitireoidianos, iodo radioativo e tireoidectomia. A cirurgia é uma das opções, com glândula hipervascularizada, maior sangramento e mais dificuldade técnica; por isso o preparo exige eutireoidismo com antitireoidianos, betabloqueador e iodeto (solução de Lugol) por cerca de 10 dias, conforme a ATA 2016. O iodo radioativo leva, em geral, ao hipotireoidismo e pode piorar a oftalmopatia moderada a grave. O diagnóstico usa TSH, T4 livre e TRAb, não o anti-TPO.",
+  "porAlt": [
+   "O iodo radioativo leva em geral ao hipotireoidismo e pode agravar a oftalmopatia, sendo evitado nela.",
+   "O preparo usa betabloqueador, e não beta-agonista, além de antitireoidianos e iodeto.",
+   "O anti-TPO é inespecífico; o diagnóstico é hormonal, e o anticorpo de Graves é o TRAb.",
+   "Correta: a tireoidectomia é opção terapêutica, com maior risco de sangramento pela glândula hipervascularizada."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Mulher, 60 anos de idade, refere epigastralgia há 2 anos, sem melhora com inibidor de bomba de prótons. Nega emagrecimento. Realizou ultrassonografia de abdome com diagnóstico de colelitíase. Foi submetida à colecistectomia laparoscópica eletiva em outro serviço há 40 dias. O laudo anatomopatológico da vesícula biliar mostrou adenocarcinoma moderadamente diferenciado em face hepática da vesícula, com invasão até a camada muscular própria externa, ducto cístico livre de acometimento neoplásico (estadiamento patológico pT2Nx). Antecedentes pessoais: Hipertensão arterial, ex-tabagista (parou há 10 anos). Nega antecedentes familiares. Ao exame físico, apresentou bom estado geral, corada, hidratada, anictérica. Peso de 70 kg, altura de 1,49 m, IMC de 31,5 kg/m² Exame cardiopulmonar normal. Abdome globoso, flácido, indolor, cicatrizes de colecistectomia laparoscópica prévia sem hérnias. • Exames laboratoriais: Hb: 13,5 g/dL Leucócitos: 4.900/mm³ Plaquetas: 304.000/mm³ Bilirrubinas totais: 0,5 mg/dL Bilirrubina direta: 0,3 mg/dL TGO/AST: 17 UI/dL TGP/ALT: 18 UI/dL Fosfatase alcalina: 104 U/mL GGT: 78 U/mL CA19-9: 24 UI/mL Qual a melhor conduta para a paciente neste momento?",
+  "alts": [
+   "Indicar reabordagem cirúrgica.",
+   "Seguimento clínico com exames laboratoriais e de imagem.",
+   "Quimioterapia neodjuvante para posterior reabordagem cirúrgica.",
+   "Radioterapia no leito da vesícula biliar."
+  ],
+  "gab": 0,
+  "tema": "hepatobiliar",
+  "sub": "Câncer de vesícula e colangiocarcinoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "ESMO Clinical Practice Guideline Biliary Tract Cancer, 2023; AJCC 8ª ed., 2017",
+  "coment": "Adenocarcinoma de vesícula achado na peça, pT2 na face hepática (T2b no AJCC 8ª edição), com cístico livre, CA 19-9 normal e boa condição clínica, deve ser reoperado com intenção curativa: ressecção hepática dos segmentos IVb e V e linfadenectomia do pedículo hepático, após estadiamento com imagem para afastar doença à distância. O T2b tem pior prognóstico que o T2a, o que reforça a reabordagem. A quimioterapia adjuvante com capecitabina vem depois da cirurgia.",
+  "porAlt": [
+   "Correta: câncer de vesícula pT2 incidental deve ser reoperado com ressecção hepática e linfadenectomia.",
+   "Seguimento isolado deixa doença residual frequente no leito hepático e nos linfonodos.",
+   "Quimioterapia neoadjuvante não é o padrão no câncer incidental ressecável.",
+   "Radioterapia no leito não substitui a ressecção curativa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2025,
+   "prova": "Especialidades Cirúrgicas 2025"
+  }
+ },
+ {
+  "q": "Paciente vítima de ferimento por arma de fogo no flanco esquerdo é admitido na unidade de emergência consciente e referindo dor abdominal. Ao exame abdominal, observa-se um orifício em flanco esquerdo, com saída na região dorsal esquerda, na altura de L2 a 5 cm da coluna. Foi indicada laparotomia exploradora, onde foram identificadas três lesões transfixantes de intestino delgado há 20, 30 e 35 cm do ligamento de Treitz, visualiza-se um hematoma na zona dois à esquerda não pulsátil e que durante a cirurgia não estava em expansão. A conduta cirúrgica recomendada é:",
+  "alts": [
+   "Somente a ressecção e anastomose primária do intestino delgado.",
+   "Somente o desbridamento e sutura dos ferimentos de delgado e drenagem da cavidade.",
+   "Ressecção e anastomose primária do intestino delgado e exploração do hematoma de zona II.",
+   "Grampeamento das lesões de delgado, colocação de compressas na zona dois e peritoneostomia."
+  ],
+  "gab": 2,
+  "tema": "tronco",
+  "sub": "Trauma abdominal",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "ATLS 11ª ed., 2025; Tratado de Cirurgia do CBC, 3ª ed., 2023",
+  "coment": "Três lesões transfixantes, ou seja, seis perfurações concentradas em cerca de 15 cm de jejuno, são tratadas melhor com uma única ressecção e anastomose do que com várias rafias, que estreitam a luz. No trauma penetrante, o hematoma retroperitoneal da zona II, perirrenal e lateral, deve ser explorado na maioria das vezes, porque o trajeto do projétil pode ter lesado rim, ureter, cólon ou vasos renais. Ainda mais aqui, com orifício de saída dorsal e sem imagem pré-operatória. A conduta seletiva vale sobretudo no trauma fechado.",
+  "porAlt": [
+   "Ressecar o delgado sem explorar o hematoma deixa sem diagnóstico lesões de rim, ureter e vasos.",
+   "Rafias múltiplas próximas estreitam a luz, e não explorar a zona II deixa lesões ocultas.",
+   "Correta: ressecção e anastomose do segmento lesado e exploração do hematoma de zona II no trauma penetrante.",
+   "Controle de danos com peritoneostomia não se justifica em paciente estável e sem hemorragia ativa."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Homem, 30 anos de idade, portador de retocolite ulcerativa em tratamento com mesalazina há 5 anos. Comparece ao pronto-socorro referindo diarreia com sangue há 3 dias (8 episódios por dia). Foi internado, realizado hidratação endovenosa e antibioticoterapia. Após 4 horas de internação, começou a apresentar enterorragia em grande quantidade, PA de:90×70 mmHg, FC de 120 bpm. A hemoglobina inicial, que era de 10 g/dL, caiu para 7,0 g/dL. Após a reanimação volêmica, continuava apresentado enterorragia, sendo então indicada cirurgia. Assinale a alternativa que apresenta a conduta mais apropriada.",
+  "alts": [
+   "Colectomia subtotal e ileostomia.",
+   "Colectomia subtotal e ileoreto anastomose.",
+   "Protocolectomia total com ileostomia.",
+   "Protocolectomia total com pouch-anal anastomose."
+  ],
+  "gab": 0,
+  "tema": "intestino",
+  "sub": "Doença de Crohn e retocolite cirúrgicas",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ECCO Guidelines on Therapeutics in Ulcerative Colitis: Surgical Treatment, 2022",
+  "coment": "Retocolite ulcerativa grave com hemorragia maciça persistente após reanimação é indicação de cirurgia de urgência. A ECCO 2022 recomenda colectomia subtotal com ileostomia terminal, preservando o coto retal, porque é rápida, retira a maior parte da mucosa doente e permite reconstrução eletiva futura com bolsa ileal. Proctocolectomia e anastomose de bolsa na urgência, em paciente instável e anêmico, aumentam muito a morbidade.",
+  "porAlt": [
+   "Correta: colectomia subtotal com ileostomia é a cirurgia de urgência da colite grave com hemorragia.",
+   "Anastomose ileorretal na urgência, em paciente instável e com reto inflamado, tem alto risco de deiscência.",
+   "Proctocolectomia total na urgência é cirurgia longa e mórbida, com dissecção pélvica em paciente instável.",
+   "Bolsa ileal com anastomose anal é reconstrução eletiva, contraindicada em paciente instável."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Homem, 52 anos de idade, com história de regurgitação noturna importante, acompanhada de leve queimação há 6 meses. Refere que pela regurgitação estava comendo menos e perdeu 3 kg no período. Procurou atendimento médico, sendo solicitada endoscopia digestiva alta, a qual apresentou achado de esofagite erosiva grau A. Tentou tratamento com inibidor de bomba de prótons por 3 meses sem resposta clínica satisfatória. Foi indicado tratamento cirúrgico com fundoplicatura total + hiatoplastia para tratamento de refluxo refratário, o paciente evoluiu com disfagia importante no pós-operatório. Com base no caso apresentado, pode-se afirmar:",
+  "alts": [
+   "O paciente evoluiu com quadro de pseudoacalasia causada por possível hiato apertado.",
+   "A indicação cirúrgica foi precipitada, pois não foram afastados diagnósticos diferenciais para o quadro clínico.",
+   "A indicação está correta, pois trata-se de doença do refluxo refratária, sendo o tratamento cirúrgico a melhor opção.",
+   "A esofagite grau A afasta o diagnóstico de refluxo gastroesofágico, segundo os critérios do consenso de Lyon 2-0."
+  ],
+  "gab": 1,
+  "tema": "esofago",
+  "sub": "DRGE e hérnia de hiato",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r3",
+  "base": "Consenso de Lyon 2.0 (Gut, 2024)",
+  "coment": "Pelo Consenso de Lyon 2.0, esofagite grau A de Los Angeles não confirma nem exclui DRGE e exige pHmetria sem IBP. Antes de qualquer cirurgia antirrefluxo é obrigatório documentar o refluxo e fazer manometria para afastar distúrbio motor, como acalasia, que também causa regurgitação e emagrecimento e piora muito após fundoplicatura total. Sem pHmetria nem manometria, a indicação foi precipitada, e a disfagia pós-operatória reforça a suspeita de diagnóstico alternativo.",
+  "porAlt": [
+   "Pseudoacalasia por hiato apertado é hipótese possível, mas não é a conclusão central do caso.",
+   "Correta: sem pHmetria e manometria, a indicação foi precipitada e não afastou distúrbio motor.",
+   "Refratariedade ao IBP exige confirmar o refluxo antes de operar; a cirurgia não é a conclusão automática.",
+   "Grau A não afasta DRGE: é achado inconclusivo pelo Lyon 2.0 e pede pHmetria."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Homem, 67 anos de idade, com adenocarcinoma bem diferenciado de antro gástrico, com boa funcionalidade, estadiado clinicamente como cT2cN+ (lesão restrita à camada muscular e com 1 linfonodo suspeito perilesional). Assinale a alternativa que indica a melhor conduta para o paciente apresentado.",
+  "alts": [
+   "Quimioterapia perioperatória.",
+   "Gastrectomia subtotal com linfadenectomia D1+.",
+   "Gastrectomia subtotal com linfadenectomia D2.",
+   "Gastrectomia total com linfadenectomia D2."
+  ],
+  "gab": 0,
+  "tema": "esofago",
+  "sub": "Câncer gástrico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESMO Clinical Practice Guideline Gastric Cancer, 2022 (ensaio FLOT4, Lancet 2019)",
+  "coment": "Adenocarcinoma gástrico cT2cN+ em paciente com boa funcionalidade é doença localmente avançada. A ESMO 2022 recomenda quimioterapia perioperatória para tumores a partir de cT2 ou N+, com o esquema FLOT, que no ensaio FLOT4 aumentou a sobrevida global em relação ao ECF/ECX. A gastrectomia subtotal com D2 é feita depois dos ciclos pré-operatórios, e a quimioterapia é completada após a cirurgia. Operar primeiro é a abordagem oriental, com adjuvância.",
+  "porAlt": [
+   "Correta: tumor cT2N+ tem indicação de quimioterapia perioperatória, com FLOT, antes e depois da gastrectomia.",
+   "Linfadenectomia D1+ é para tumores precoces; o N+ exige D2, e a operação vem após a quimioterapia.",
+   "A gastrectomia subtotal com D2 é a cirurgia certa, mas a melhor conduta inicial é a quimioterapia perioperatória.",
+   "Gastrectomia total é desnecessária em tumor de antro, que permite gastrectomia subtotal."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Quanto aos abcessos e fístulas perianais, assinale a alternativa correta.",
+  "alts": [
+   "Raramente (menos de 1/10 dos casos) os abscessos criptoglandulares evoluem para fístulas.",
+   "Para o tratamento cirúrgico eficaz da fístula perianal interesficteriana, o exame sob anestesia na sala cirúrgica é de menor valia que a tomografia de pelve.",
+   "O abscesso anorretal deve ser tratado prioritariamente com drenagem cirúrgica, e não com antibioticoterapia.",
+   "As prioridades no manejo, geralmente, seguem a esta ordem de importância: cura sem recorrência, preservação da continência e por fim, controle da sepse."
+  ],
+  "gab": 2,
+  "tema": "intestino",
+  "sub": "Doenças orificiais",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ASCRS Clinical Practice Guidelines for anorectal abscess, fistula-in-ano and rectovaginal fistula, 2022",
+  "coment": "O abscesso anorretal é tratado com drenagem cirúrgica imediata, como recomenda a ASCRS 2022. O antibiótico é complementar e reservado para celulite extensa, imunossupressão, diabetes, sepse ou prótese valvar. A fístula ocorre em parcela grande dos casos, descrita entre 30% e 70%. Na fístula, o exame sob anestesia continua fundamental, e a ressonância e o ultrassom endoanal são os exames de imagem preferidos, não a tomografia. As prioridades são controlar a sepse, preservar a continência e só então obter cura sem recorrência.",
+  "porAlt": [
+   "A fístula é frequente, descrita em 30% a 70% dos abscessos, e não rara.",
+   "O exame sob anestesia é central, e na imagem a ressonância e o ultrassom endoanal superam a tomografia.",
+   "Correta: o abscesso anorretal se trata com drenagem cirúrgica, e o antibiótico é complementar.",
+   "A ordem correta é controle da sepse, preservação da continência e depois cura sem recorrência."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Homem, 62 anos de idade, sem comorbidades, refere quadro de icterícia e colúria há 15 dias. Realizou exame de ressonância magnética de abdome superior que demonstrou dilatação das vias biliares intra-hepáticas e lesão compatível com colangiocarcinoma hilar Bismuth IIIa medindo 3,1 cm, com acometimento da artéria hepática direita. Tomografia de tórax sem evidência de doença à distância. Ao exame físico, bom estado geral, eutrófico, ictérico ++/4+. • Exames laboratoriais: Bilirrubina total: 14 mg/dL (VR: 0,2 a 1,1 mg/dL) Bilirrubina direta: 12,3 mg/dL (VR: 0,0 a 0,3 mg/dL) CA 19-9: 5.330 U/mL (VR: < 37 U/mL) O volume calculado do remanescente hepático foi de 30% do volume hepático total. Qual a melhor conduta para o paciente, neste momento?",
+  "alts": [
+   "Quimio e radioterapia de consolidação.",
+   "Trissetorectomia esquerda + linfadenectomia hilar + anastomose biliodigestiva.",
+   "Drenagem transparieto-hepática do lobo esquerdo e embolização por radiologia intervencionista do ramo portal direito.",
+   "Drenagem transparieto-hepática do lobo direito seguida de trissetorectomia direita + ressecção do segmento 1 + linfadenectomia hilar + anastomose biliodigestiva."
+  ],
+  "gab": 2,
+  "tema": "hepatobiliar",
+  "sub": "Câncer de vesícula e colangiocarcinoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "AHPBA Expert Consensus Statement on hilar cholangiocarcinoma, 2015",
+  "coment": "Colangiocarcinoma hilar Bismuth IIIa com acometimento da artéria hepática direita é tratado por hepatectomia direita ampliada com ressecção do segmento 1, linfadenectomia e reconstrução biliar. Com icterícia intensa (bilirrubina 14) e remanescente de 30%, o risco de insuficiência hepática é alto: no fígado colestático exige-se remanescente de pelo menos 40%. A conduta neste momento é drenar o lobo que ficará (esquerdo) e embolizar o ramo portal direito para hipertrofiar o remanescente, operando depois.",
+  "porAlt": [
+   "Quimiorradioterapia de consolidação não se aplica a tumor potencialmente ressecável ainda não operado.",
+   "A trissetorectomia esquerda remove o lado errado; o tumor e a artéria acometida estão à direita.",
+   "Correta: drenar o lobo esquerdo remanescente e embolizar a porta direita preparam o fígado para a ressecção.",
+   "Drenar o lobo que será ressecado não prepara o remanescente, e operar com 30% de fígado colestático é arriscado."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Homem, 25 anos de idade, apresenta cavidade pulmonar em lobo superior esquerdo compatível com doença pulmonar pós-tuberculose. Encaminhado para cirurgia torácica por história de hemoptise de pequena monta. Em relação à avaliação cirúrgica, pode-se afirmar:",
+  "alts": [
+   "As vias de acesso minimamente invasivas são contraindicadas nesses casos por impossibilidade técnica.",
+   "A taxa de mortalidade dessa cirurgia é alta, próximo superior a 10%.",
+   "A embolização substituiu a cirurgia no tratamento da hemoptise, não havendo indicação cirúrgica nesse caso.",
+   "A condição nutricional desse paciente deve ser avaliada no pré-operatório, recuperação nutricional deve ser indicada, se necessária."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Bases da cirurgia torácica",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "Tratado de Cirurgia do CBC, 3ª ed., 2023",
+  "coment": "A ressecção pulmonar por sequela de tuberculose com hemoptise é indicação cirúrgica clássica, já que a cavidade pode abrigar aspergiloma e voltar a sangrar. Esses pacientes costumam estar desnutridos pela doença crônica, e a desnutrição aumenta fístula broncopleural, empiema e falha de cicatrização. Por isso a avaliação e a recuperação nutricional no pré-operatório fazem parte do preparo. A videotoracoscopia é possível em casos selecionados, e a embolização brônquica controla o sangramento, mas não resolve a cavidade.",
+  "porAlt": [
+   "A via minimamente invasiva é tecnicamente possível em casos selecionados, embora as aderências dificultem.",
+   "A mortalidade em centros experientes é baixa, bem abaixo de 10% na cirurgia eletiva.",
+   "A embolização controla a hemoptise aguda, mas a recidiva é frequente e a ressecção segue indicada.",
+   "Correta: o estado nutricional deve ser avaliado e corrigido antes da ressecção pulmonar por sequela de tuberculose."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Neonato com 27 dias de vida, sem antecedentes perinatais relevantes, é admitido no pronto atendimento por deterioração súbita e rápida do estado geral, vômitos biliosos e evacuação em pequeno volume de aspecto sanguinolento há 5 horas. Ao exame físico, está prostrado, taquipneico, descorado e com má perfusão periférica. O abdome está pouco distendido, mas nitidamente muito doloroso e tenso à palpação profunda. Assinale a alternativa que descreve a principal hipótese diagnóstica e a conduta adequada.",
+  "alts": [
+   "Volvo de intestino médio / cirurgia de urgência.",
+   "Volvo de intestino médio / trânsito intestinal.",
+   "Intussuscepção intestinal / cirurgia de urgência.",
+   "Intussuscepção intestinal / enema opaco."
+  ],
+  "gab": 0,
+  "tema": "especialidades",
+  "sub": "Cirurgia pediátrica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023",
+  "coment": "Vômito bilioso no recém-nascido é volvo de intestino médio até prova em contrário. Deterioração súbita, choque, sangue nas fezes e abdome tenso e doloroso indicam isquemia intestinal já em curso. Nessa situação não se perde tempo com exame contrastado: a conduta é reanimação e laparotomia de urgência (procedimento de Ladd com destorção). A intussuscepção é rara no período neonatal, com pico entre 6 meses e 2 anos.",
+  "porAlt": [
+   "Correta: vômito bilioso com sinais de isquemia e choque no neonato é volvo de intestino médio, que exige cirurgia de urgência.",
+   "O trânsito intestinal confirma má rotação no paciente estável, mas atrasa a cirurgia quando já há isquemia.",
+   "A intussuscepção é rara aos 27 dias de vida e não explica o vômito bilioso como apresentação principal.",
+   "Enema opaco não tem papel no volvo e a intussuscepção é improvável nesta idade."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "No atendimento de ambulatório, você recebe um paciente de 47 anos de idade, não tabagista, não etilista, com seguinte o encaminhamento: “Ao cirurgião, solicito biópsia de linfonodo cervical à direita”. No exame clínico, trata-se de um nódulo pré-auricular de 1 cm à direita, liso, indolor, de consistência cartilagínea e móvel. Assinale alternativa que apresenta a conduta mais adequada.",
+  "alts": [
+   "Biópsia incisional.",
+   "Biópsia excisional.",
+   "Biópsia com agulha grossa.",
+   "Punção biopsia aspirativa por agulha fina."
+  ],
+  "gab": 3,
+  "tema": "endocrina",
+  "sub": "Glândulas salivares",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "The Milan System for Reporting Salivary Gland Cytopathology, 2ª ed., 2023",
+  "coment": "Nódulo pré-auricular móvel, indolor e de consistência firme, quase cartilagínea, é lesão da parótida até prova em contrário, e o diagnóstico mais provável é adenoma pleomórfico, não linfonodo. A investigação começa com punção aspirativa por agulha fina, classificada pelo sistema de Milão, de preferência guiada por ultrassom. Biópsia incisional ou excisional do nódulo rompe a cápsula, semeia o tumor e arrisca o nervo facial; o tratamento definitivo é a parotidectomia com margem.",
+  "porAlt": [
+   "Biópsia incisional da parótida rompe a cápsula do tumor e favorece recidiva, além de arriscar o nervo facial.",
+   "Biópsia excisional do nódulo, enucleação, deixa margem inadequada e aumenta a recidiva do adenoma pleomórfico.",
+   "A biópsia com agulha grossa é alternativa quando a citologia é inconclusiva, não o primeiro exame.",
+   "Correta: nódulo pré-auricular sugere tumor de parótida, investigado primeiro com punção aspirativa por agulha fina."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Homem, 35 anos de idade, é admitido no período manhã para realizar tireoidectomia agendada para o período da tarde, devido a um nódulo de tireoide Bethesda IV. Devido ao cancelamento da primeira operação, o paciente foi encaminhado para o centro cirúrgico. Ele foi considerado ASA I e não teve avaliação pré-anestésica. Diferente do registro prévio em prontuário, na sua anamnese, o paciente relata que, inesperadamente, tem episódios de mal-estar com palidez cutânea e sudorese. Em um desses episódios, a pressão arterial foi aferida em 190×120 mmHg. No exame físico, palpa-se uma massa abdominal de 5 cm no quadrante superior esquerdo. No momento, os parâmetros clínicos são normais. A atitude recomendada e o possível diagnóstico são, respectivamente,",
+  "alts": [
+   "suspender a operação; feocromocitoma.",
+   "suspender a operação; tumor pancreático produtor de Polipeptídeo Vasointestinal (VIP).",
+   "manter a operação; carcinoma medular da tireoide.",
+   "manter a operação; paraganglioma intratireoideo."
+  ],
+  "gab": 0,
+  "tema": "endocrina",
+  "sub": "Feocromocitoma e hiperaldosteronismo",
+  "cenario": "cc",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Endocrine Society Clinical Practice Guideline Pheochromocytoma and Paraganglioma, 2014",
+  "coment": "Crises de palidez, sudorese e hipertensão grave (190x120 mmHg) com massa abdominal sugerem feocromocitoma, e operar sem preparo expõe a crise hipertensiva, arritmia e morte na indução anestésica. A cirurgia deve ser suspensa para dosar metanefrinas plasmáticas ou urinárias e fazer imagem. Se confirmado, a Endocrine Society 2014 recomenda bloqueio alfa-adrenérgico por 7 a 14 dias antes da adrenalectomia. A associação com nódulo de tireoide lembra NEM 2, cujo feocromocitoma deve ser tratado antes da tireoidectomia.",
+  "porAlt": [
+   "Correta: sintomas adrenérgicos paroxísticos com massa abdominal exigem suspender a cirurgia e investigar feocromocitoma.",
+   "O VIPoma causa diarreia aquosa e hipocalemia, não crises hipertensivas com palidez e sudorese.",
+   "Mesmo diante de carcinoma medular, o feocromocitoma de uma possível NEM 2 deve ser tratado antes da tireoidectomia.",
+   "Paraganglioma intratireoideo é raríssimo e não explica a massa abdominal; operar sem preparo é perigoso."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Após 12 meses de incômodo abdominal inespecífico, seguido de aumento do volume abdominal nos últimos 3 meses, mulher de 67 anos de idade realizou endoscopia digestiva alta que evidenciou abaulamento subepitelial de aproximadamente 7 cm junto à grande curvatura gástrica; as biópsias foram inespecíficas. A ecoendoscopia revelou uma massa predominantemente extra-gástrica e a punção coletou material cujo exame patológico revelou neoplasia fusocelular, com 10 mitoses por 50 campos de alta potência. A imuno-histoquímica mostrou actina de músculo liso positiva, DOG-1 positivo, CD117 positivo. Qual o diagnóstico da paciente?",
+  "alts": [
+   "Linfoma.",
+   "Schwannoma.",
+   "Leiomiosarcoma.",
+   "Tumor do estroma gastrointestinal (GIST)."
+  ],
+  "gab": 3,
+  "tema": "esofago",
+  "sub": "GIST e linfoma gástrico",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ESMO-EURACAN-GENTURIS Clinical Practice Guidelines GIST, 2022",
+  "coment": "Lesão subepitelial gástrica de células fusiformes com CD117 (KIT) e DOG-1 positivos é tumor do estroma gastrointestinal (GIST). A ESMO 2022 considera o DOG-1 útil nos raros GIST KIT-negativos e recomenda pesquisar mutações de KIT e PDGFRA. O risco é estimado por tamanho, índice mitótico e localização: tumor gástrico de 7 cm com mais de 5 mitoses por 50 campos é de alto risco, com indicação de ressecção e imatinibe adjuvante por 3 anos. A actina positiva não exclui GIST.",
+  "porAlt": [
+   "O linfoma é neoplasia de células redondas, com marcadores linfoides, não fusocelular com CD117 e DOG-1.",
+   "O schwannoma é fusocelular, mas é S100 positivo e CD117 e DOG-1 negativos.",
+   "O leiomiossarcoma expressa actina e desmina, mas é negativo para CD117 e DOG-1.",
+   "Correta: neoplasia fusocelular CD117 e DOG-1 positiva é GIST."
+  ],
+  "fonte": {
+   "banca": "USP (FUVEST)",
+   "ano": 2026,
+   "prova": "Especialidades Cirúrgicas 2026"
+  }
+ },
+ {
+  "q": "Uma mulher com 61 anos de idade, acompanhada pela filha, foi atendida em ambulatório de hospital secundário referindo ter apresentado dor no hipocôndrio direito e vômitos por 3 dias, há 30 dias. Relatava fazer uso de metformina 500 mg, 2 vezes por dia e atenolol 50 mg por dia. Trouxe ultrassonografia que descrevia vesícula biliar com paredes discretamente espessadas e presença de colelitíase. Os exames laboratoriais evidenciaram glicemia de 120 mg/dL (referência: 75 a 99), creatinina 0,99 mg/dL (referência: 0,6 a 1,1), leucócitos 6 200/mm³ (referência: 3 500 a 10 500), não apresentava alteração na contagem diferencial dos leucócitos. Ao exame físico, o abdome estava flácido, não relatava dor à palpação, PA = 140/80 mmHg, temperatura axilar = 36,5 °C. Com base nos dados apresentados, qual alternativa apresenta a orientação correta à paciente e à filha sobre a conduta a ser seguida?",
+  "alts": [
+   "Indicar tratamento operatório se apresentar dor novamente.",
+   "Tratar as doenças clínicas e realizar controle com ultrassonografia anual.",
+   "Encaminhar ao pronto-socorro para tratamento operatório.",
+   "Compensar melhor a glicemia e indicar tratamento operatório eletivo."
+  ],
+  "gab": 3,
+  "tema": "hepatobiliar",
+  "sub": "Colelitíase e colecistite",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "EASL Clinical Practice Guidelines on the prevention, diagnosis and treatment of gallstones, 2016",
+  "coment": "A paciente teve episódio de dor biliar com vômitos e tem colelitíase na ultrassonografia, logo é litíase sintomática. A EASL 2016 recomenda colecistectomia eletiva na litíase sintomática, pelo risco de nova cólica, colecistite, coledocolitíase e pancreatite. Hoje ela está assintomática, sem leucocitose ou febre, de modo que não há urgência. Antes da cirurgia eletiva, otimiza-se o controle glicêmico da diabética.",
+  "porAlt": [
+   "Esperar nova dor expõe a complicações; a litíase já foi sintomática e tem indicação de cirurgia.",
+   "Acompanhar com ultrassonografia não trata a litíase sintomática, que tem indicação cirúrgica.",
+   "Não há quadro agudo que justifique pronto-socorro; a cirurgia é eletiva.",
+   "Correta: litíase sintomática tem indicação de colecistectomia eletiva, após otimizar a glicemia."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021"
+  }
+ },
+ {
+  "q": "Paciente de 40 anos de idade, sexo feminino, procura unidade pública de pronto atendimento com queixa de dor em ferida operatória de ressecção de “nódulo” de 5 cm de diâmetro, na região escapular direita, há 2 dias. Ao exame, ferida cirúrgica com edema, eritema, calor e dor à palpação, associada a flutuação e exsudação em bordos da sutura. Com base nas informações, qual a conduta propedêutico-terapêutica para essa paciente?",
+  "alts": [
+   "Drenagem por retirada parcial de pontos.",
+   "Ultrassonografia de partes moles.",
+   "Punção com agulha fina.",
+   "Antibioticoterapia oral."
+  ],
+  "gab": 0,
+  "tema": "infeccao",
+  "sub": "Infecção de sítio cirúrgico",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "IDSA Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections, 2014",
+  "coment": "Ferida operatória com eritema, calor, dor, flutuação e saída de secreção é infecção de sítio cirúrgico incisional superficial com coleção. A IDSA 2014 recomenda abrir a incisão retirando pontos, drenar e fazer curativo, que é o tratamento principal. Antibiótico sistêmico fica para celulite extensa ou sinais sistêmicos. Exames de imagem e punção são desnecessários quando a flutuação já é evidente ao exame.",
+  "porAlt": [
+   "Correta: infecção de ferida com flutuação se trata abrindo a incisão pela retirada parcial dos pontos.",
+   "A ultrassonografia é dispensável quando a flutuação já está clara ao exame físico.",
+   "Punção com agulha fina não drena adequadamente a coleção da ferida operatória.",
+   "Antibiótico oral isolado não trata coleção purulenta, que exige drenagem."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2021,
+   "prova": "Revalida 2021"
+  }
+ },
+ {
+  "q": "Um paciente com 20 anos, com história de aumento de hemiescroto direito há 4 semanas, comparece à unidade básica de saúde para consulta. Nega dor em bolsa escrotal, disúria, corrimento uretral ou febre. Ao exame físico, apresenta testículo direito com aumento de volume, consistência pétrea, sem eritema e indolor à palpação. Nesse caso, a conduta médica a ser adotada é a indicação de",
+  "alts": [
+   "antibioticoterapia.",
+   "compressas mornas.",
+   "anti-inflamatório não esteroidal.",
+   "ultrassonografia de bolsa escrotal."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Urologia cirúrgica",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "EAU Guidelines on Testicular Cancer, 2025",
+  "coment": "Aumento testicular indolor e endurecido em homem jovem é câncer de testículo até prova em contrário. A diretriz da EAU recomenda ultrassonografia escrotal com Doppler para confirmar lesão intratesticular, além de marcadores (alfafetoproteína, beta-hCG e DHL). Confirmada a lesão, o tratamento é a orquiectomia radical por via inguinal. Tratar como orquiepididimite, sem dor, febre ou sintomas urinários, atrasa o diagnóstico.",
+  "porAlt": [
+   "Antibiótico trata orquiepididimite, que cursa com dor e febre, ausentes aqui.",
+   "Compressas mornas não têm papel em massa testicular endurecida e indolor.",
+   "Anti-inflamatório só mascararia sintomas e atrasaria o diagnóstico de neoplasia.",
+   "Correta: massa testicular pétrea e indolor exige ultrassonografia escrotal para investigar câncer de testículo."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1"
+  }
+ },
+ {
+  "q": "Um paciente com 40 anos, diabético e obeso, comparece ao pronto-socorro, com evolução de 24 horas de dor em nádega direita e febre. O exame físico indica nádega direita sem sinais de flogose, com dor à palpação perianal. Ao exame de toque retal, notam-se fezes e discreta elevação da mucosa, a cerca de 6 cm da margem anal. Nesse caso, devem ser prescritos ao paciente o uso de",
+  "alts": [
+   "anti-inflamatório e a realização de anuscopia.",
+   "antibiótico e o retorno em 7 dias para reavaliação.",
+   "antibiótico e a realização de tratamento cirúrgico.",
+   "anti-inflamatório e a realização de banho de assento."
+  ],
+  "gab": 2,
+  "tema": "intestino",
+  "sub": "Doenças orificiais",
+  "cenario": "emg",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ASCRS Clinical Practice Guidelines for anorectal abscess, fistula-in-ano and rectovaginal fistula, 2022",
+  "coment": "Dor glútea e perianal com febre, sem sinais externos, e abaulamento da mucosa a 6 cm da margem anal ao toque indicam abscesso anorretal profundo (isquiorretal alto, interesfinctérico alto ou supraelevador). Em diabético e obeso o risco de sepse e de infecção necrotizante é maior. A ASCRS 2022 recomenda drenagem cirúrgica imediata, e no diabético ou com sinais sistêmicos associa-se antibiótico. Anti-inflamatório e banho de assento atrasam a drenagem.",
+  "porAlt": [
+   "Anti-inflamatório e anuscopia não tratam a coleção profunda e atrasam a drenagem.",
+   "Antibiótico com retorno em 7 dias deixa o abscesso sem drenagem e arrisca sepse.",
+   "Correta: abscesso anorretal profundo em diabético exige drenagem cirúrgica com antibiótico associado.",
+   "Banho de assento e anti-inflamatório não drenam o abscesso e permitem sua progressão."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.1"
+  }
+ },
+ {
+  "q": "Um pré-escolar de 4 anos é levado a uma unidade de pronto-atendimento devido a uma queda da própria altura há cerca de 30 minutos, tendo apresentado traumatismo em região occipital. Logo após a queda, a criança apresentou choro intenso e um único episódio de vômito. Ao exame físico, apresenta escala de coma de Glasgow de 15, exames físico e neurológico normais e ausência de evidências de fratura de crânio. Em relação à necessidade de realização de tomografia computadorizada (TC) de crânio para esse paciente, assinale a alternativa correta.",
+  "alts": [
+   "Há indicação de realização de TC, pois a criança apresentou um episódio de vômito, o que sugere lesão intracraniana.",
+   "Não há indicação de realização de TC, pois a criança não apresenta qualquer sinal de alerta para risco de lesão intracraniana.",
+   "Há indicação de realização de TC, pois, nessa faixa etária, o exame deve ser realizado independentemente dos sinais e dos sintomas apresentados.",
+   "Não há indicação de realização de TC e sim de radiografia simples de crânio, a fim de evidenciar fraturas que podem não ter sido observadas em exame físico."
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Trauma na criança, na gestante e no idoso",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "NICE NG232 Head injury: assessment and early management, 2023; regra PECARN (Lancet, 2009)",
+  "coment": "Criança de 4 anos com queda da própria altura (mecanismo de baixa energia), Glasgow 15, exame neurológico normal, sem sinais de fratura e com um único vômito tem risco muito baixo de lesão intracraniana. Pela regra PECARN para maiores de 2 anos, o vômito isolado leva a observação clínica, e não a TC de rotina. A NICE 2023 só indica TC em crianças a partir de 3 ou mais episódios de vômito ou outros fatores. Radiografia de crânio não tem papel na triagem.",
+  "porAlt": [
+   "Um vômito isolado após queda de baixa energia não basta para indicar TC; o caminho é observar.",
+   "Correta: criança com Glasgow 15, exame normal, queda simples e um só vômito não precisa de TC.",
+   "A TC não é rotina em nenhuma faixa etária; decide-se por regras clínicas para evitar radiação.",
+   "Radiografia simples de crânio não exclui lesão intracraniana e não é recomendada."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.2"
+  }
+ },
+ {
+  "q": "Um homem de 22 anos é atendido em hospital de médio porte após ter mergulhado em lagoa e ter batido a cabeça em uma pedra submersa. Ao chegar ao hospital, após ser trazido pela equipe de atendimento pré-hospitalar, encontra-se consciente, com colar cervical, imobilizado adequadamente em prancha rígida. Relata que apresenta sensibilidade diminuída (graduação sensorial 1) do primeiro ao terceiro dedos das mãos, mas não identifica toque leve ou estímulos dolorosos no quarto e no quinto dedos das mãos, no tronco, na pelve e nos membros inferiores. Realiza a extensão dos cotovelos (tríceps) apenas com os membros superiores apoiados sobre o leito, sem ação da gravidade (força muscular grau 2), e não consegue fletir os dedos das mãos ou mover o tronco, a pelve e ou os membros inferiores. Com base no quadro clínico desse paciente, ele apresenta uma",
+  "alts": [
+   "fratura do arco anterior e posterior da primeira vértebra cervical (de Jefferson).",
+   "fratura da sétima vértebra cervical e subluxação entre essa vértebra e a primeira vértebra torácica.",
+   "fratura de processo transverso da terceira vértebra cervical com comprometimento de artéria vertebral.",
+   "fratura transversa do elemento posterior da segunda vértebra cervical (corpo do Axis) em sua parte interarticular."
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Trauma raquimedular",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI), revisão 2019",
+  "coment": "Trauma por mergulho em água rasa causa lesão da coluna cervical baixa. Pelos padrões ISNCSCI, a sensibilidade alterada do polegar ao terceiro dedo (C6 e C7), ausente no quarto e quinto dedos (C8) e abaixo, o tríceps com força 2 (C7) e a ausência de flexão dos dedos (C8) localizam a lesão medular na transição C7 a T1. A alternativa compatível é a fratura de C7 com subluxação C7-T1. Fraturas de C1 e C2 costumam não dar déficit ou causar lesão alta com risco respiratório.",
+  "porAlt": [
+   "A fratura de Jefferson (C1) geralmente não causa déficit neurológico, pois alarga o canal.",
+   "Correta: déficit motor e sensitivo a partir de C7 e C8 é compatível com fratura de C7 e subluxação C7-T1.",
+   "Fratura de processo transverso de C3 com lesão vertebral não explica déficit medular nos níveis C7 e C8.",
+   "A fratura do enforcado (C2) costuma não causar déficit ou, quando causa, compromete níveis bem mais altos."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2023,
+   "prova": "Revalida 2023.2"
+  }
+ },
+ {
+  "q": "Mulher de 45 anos, sem comorbidades, é submetida a uma colecistectomia videolaparoscópica eletiva devido a colecistopatia crônica calculosa. O procedimento transcorre sem complicações, durando cerca de 40 minutos. No pós-operatório imediato, a paciente apresenta-se hemodinâmicamente estável, com pressão arterial de 110 x 70 mmHg, frequência cardíaca de 82 bpm e saturação de oxigênio de 98% em ar ambiente. Nega náusea e relata dor leve em região abdominal. De acordo com os protocolos multimodais de recuperação pós-operatória (ERAS e ACERTO), qual é a conduta adequada em relação à alimentação dessa paciente?",
+  "alts": [
+   "Início de dieta líquida via oral após 6 horas do procedimento.",
+   "Início imediato de dieta via oral, de acordo com sua vontade.",
+   "Início de dieta via oral após 24 horas do procedimento.",
+   "Início imediato de dieta via oral, de forma escalonada."
+  ],
+  "gab": 1,
+  "tema": "periop",
+  "sub": "ACERTO e ERAS",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ESPEN Guideline Clinical Nutrition in Surgery, 2021",
+  "coment": "Nos protocolos ERAS e ACERTO a alimentação oral é reintroduzida precocemente, logo após a operação, quando o paciente está acordado, sem náusea e estável. A ESPEN 2021 recomenda iniciar a ingestão oral em poucas horas após a cirurgia, adaptada à tolerância individual. Após colecistectomia laparoscópica sem intercorrências, sem anastomose digestiva, a paciente pode comer conforme deseja, sem progressão obrigatória de dieta líquida para sólida nem jejum de 6 ou 24 horas.",
+  "porAlt": [
+   "Esperar 6 horas e restringir a dieta líquida não tem base e contraria a realimentação precoce.",
+   "Correta: sem náusea e estável, a paciente pode comer imediatamente, conforme sua vontade e tolerância.",
+   "Jejum de 24 horas aumenta catabolismo e desconforto, contrariando ERAS e ACERTO.",
+   "A progressão escalonada obrigatória é tradição sem benefício; a dieta segue a aceitação da paciente."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2025,
+   "prova": "Revalida 2025.1"
+  }
+ },
+ {
+  "q": "Paciente, 67 anos, procurou a unidade de saúde relatando dificuldade para urinar, jato urinário fraco e noctúria. Ele nega dor ao urinar ou sangramento visível na urina. Ao exame físico, o toque retal revelou uma próstata aumentada, de consistência firme, sem nódulos palpáveis. Para avaliação complementar, o médico solicitou exames laboratoriais, incluindo dosagem do antígeno prostático específico total de 3,1 ng/mL, creatinina sérica 1,1 mg/dL, além de ultrassonografia do trato urinário que mostrou próstata aumentada de tamanho com volume de 40 gramas, sem nódulos. Paciente já em tratamento com finasterida e doxasozina, porém sem melhoras dos sintomas. Com base nesse caso, qual é a conduta mais apropriada?",
+  "alts": [
+   "Solicitar biópsia prostática.",
+   "Iniciar tratamento empírico com antibióticos.",
+   "Repetir o exame de ultrassonografia da próstata.",
+   "Encaminhar para ressecção transuretral da próstata."
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Urologia cirúrgica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "EAU Guidelines on Management of Non-neurogenic Male LUTS, 2025",
+  "coment": "Homem com sintomas obstrutivos por hiperplasia prostática benigna, próstata de 40 g, PSA de 3,1 ng/mL e toque sem nódulos, que não melhora com terapia combinada (alfabloqueador e inibidor da 5-alfarredutase), tem falha do tratamento clínico. A EAU recomenda tratamento cirúrgico nesse caso, e para próstatas de 30 a 80 mL a ressecção transuretral é o padrão. Não há indicação de biópsia, pois PSA e toque não sugerem câncer, nem de antibiótico, sem sinais de infecção.",
+  "porAlt": [
+   "Biópsia não se indica com PSA de 3,1 ng/mL e toque sem nódulos.",
+   "Antibiótico empírico não tem papel sem disúria, febre ou outros sinais de prostatite.",
+   "Repetir a ultrassonografia não muda a conduta diante da falha do tratamento clínico.",
+   "Correta: hiperplasia prostática refratária à terapia combinada tem indicação de ressecção transuretral."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2025,
+   "prova": "Revalida 2025.1"
+  }
+ },
+ {
+  "q": "Menino de 6 anos é levado à Unidade Básica de Saúde (UBS) com queixa de fimose. Mãe relata balanopostites frequentes, sendo o primeiro episódio com 1 ano de vida. Nega infecções do trato urinário. Ao exame físico, apresenta prepúcio cobrindo toda a glande que, quando tracionado, expõe meato uretral e anel fibrótico prepucial. Sobre o caso, assinale a alternativa correta.",
+  "alts": [
+   "Trata-se de fimose fisiológica, necessitando de exercícios de redução e higiene do prepúcio.",
+   "Há indicação cirúrgica na adolescência, pois já está apresentando exposição de meato uretral.",
+   "Há indicação cirúrgica, pois a criança apresenta balanopostites recorrentes com fibrose prepucial.",
+   "Indica-se uso de creme de betametasona e hialuronidase por 4 semanas, uma vez que apresenta exposição de meato uretral."
+  ],
+  "gab": 2,
+  "tema": "especialidades",
+  "sub": "Cirurgia pediátrica",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "EAU Guidelines on Paediatric Urology, 2025",
+  "coment": "Prepúcio com anel fibrótico é fimose patológica, ou secundária, e não fisiológica. Associada a balanopostites recorrentes, tem indicação de postectomia. A diretriz da EAU usa corticoide tópico como primeira linha na fimose primária, sem cicatriz, mas a fimose cicatricial é indicação de circuncisão, e a balanopostite de repetição reforça a indicação. A exposição do meato não torna a fimose fisiológica nem adia a cirurgia para a adolescência.",
+  "porAlt": [
+   "Anel fibrótico define fimose patológica, não fisiológica, e exercícios não resolvem a cicatriz.",
+   "Não há razão para esperar a adolescência: a indicação já existe pela fibrose e pelas infecções.",
+   "Correta: fimose com anel fibrótico e balanopostites recorrentes tem indicação de postectomia.",
+   "Corticoide tópico funciona na fimose primária sem fibrose; o anel cicatricial pede cirurgia."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2025,
+   "prova": "Revalida 2025.2"
+  }
+ },
+ {
+  "q": "Paciente de 40 anos, vítima de atropelamento havia 90 minutos. Foi conduzido pelo Serviço de Atendimento Móvel de Urgência (SAMU), imobilizado com colar cervical, prancha rígida e imobilização pélvica. Durante avaliação inicial, apresentava-se consciente e orientado, com queixa de dor abdominal e pélvica. Ao exame físico, observou-se estabilidade hemodinâmica, presença de hematoma perineal, desalinhamento da pelve, bem como uretrorragia e globo vesical palpável. Diante do caso, qual o procedimento indicado nesse momento?",
+  "alts": [
+   "Cistostomia.",
+   "Uretrocistoscopia.",
+   "Laparotomia exploratória.",
+   "Sondagem vesical de alívio."
+  ],
+  "gab": 0,
+  "tema": "tronco",
+  "sub": "Trauma gênito-urinário",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "AUA Urotrauma Guideline, 2020; ATLS 11ª ed., 2025",
+  "coment": "Fratura de pelve com uretrorragia, hematoma perineal e globo vesical sugere lesão da uretra posterior. O ATLS contraindica a sondagem vesical antes da uretrografia retrógrada, porque a sonda pode converter lesão parcial em total. A AUA 2020 recomenda drenagem urinária precoce, e a forma mais segura em serviço sem urologista ou uretrografia é a cistostomia suprapúbica, que alivia a retenção sem manipular a uretra. A correção definitiva da uretra é diferida.",
+  "porAlt": [
+   "Correta: uretrorragia com fratura pélvica e retenção urinária se resolve com cistostomia suprapúbica.",
+   "Uretrocistoscopia não é exame inicial no trauma agudo e pode agravar a lesão.",
+   "Não há indicação de laparotomia em paciente estável e sem sinais de lesão intra-abdominal.",
+   "Sondar a uretra com sinais de lesão é contraindicado, pois pode transformar lesão parcial em total."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2025,
+   "prova": "Revalida 2025.2"
+  }
+ },
+ {
+  "q": "Homem, 35 anos, dá entrada na Unidade de Pronto Atendimento (UPA), trazido pelo suporte básico do SAMU em prancha rígida e colar cervical, após queda de moto há 40 minutos. Encontra-se confuso, referindo dor em pelve e hipogástrio. Avaliação primária: Vias aéreas pérvias; respiração espontânea, sem esforço, FR 24 irpm e murmúrio vesicular simétrico. PA 96 x 58 mmHg; FC 124 bpm; pele fria, sudorese profusa e tempo de enchimento capilar lentificado. Abdome doloroso em hipogástrio, com ruídos hidroaéreos diminuídos; pelve instável. Glasgow 13 (O3 V4 M6), pupilas isocóricas e fotorreagentes. A UPA dispõe apenas de hemograma e radiografia simples; não possui tomografia computadorizada, banco de sangue ou cirurgião. O hospital de referência em trauma situa-se a 34 km. Considerando os princípios do atendimento inicial ao trauma e a capacidade resolutiva da unidade, qual é a conduta prioritária mais adequada?",
+  "alts": [
+   "Infundir grande volume de cristalóides; acionar a Central de Regulação; elaborar termo de consentimento obrigatório antes da remoção e encaminhar o paciente ao hospital de referência por meio de suporte básico.",
+   "Realizar estabilização clínica incluindo imobilização pélvica; acionar a Central de Regulação; contactar o serviço receptor; solicitar suporte avançado para a remoção e elaborar documento de transferência.",
+   "Encaminhar rapidamente o paciente por meio de suporte avançado; realizar a comunicação com o hospital receptor por meio da equipe de transporte e elaborar a documentação de transferência ao final da remoção.",
+   "Estabilizar o paciente; solicitar autorização da família para a transferência; contactar previamente o serviço receptor; elaborar documento de transferência e solicitar suporte básico para a remoção."
+  ],
+  "gab": 1,
+  "tema": "trauma",
+  "sub": "Triagem e regulação",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "ATLS 11ª ed., 2025; Resolução CFM nº 1.672/2003 (transporte inter-hospitalar)",
+  "coment": "Paciente em choque com pelve instável numa unidade sem cirurgião, tomografia ou banco de sangue precisa de transferência precoce para centro de trauma. O ATLS manda estabilizar o possível, incluindo o cinto pélvico, sem atrasar a transferência e evitando grandes volumes de cristaloide. A Resolução CFM 1.672/2003 exige contato prévio e aceite do serviço receptor, transporte em suporte avançado para paciente grave, acompanhado por médico, e documento de transferência com resumo clínico.",
+  "porAlt": [
+   "Grandes volumes de cristaloide pioram a coagulopatia, e paciente em choque exige suporte avançado, não básico.",
+   "Correta: estabilizar com cinto pélvico, regular, contatar o receptor e remover em suporte avançado com documento de transferência.",
+   "O contato com o hospital receptor e a documentação precisam ocorrer antes da remoção, não ao final dela.",
+   "Paciente em choque precisa de suporte avançado, e a transferência de emergência não depende de autorização da família."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2026,
+   "prova": "Revalida 2026.1"
+  }
+ },
+ {
+  "q": "Um jovem de 18 anos procura atendimento médico queixando-se de um abaulamento na região inguinal direita que surgiu há cerca de 4 meses. Relata que a tumoração aparece quando ele carrega peso, mas desaparece completamente ao se deitar. Nega dor, vômitos ou distensão abdominal. Ao exame físico, nota-se uma massa redutível que se projeta pelo anel inguinal externo durante a manobra de Valsalva. O examinador realiza a manobra de oclusão do anel inguinal profundo (ponto médio entre a espinha ilíaca anterosuperior e a sínfise púbica) e solicita nova manobra de Valsalva. Durante a compressão firme do anel profundo, o abaulamento não se exterioriza. Qual a classificação da hérnia nesse caso?",
+  "alts": [
+   "Inguinal Direta.",
+   "Inguinal Indireta.",
+   "Femoral.",
+   "Mista."
+  ],
+  "gab": 1,
+  "tema": "hernias",
+  "sub": "Hérnia inguinal e femoral",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "HerniaSurge International Guidelines for groin hernia management, 2018",
+  "coment": "Na manobra de oclusão do anel inguinal profundo, o examinador comprime o anel profundo, no ponto médio entre a espinha ilíaca anterossuperior e o púbis, e pede Valsalva. Se o abaulamento não sai, a hérnia passa pelo anel profundo, lateral aos vasos epigástricos inferiores: é indireta. Se sai mesmo com a compressão, atravessa a parede posterior no triângulo de Hesselbach: é direta. A HerniaSurge 2018 lembra que a diferenciação clínica tem baixa acurácia, mas a lógica da manobra é essa.",
+  "porAlt": [
+   "Se fosse direta, a hérnia sairia mesmo com o anel profundo ocluído, pela parede posterior.",
+   "Correta: a hérnia contida pela oclusão do anel profundo é indireta.",
+   "A hérnia femoral sai abaixo do ligamento inguinal, não pelo anel inguinal externo.",
+   "A hérnia mista teria componente direto que se exteriorizaria apesar da compressão."
+  ],
+  "fonte": {
+   "banca": "Revalida (INEP/MEC)",
+   "ano": 2026,
+   "prova": "Revalida 2026.1"
+  }
+ }
+]

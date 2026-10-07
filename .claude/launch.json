@@ -1,0 +1,7 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {"name":"cirurgiamed","runtimeExecutable":"python3","runtimeArgs":["servir.py","8712"],"port":8712},
+    {"name":"cirurgiamed-teste","runtimeExecutable":"bash","runtimeArgs":["-c","cd /private/tmp/claude-501/-Users-matheusparente/bb6ce523-865e-4d81-9c8d-cd1fea0d6a74/scratchpad/teste-cg && python3 servir.py 8713"],"port":8713}
+  ]
+}

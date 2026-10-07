@@ -1,0 +1,952 @@
+[
+ {
+  "q": "Mulher de 46 anos foi submetida, há 3 semanas, a biópsia excisional de um linfonodo de 1,5 cm no triângulo posterior do pescoço, à direita, sob anestesia local e em regime ambulatorial. O anatomopatológico mostrou linfadenite reacional. Retorna com dor no ombro direito, dificuldade para elevar o braço acima da horizontal e sensação de peso no ombro. Ao exame, o ombro direito está mais baixo, há atrofia incipiente da borda superior do trapézio e escápula alada discreta à abdução. O esternocleidomastoideo tem força normal e a sensibilidade da pele do pescoço e da orelha está preservada. Qual estrutura foi lesada?",
+  "alts": [
+   "Nervo acessório, no seu trajeto pelo triângulo posterior",
+   "Nervo torácico longo, sobre o serrátil na parede do tórax",
+   "Nervo dorsal da escápula, no interior do escaleno médio",
+   "Tronco superior do plexo braquial, na região supraclavicular",
+   "Nervo supraescapular, ao passar pela incisura da escápula"
+  ],
+  "gab": 0,
+  "tema": "bases",
+  "sub": "Correlações anatômicas e técnico-cirúrgicas",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "tit",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023, anatomia cirúrgica do pescoço e lesão do nervo acessório",
+  "coment": "O nervo acessório (XI par) emerge da borda posterior do esternocleidomastoideo, perto do ponto de Erb, e cruza o triângulo posterior logo abaixo da lâmina superficial da fáscia cervical, em meio a linfonodos, até a face profunda do trapézio. Por ser superficial, é a estrutura mais lesada em biópsias dessa região. O ramo para o esternocleidomastoideo sai antes, por isso a lesão no triângulo posterior preserva esse músculo e denerva o trapézio: queda e dor no ombro, dificuldade de abduzir acima da horizontal e escápula alada lateral discreta. A prevenção é identificar o nervo antes de dissecar o linfonodo; reconhecida a lesão, a exploração precoce com neurorrafia ou enxerto tem melhor resultado que a tardia.",
+  "porAlt": [
+   "Correta: o nervo acessório cruza superficialmente o triângulo posterior depois de inervar o esternocleidomastoideo, e a lesão ali denerva só o trapézio.",
+   "A lesão do torácico longo paralisa o serrato anterior e dá escápula alada medial acentuada, sem queda do ombro, e o nervo não passa pelo campo da biópsia.",
+   "O dorsal da escápula inerva romboides e levantador da escápula; sua lesão não explica a queda do ombro nem a atrofia do trapézio.",
+   "A lesão do tronco superior do plexo causaria déficit motor e sensitivo no território de C5 e C6, como na paralisia de Erb, ausente aqui.",
+   "O supraescapular inerva supra e infraespinal; a lesão reduz abdução inicial e rotação externa, sem queda do ombro nem atrofia do trapézio."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, com doença ulcerosa péptica de longa data e uso irregular de omeprazol, é internado por vômitos pós-prandiais há 10 dias, com restos de alimento ingerido na véspera, e perda de 6 kg. Está com pressão arterial de 104/66 mmHg, frequência cardíaca de 108 bpm, mucosas secas e abdome com distensão epigástrica e vascolejo. Exames: sódio de 132 mEq/L, potássio de 2,9 mEq/L, cloro de 84 mEq/L, bicarbonato de 38 mEq/L, pH de 7,54, PaCO2 de 48 mmHg e creatinina de 1,6 mg/dL. O pH urinário é de 5,5. Além da sonda nasogástrica, qual é a reposição venosa inicial mais adequada?",
+  "alts": [
+   "Ringer lactato com cloreto de potássio associado",
+   "Soro fisiológico a 0,9% com cloreto de potássio",
+   "Soro glicosado a 5% e bicarbonato de sódio venoso",
+   "Solução salina a 3% associada a acetazolamida",
+   "Albumina a 20% seguida de furosemida em infusão"
+  ],
+  "gab": 1,
+  "tema": "bases",
+  "sub": "Equilíbrio hidroeletrolítico e ácido-base",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023, equilíbrio ácido-base e distúrbios da obstrução pilórica",
+  "coment": "A obstrução pilórica por úlcera crônica faz o paciente vomitar ácido clorídrico: o resultado é alcalose metabólica hipoclorêmica e hipocalêmica, com hipovolemia. A depleção de volume ativa a aldosterona, que retém sódio no túbulo distal trocando-o por potássio e hidrogênio; com o cloreto filtrado baixo, o sódio não é reabsorvido junto com cloreto e o rim excreta íons hidrogênio, o que produz a acidúria paradoxal (pH urinário de 5,5 apesar do pH sérico de 7,54) e piora a perda de potássio. Corrige-se oferecendo volume e cloreto: soro fisiológico a 0,9%, com cloreto de potássio quando houver diurese, sonda nasogástrica e supressão ácida. A cirurgia ou a dilatação da estenose vem depois do equilíbrio hidroeletrolítico.",
+  "porAlt": [
+   "O Ringer lactato traz menos cloreto que o soro fisiológico, e o lactato é metabolizado a bicarbonato, o que mantém a alcalose.",
+   "Correta: a alcalose hipoclorêmica com hipovolemia só se corrige com oferta de cloreto e volume, e o potássio entra assim que houver diurese.",
+   "Bicarbonato agravaria uma alcalose metabólica já intensa, e soro glicosado não repõe o volume extracelular perdido.",
+   "Salina hipertônica não é a reposição da desidratação, e a acetazolamida espolia potássio num paciente já hipocalêmico.",
+   "Albumina e diurético não tratam a perda de ácido clorídrico, e a furosemida piora a hipocalemia e a hipovolemia."
+  ]
+ },
+ {
+  "q": "Homem de 71 anos, com fibrilação atrial não valvar, hipertensão e diabetes, usa apixabana 5 mg duas vezes ao dia. Nunca teve acidente vascular cerebral nem embolia. Está programada colectomia direita videolaparoscópica para adenocarcinoma de ceco, procedimento classificado como de alto risco de sangramento. Peso de 78 kg, creatinina de 1,0 mg/dL, taxa de filtração glomerular estimada de 74 mL/min/1,73 m², hemoglobina de 12,8 g/dL e plaquetas de 210.000/mm³. Ecocardiograma sem trombo, sem estenose mitral e sem prótese valvar. Qual é o plano perioperatório da apixabana?",
+  "alts": [
+   "Suspensão 5 dias antes, com ponte de enoxaparina em dose plena",
+   "Manutenção até a véspera e reversão com andexanete na indução",
+   "Suspensão 2 dias antes, sem ponte, e retorno 48 a 72 h após",
+   "Suspensão 1 dia antes e retomada da dose plena na mesma noite",
+   "Troca por varfarina e operação com INR abaixo de 1,5 no dia"
+  ],
+  "gab": 2,
+  "tema": "periop",
+  "sub": "Avaliação do risco cirúrgico",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "CHEST 2022, Perioperative Management of Antithrombotic Therapy (Douketis et al.), baseada no estudo PAUSE",
+  "coment": "A diretriz do CHEST de 2022, apoiada no estudo PAUSE, orienta suspender a apixabana 1 a 2 dias antes do procedimento, sem dosagem do anticoagulante e sem ponte com heparina; na cirurgia de alto risco de sangramento, como uma colectomia oncológica, usa-se o extremo de 2 dias, com a última dose 3 dias antes da operação. O reinício em dose plena é feito cerca de 24 horas depois de procedimentos de baixo ou moderado risco e 48 a 72 horas depois dos de alto risco, com profilaxia de tromboembolismo nesse intervalo se indicada. A ponte com heparina não reduz embolia nos anticoagulantes diretos, que têm início e término de ação rápidos, e aumenta o sangramento. Agentes de reversão ficam para sangramento grave ou cirurgia de urgência.",
+  "porAlt": [
+   "Cinco dias de suspensão são do esquema da varfarina, e a ponte com heparina aumenta sangramento sem proteger contra embolia nos anticoagulantes diretos.",
+   "Andexanete é reservado a sangramento grave ou cirurgia de urgência, não a uma operação eletiva planejada.",
+   "Correta: em cirurgia de alto risco de sangramento, a apixabana sai 2 dias antes, sem heparina de ponte, e volta 48 a 72 horas depois.",
+   "Um dia de suspensão serve a procedimento de baixo risco, e retomar a dose plena no mesmo dia de uma colectomia expõe a sangramento.",
+   "Trocar o anticoagulante direto por varfarina complica o manejo sem nenhum ganho e exigiria suspender a varfarina dias antes."
+  ]
+ },
+ {
+  "q": "Mulher de 52 anos, 82 kg, está sendo submetida à exérese de lipoma de 12 cm no dorso sob anestesia local, em centro cirúrgico ambulatorial. Foram infiltrados 60 mL de bupivacaína a 0,5% sem vasoconstritor ao longo de 15 minutos. Pouco depois, refere zumbido, gosto metálico e dormência perioral, e em seguida apresenta crise convulsiva tônico-clônica. O monitor passa a mostrar frequência cardíaca de 44 bpm, QRS alargado e pressão arterial de 78/40 mmHg. A equipe interrompe a cirurgia, pede ajuda, ventila com oxigênio a 100% e administra midazolam, com fim da convulsão. Qual é o próximo passo específico?",
+  "alts": [
+   "Propofol em bolus de 2 mg/kg para prevenir nova convulsão",
+   "Vasopressina em bolus e adrenalina em dose plena na sequência",
+   "Lidocaína venosa a 1,5 mg/kg para estabilizar o ritmo cardíaco",
+   "Emulsão lipídica a 20%, com bolus de 100 mL em 2 a 3 minutos",
+   "Fenitoína venosa em dose de ataque para impedir nova crise"
+  ],
+  "gab": 3,
+  "tema": "periop",
+  "sub": "Anestesia local e locorregional",
+  "cenario": "cc",
+  "comp": "urg",
+  "nivel": "r2",
+  "base": "ASRA 2020, Checklist for Treatment of Local Anesthetic Systemic Toxicity (Neal, Neal e Weinberg)",
+  "coment": "Sintomas neurológicos prodrômicos, convulsão e colapso cardiovascular com bradicardia e QRS largo após grande volume de bupivacaína definem intoxicação sistêmica por anestésico local. O checklist da ASRA de 2020 manda pedir ajuda, ventilar com oxigênio a 100%, tratar a convulsão com benzodiazepínico e iniciar a emulsão lipídica a 20%: acima de 70 kg, bolus de 100 mL em 2 a 3 minutos e infusão de 200 a 250 mL em 15 a 20 minutos; abaixo de 70 kg, bolus de 1,5 mL/kg e infusão de 0,25 mL/kg/min. Se houver parada, a adrenalina é usada em doses reduzidas, de até 1 mcg/kg, e devem ser evitados vasopressina, bloqueadores de canal de cálcio, betabloqueadores e outros anestésicos locais. Propofol não substitui o lipídio e piora a instabilidade.",
+  "porAlt": [
+   "Propofol deprime ainda mais o miocárdio num paciente hipotenso e não substitui a emulsão lipídica.",
+   "A ASRA recomenda evitar vasopressina e usar adrenalina em doses reduzidas, porque doses plenas pioram a evolução na intoxicação por anestésico local.",
+   "Lidocaína é outro anestésico local e somaria toxicidade; a diretriz manda evitar anestésicos locais como antiarrítmico nesse cenário.",
+   "Correta: na intoxicação sistêmica por anestésico local em paciente acima de 70 kg, o checklist da ASRA indica bolus de 100 mL de emulsão lipídica a 20% e infusão contínua.",
+   "A convulsão já foi controlada com benzodiazepínico, e a fenitoína, bloqueadora de canal de sódio, não trata o colapso cardiovascular."
+  ]
+ },
+ {
+  "q": "Homem de 44 anos está no primeiro dia de pós-operatório de laparotomia por trauma abdominal fechado, com esplenectomia e rafia hepática. Recebeu 9 L de cristaloide e 12 concentrados de hemácias nas primeiras 18 horas. Na UTI, sob sedação profunda e bloqueio neuromuscular, apresenta pressão de pico na via aérea de 42 cmH2O, diurese de 10 mL/h nas últimas 6 horas e pressão arterial média de 62 mmHg com noradrenalina em dose crescente. O abdome está tenso, a sonda nasogástrica está aberta e a ultrassonografia à beira do leito mostra pouco líquido livre. A pressão intravesical, medida com 25 mL de soro em decúbito dorsal, é de 28 mmHg. Qual é a conduta?",
+  "alts": [
+   "Furosemida em infusão contínua com restrição hídrica e de sódio",
+   "Paracentese guiada por ultrassom e drenagem contínua do líquido",
+   "Elevação da PEEP e nova medida da pressão vesical em 6 horas",
+   "Hemodiálise contínua com ultrafiltração para balanço negativo",
+   "Laparotomia descompressiva com fechamento temporário do abdome"
+  ],
+  "gab": 4,
+  "tema": "complic",
+  "sub": "Síndrome compartimental abdominal",
+  "cenario": "uti",
+  "comp": "urg",
+  "nivel": "tit",
+  "base": "WSACS (World Society of the Abdominal Compartment Syndrome) 2013, definições consensuais e diretrizes de manejo",
+  "coment": "O consenso da WSACS de 2013 define hipertensão intra-abdominal como pressão sustentada ou repetida de 12 mmHg ou mais e síndrome compartimental abdominal como pressão sustentada acima de 20 mmHg associada a disfunção orgânica nova. A medida padrão é intravesical, com até 25 mL de soro, em decúbito dorsal, ao fim da expiração e com o transdutor zerado na linha axilar média. Este paciente tem 28 mmHg, oligúria, piora ventilatória e vasopressor crescente, depois de reanimação volumosa, e as medidas clínicas (sedação, bloqueio neuromuscular, descompressão gástrica) já estão em uso. Sem líquido livre drenável, a conduta é laparotomia descompressiva, com o abdome deixado aberto sob fechamento temporário e tentativa de fechamento precoce da parede.",
+  "porAlt": [
+   "Diurético não reduz a pressão intra-abdominal de forma útil e piora a perfusão num paciente em choque que depende de vasopressor.",
+   "A drenagem percutânea é opção quando há grande volume de líquido livre, o que a ultrassonografia afastou neste paciente.",
+   "Aumentar a PEEP piora a mecânica e o retorno venoso, e esperar 6 horas prolonga a isquemia renal e intestinal.",
+   "A ultrafiltração demora a reduzir o edema visceral e não alivia a compressão a tempo de evitar a falência orgânica.",
+   "Correta: pressão intra-abdominal acima de 20 mmHg com disfunção orgânica nova, sem resposta às medidas clínicas, é síndrome compartimental abdominal e exige descompressão cirúrgica."
+  ]
+ },
+ {
+  "q": "Mulher de 63 anos, com índice de massa corporal de 31 kg/m², está no terceiro dia de pós-operatório de retossigmoidectomia videolaparoscópica por adenocarcinoma, com anastomose primária. Recebe enoxaparina 40 mg por via subcutânea uma vez ao dia desde a noite da cirurgia e deambula sem ajuda desde o primeiro dia. Aceita dieta, tem trânsito intestinal presente e terá alta hoje. Não há história de trombose, hemoglobina de 11,4 g/dL, plaquetas de 260.000/mm³ e taxa de filtração glomerular estimada de 88 mL/min/1,73 m². Qual é a conduta quanto à profilaxia de tromboembolismo após a alta?",
+  "alts": [
+   "Suspender na alta, pois a paciente já deambula sozinha",
+   "Trocar por ácido acetilsalicílico até completar 35 dias",
+   "Manter heparina de baixo peso até completar 4 semanas",
+   "Profilaxia mecânica isolada com meias por 4 semanas",
+   "Iniciar varfarina com INR entre 2 e 3 por três meses"
+  ],
+  "gab": 2,
+  "tema": "complic",
+  "sub": "Tromboembolismo venoso",
+  "cenario": "enf",
+  "comp": "prev",
+  "nivel": "r2",
+  "base": "ASCO 2023, Venous Thromboembolism Prophylaxis and Treatment in Patients With Cancer: guideline update (Key et al., J Clin Oncol 2023;41:3063-3071)",
+  "coment": "Na atualização de 2023, a ASCO mantém a profilaxia farmacológica estendida, com heparina de baixo peso molecular por até 4 semanas, para pacientes submetidos a cirurgia oncológica abdominal ou pélvica maior, aberta ou laparoscópica, que tenham fatores de alto risco, como mobilidade restrita, obesidade, tromboembolismo prévio ou outros fatores adicionais; a mesma atualização passou a aceitar apixabana ou rivaroxabana como alternativas, com recomendação fraca. O risco de tromboembolismo depois da cirurgia oncológica persiste por semanas, bem além da alta, e independe de o paciente já andar. A profilaxia mecânica isolada é reservada a quem tem contraindicação a anticoagulante ou alto risco de sangramento. Esta paciente tem câncer, cirurgia pélvica e obesidade, um dos fatores de alto risco citados pela diretriz, e nenhum fator de sangramento.",
+  "porAlt": [
+   "Deambular não elimina o risco de trombose, que persiste por semanas depois da cirurgia oncológica.",
+   "O ácido acetilsalicílico não é a profilaxia recomendada pela ASCO no pós-operatório de câncer abdominal.",
+   "Correta: após cirurgia oncológica abdominal ou pélvica maior com fator de alto risco, como a obesidade, a ASCO recomenda profilaxia estendida por até 4 semanas.",
+   "Profilaxia mecânica isolada fica para quem tem contraindicação a anticoagulante, o que não é o caso.",
+   "Varfarina com alvo terapêutico é tratamento de trombose estabelecida, não profilaxia, e acrescenta risco de sangramento."
+  ]
+ },
+ {
+  "q": "Homem de 54 anos, 128 kg, é submetido a colectomia esquerda videolaparoscópica eletiva por doença diverticular complicada com fístula colovesical. Recebeu, 40 minutos antes da incisão, cefazolina 2 g e metronidazol 500 mg por via venosa. A dissecção é difícil por aderências pélvicas e, às 4 horas e 10 minutos de operação, a anastomose ainda não foi feita. A perda sanguínea estimada é de 400 mL, a função renal é normal e não há alergia conhecida. Qual seria o esquema correto de cefazolina para este paciente?",
+  "alts": [
+   "Dose de 3 g desde a indução e nova dose de 3 g após 4 horas",
+   "Dose de 2 g desde a indução e nova dose de 2 g após 8 horas",
+   "Dose de 1 g desde a indução e nova dose de 1 g após 2 horas",
+   "Dose de 3 g desde a indução e redose se perder 1,5 L de sangue",
+   "Dose de 2 g desde a indução e redose após 6 horas de cirurgia"
+  ],
+  "gab": 0,
+  "tema": "infeccao",
+  "sub": "Antibioticoprofilaxia",
+  "cenario": "cc",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "ASHP/IDSA/SIS/SHEA 2013, Clinical practice guidelines for antimicrobial prophylaxis in surgery",
+  "coment": "A diretriz conjunta ASHP, IDSA, SIS e SHEA de 2013 indica, na cirurgia colorretal, cefazolina associada a metronidazol, dados nos 60 minutos que antecedem a incisão. A cefazolina é de 2 g para a maioria dos adultos e de 3 g para quem pesa 120 kg ou mais, porque a concentração tecidual cai no obeso. O intervalo de redose da cefazolina é de 4 horas, contado a partir da dose pré-operatória, e a dose também é repetida quando a perda sanguínea passa de 1.500 mL. O metronidazol, de meia-vida longa, não tem redose prevista nessa duração de cirurgia. Este paciente deveria ter recebido 3 g na indução e precisa de nova dose de 3 g agora.",
+  "porAlt": [
+   "Correta: acima de 120 kg a cefazolina é de 3 g, e o intervalo de redose é de 4 horas contadas da dose pré-operatória.",
+   "A dose de 2 g subdosa o paciente de 128 kg, e 8 horas é muito mais que o intervalo de redose da cefazolina.",
+   "Um grama é dose insuficiente para adulto, e redose a cada 2 horas não corresponde à meia-vida da cefazolina.",
+   "A perda acima de 1,5 L é motivo adicional de redose, mas não substitui o intervalo de 4 horas, já vencido.",
+   "Operação acima de 4 horas exige nova dose de cefazolina, e 2 g não é a dose para quem pesa 128 kg."
+  ]
+ },
+ {
+  "q": "Homem de 61 anos, diabético com hemoglobina glicada de 11%, procura o pronto-socorro por dor perineal e escrotal intensa há 36 horas, que começou após um furúnculo perianal. Ao exame: temperatura de 38,9 °C, frequência cardíaca de 122 bpm, pressão arterial de 92/58 mmHg, edema e eritema do escroto e do períneo, bolhas hemorrágicas, área de pele acinzentada de 6 cm e crepitação à palpação. A dor é desproporcional ao aspecto da pele. Exames: leucócitos de 24.000/mm³, sódio de 129 mEq/L, glicose de 412 mg/dL e lactato de 4,1 mmol/L. Além da reanimação volêmica, qual é a conduta?",
+  "alts": [
+   "Ressonância da pelve para definir a extensão antes de levar ao centro cirúrgico",
+   "Desbridamento cirúrgico imediato e vancomicina junto com piperacilina-tazobactam",
+   "Antibiótico venoso de amplo espectro com reavaliação cirúrgica após 24 horas",
+   "Oxigenoterapia hiperbárica antes do primeiro desbridamento no centro cirúrgico",
+   "Drenagem percutânea guiada por tomografia e cefalosporina de terceira geração"
+  ],
+  "gab": 1,
+  "tema": "infeccao",
+  "sub": "Infecção necrotizante de partes moles",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "IDSA 2014, Practice Guidelines for the Diagnosis and Management of Skin and Soft Tissue Infections (Stevens et al.)",
+  "coment": "Dor desproporcional, crepitação, bolhas, necrose cutânea e choque no períneo de um diabético configuram gangrena de Fournier, fasciíte necrosante em geral polimicrobiana. Pela diretriz da IDSA de 2014, a cirurgia imediata é o tratamento principal: desbridamento de todo o tecido inviável, com reabordagem em 24 a 36 horas e depois diariamente até não haver mais necrose. O antibiótico empírico deve ser de amplo espectro, como vancomicina ou linezolida associada a piperacilina-tazobactam ou a um carbapenêmico, acrescentando clindamicina quando houver suspeita de estreptococo do grupo A. Exame de imagem não deve atrasar a cirurgia quando o quadro é claro, e a oxigenoterapia hiperbárica não tem lugar antes do controle cirúrgico do foco.",
+  "porAlt": [
+   "Com o diagnóstico clínico evidente, exame de imagem só atrasa a cirurgia, que é o tratamento que muda a mortalidade.",
+   "Correta: gangrena de Fournier com choque exige desbridamento imediato de todo o tecido inviável e antibiótico de amplo espectro com cobertura para MRSA e gram-negativos.",
+   "Antibiótico não penetra no tecido necrótico, e adiar a cirurgia por 24 horas aumenta a mortalidade da fasciíte necrosante.",
+   "A oxigenoterapia hiperbárica não substitui nem precede o desbridamento, e o transporte até a câmara atrasa o controle do foco.",
+   "Drenagem percutânea não remove necrose de fáscia, e cefalosporina isolada não cobre MRSA nem anaeróbios adequadamente."
+  ]
+ },
+ {
+  "q": "Homem de 74 anos, com doença arterial coronariana e angioplastia com stent há 4 anos, assintomático desde então, está no segundo dia de pós-operatório de gastrectomia subtotal por adenocarcinoma. A hemoglobina caiu de 8,9 para 7,6 g/dL, sem sinais de sangramento ativo: dreno com 60 mL de líquido seroso, sonda sem sangue e hematócrito estável nas últimas 12 horas. Está com pressão arterial de 128/76 mmHg, frequência cardíaca de 84 bpm, sem dor torácica nem dispneia, e o eletrocardiograma não mudou. Pela diretriz da AABB de 2023, qual limiar de hemoglobina orienta a transfusão neste paciente?",
+  "alts": [
+   "7 g/dL, o mesmo dos demais adultos internados estáveis",
+   "7,5 g/dL, o limiar admitido após a cirurgia cardíaca",
+   "8 g/dL, por ele ter doença cardiovascular preexistente",
+   "9 g/dL, pela idade acima de 70 anos e pelo porte cirúrgico",
+   "10 g/dL, para garantir a oferta de oxigênio à anastomose"
+  ],
+  "gab": 2,
+  "tema": "critico",
+  "sub": "Terapia transfusional",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "AABB 2023, Red Blood Cell Transfusion: International Guidelines (Carson et al., JAMA)",
+  "coment": "A diretriz internacional da AABB de 2023 recomenda estratégia restritiva para adultos internados e hemodinamicamente estáveis, com transfusão considerada abaixo de 7 g/dL (recomendação forte). Em concordância com os limiares usados nos ensaios, a própria diretriz admite 7,5 g/dL na cirurgia cardíaca e 8 g/dL na cirurgia ortopédica e em pacientes com doença cardiovascular preexistente, como este coronariopata. Com 7,6 g/dL ele está abaixo do limiar que lhe cabe: indica-se uma unidade de concentrado de hemácias e nova dosagem antes de decidir a seguinte. Idade isolada não muda o limiar, e alvos de 9 a 10 g/dL correspondem à estratégia liberal, sem benefício nos ensaios em pacientes estáveis.",
+  "porAlt": [
+   "Sete gramas por decilitro é o limiar geral, mas a diretriz admite 8 g/dL justamente para quem tem doença cardiovascular, como este paciente.",
+   "O limiar de 7,5 g/dL é o admitido na cirurgia cardíaca, que não é o caso deste paciente.",
+   "Correta: a AABB admite o limiar de 8 g/dL em quem tem doença cardiovascular preexistente, e com 7,6 g/dL ele deve receber uma unidade e ser reavaliado.",
+   "Idade isolada não muda o limiar transfusional, e 9 g/dL corresponde à estratégia liberal dos ensaios.",
+   "Manter 10 g/dL é estratégia liberal, sem benefício demonstrado nos ensaios em pacientes estáveis."
+  ]
+ },
+ {
+  "q": "Mulher de 78 anos, com fibrilação atrial, usa varfarina e chega ao pronto-socorro com dor lombar e no flanco esquerdo há 5 horas, sem trauma. Está pálida, com pressão arterial de 84/50 mmHg e frequência cardíaca de 124 bpm, que melhoram parcialmente para 96/58 mmHg após 1 L de cristaloide. Exames: hemoglobina de 6,8 g/dL (era 12,1 g/dL há um mês), INR de 4,2, plaquetas de 190.000/mm³ e creatinina de 1,3 mg/dL. A angiotomografia mostra hematoma retroperitoneal de 11 cm com pequeno extravasamento de contraste, e a radiologia intervencionista foi acionada. Além da transfusão de concentrado de hemácias, qual é a reversão indicada?",
+  "alts": [
+   "Plasma fresco congelado isolado, sem associação de vitamina K",
+   "Vitamina K por via oral e nova dosagem do INR após 24 horas",
+   "Idarucizumabe venoso, em duas doses de administração rápida",
+   "Complexo protrombínico de 4 fatores com vitamina K venosa",
+   "Andexanete alfa em bolus seguido de infusão por 2 horas"
+  ],
+  "gab": 3,
+  "tema": "critico",
+  "sub": "Reversão de anticoagulantes",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r3",
+  "base": "ACC 2020, Expert Consensus Decision Pathway on Management of Bleeding in Patients on Oral Anticoagulants",
+  "coment": "Hematoma retroperitoneal com extravasamento, queda de hemoglobina e instabilidade hemodinâmica é sangramento grave, e o anticoagulante precisa ser revertido de imediato. A via de decisão do ACC de 2020 recomenda, para o antagonista da vitamina K, o concentrado de complexo protrombínico de 4 fatores, que normaliza o INR em minutos com pequeno volume, associado à vitamina K por via venosa, que mantém a correção depois que os fatores infundidos são consumidos. O plasma fresco é alternativa quando não há concentrado, à custa de volume, demora e risco de sobrecarga. A vitamina K oral isolada leva horas para agir. Idarucizumabe é antídoto da dabigatrana e andexanete, dos inibidores do fator Xa. A embolização controla o ponto sangrante, mas não dispensa a reversão.",
+  "porAlt": [
+   "Plasma exige grande volume e tempo de descongelamento, e sem vitamina K o INR volta a subir quando os fatores infundidos se esgotam.",
+   "A vitamina K oral demora horas para agir e é inadequada em sangramento com instabilidade hemodinâmica.",
+   "Idarucizumabe é o antídoto específico da dabigatrana e não reverte a varfarina.",
+   "Correta: no sangramento grave por antagonista da vitamina K, o concentrado de complexo protrombínico de 4 fatores corrige o INR em minutos e a vitamina K venosa sustenta a correção.",
+   "Andexanete reverte inibidores do fator Xa, como apixabana e rivaroxabana, e não tem efeito sobre a varfarina."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos, motociclista, colidiu com um carro a cerca de 60 km/h. Na sala de trauma, tem via aérea pérvia com colar cervical, frequência respiratória de 10 irpm e escala de coma de Glasgow de 6 (abertura ocular 1, resposta verbal 2, resposta motora 3), com pupilas isocóricas e fotorreagentes. É intubado. O FAST é negativo, a radiografia de tórax e a de pelve são normais e não há sangramento externo. Após a intubação, a pressão arterial é de 96/60 mmHg e a frequência cardíaca de 98 bpm. A tomografia mostra contusões frontais bilaterais e hemorragia subaracnoide traumática, sem lesão com efeito de massa cirúrgico. Qual é a meta de pressão arterial a perseguir?",
+  "alts": [
+   "Sistólica entre 80 e 90 mmHg, pela hipotensão permissiva no trauma",
+   "Sistólica de 100 mmHg ou mais, alvo da faixa de 50 a 69 anos",
+   "Média de 65 mmHg, como no choque séptico do adulto internado",
+   "Sistólica abaixo de 140 mmHg, para conter a expansão das contusões",
+   "Sistólica de 110 mmHg ou mais, para manter a perfusão cerebral"
+  ],
+  "gab": 4,
+  "tema": "trauma",
+  "sub": "Trauma cranioencefálico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "tit",
+  "base": "Brain Trauma Foundation, Guidelines for the Management of Severe TBI, 4ª ed., 2016; ATLS 11ª ed., 2025",
+  "coment": "No TCE grave, a autorregulação do fluxo cerebral está prejudicada e a perfusão passa a depender da pressão arterial; um único episódio de hipotensão aumenta a mortalidade. A 4ª edição da diretriz da Brain Trauma Foundation (2016), adotada pelo ATLS, recomenda manter a pressão sistólica em 100 mmHg ou mais entre 50 e 69 anos e em 110 mmHg ou mais entre 15 e 49 anos e acima de 70 anos. Este paciente de 38 anos, com sistólica de 96 mmHg depois da intubação e sem fonte de sangramento, precisa de reposição volêmica e, se necessário, vasopressor para chegar a esse alvo. A hipotensão permissiva é estratégia do trauma penetrante de tronco e não se aplica a quem tem lesão cerebral.",
+  "porAlt": [
+   "A hipotensão permissiva serve ao trauma de tronco com sangramento não controlado e é contraindicada no TCE grave.",
+   "O alvo de 100 mmHg vale para quem tem entre 50 e 69 anos; este paciente tem 38 anos.",
+   "Pressão média de 65 mmHg é meta do choque séptico e fica aquém do necessário com autorregulação cerebral perdida.",
+   "Reduzir a sistólica é medida da hemorragia intracerebral espontânea, não do TCE grave com hipotensão.",
+   "Correta: entre 15 e 49 anos, a Brain Trauma Foundation e o ATLS pedem sistólica de 110 mmHg ou mais no TCE grave."
+  ]
+ },
+ {
+  "q": "Mulher de 72 anos escorregou no banheiro e caiu da própria altura, batendo a cabeça na parede há 2 horas. Chega ao pronto-socorro com colar cervical colocado pelo atendimento pré-hospitalar. Está alerta, com escala de coma de Glasgow de 15, sem uso de álcool ou sedativos, sem outras lesões dolorosas que distraiam a atenção e sem queixa de parestesias. Refere dor leve na nuca. À palpação, não há dor na linha média da coluna cervical, e o exame neurológico dos quatro membros é normal. Pressão arterial de 146/88 mmHg e frequência cardíaca de 82 bpm. Pela regra canadense para a coluna cervical, qual é a conduta?",
+  "alts": [
+   "Manter o colar e solicitar tomografia da coluna cervical",
+   "Retirar o colar, porque não há dor à palpação da linha média",
+   "Testar rotação ativa do pescoço e liberar se girar 45 graus",
+   "Radiografia em três incidências como exame inicial da coluna",
+   "Ressonância magnética urgente como exame inicial da coluna"
+  ],
+  "gab": 0,
+  "tema": "trauma",
+  "sub": "Trauma raquimedular",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "Canadian C-Spine Rule (Stiell et al., JAMA 2001); ATLS 11ª ed., 2025",
+  "coment": "A regra canadense para a coluna cervical vale para pacientes alertas e estáveis, com Glasgow de 15. O primeiro passo é procurar fator de alto risco que obriga imagem: idade de 65 anos ou mais, mecanismo perigoso ou parestesias nas extremidades. Esta paciente tem 72 anos, então a ausência de dor na linha média e de déficit não permite retirar o colar pelo exame clínico, como permitiriam os critérios NEXUS. O teste de rotação ativa do pescoço só é feito em quem não tem fator de alto risco e tem algum fator de baixo risco. A tomografia é o exame de escolha, com sensibilidade superior à da radiografia, sobretudo no idoso, em quem a espondilose dificulta a leitura e fraturas ocorrem com trauma de baixa energia.",
+  "porAlt": [
+   "Correta: idade de 65 anos ou mais é fator de alto risco na regra canadense e obriga exame de imagem, preferencialmente a tomografia.",
+   "Pelos critérios NEXUS ela seria liberada, mas a regra canadense, mais sensível, exige imagem em quem tem 65 anos ou mais.",
+   "O teste de rotação ativa só é aplicado a quem não tem fator de alto risco, e a idade desta paciente já é um deles.",
+   "A tomografia é mais sensível que a radiografia, sobretudo no idoso com espondilose, e é o exame de escolha.",
+   "A ressonância complementa casos com déficit neurológico ou suspeita ligamentar, não é o exame inicial nesta paciente."
+  ]
+ },
+ {
+  "q": "Homem de 27 anos foi atingido por projétil de arma de fogo no hemitórax direito, com orifício de entrada no quinto espaço intercostal, na linha axilar média, sem orifício de saída. Na chegada, está com pressão arterial de 88/54 mmHg, frequência cardíaca de 126 bpm, frequência respiratória de 30 irpm e saturação de 89%. O murmúrio vesicular está abolido à direita, com macicez à percussão e traqueia centrada. Recebe 1 L de cristaloide aquecido e inicia transfusão de concentrado de hemácias. Na drenagem torácica, saem imediatamente 1.700 mL de sangue, e a pressão sobe para 96/60 mmHg. Qual é a conduta?",
+  "alts": [
+   "Observar o débito do dreno por 4 horas para decidir",
+   "Toracotomia direita de urgência no centro cirúrgico",
+   "Clampear o dreno para tamponar o hemotórax direito",
+   "Videotoracoscopia eletiva após estabilizar o paciente",
+   "Segundo dreno e tomografia de tórax com contraste"
+  ],
+  "gab": 1,
+  "tema": "tronco",
+  "sub": "Trauma torácico",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "ATLS 11ª ed., 2025, trauma torácico: hemotórax maciço",
+  "coment": "Hemotórax maciço é o acúmulo rápido de mais de 1.500 mL de sangue, ou cerca de um terço da volemia, na cavidade pleural, em geral por lesão de vaso sistêmico ou do hilo pulmonar. O ATLS indica toracotomia quando a drenagem imediata é de 1.500 mL ou mais, quando a drenagem contínua passa de 200 mL por hora durante 2 a 4 horas ou quando há necessidade persistente de transfusão. Este paciente tem volume inicial acima do limiar e choque, e a reposição é feita em paralelo à ida ao centro cirúrgico, com transfusão precoce de hemoderivados. Esperar o débito, clampear o dreno ou levar à tomografia atrasa o controle do sangramento. A videotoracoscopia é reservada ao hemotórax retido em paciente estável.",
+  "porAlt": [
+   "O débito horário sustentado é critério adicional, mas a drenagem inicial de 1.700 mL com choque já indica a cirurgia.",
+   "Correta: drenagem imediata de 1.500 mL ou mais, com instabilidade, caracteriza hemotórax maciço e indica toracotomia.",
+   "Clampear o dreno não controla o sangramento e pode causar tamponamento do mediastino e piora hemodinâmica.",
+   "A videotoracoscopia serve ao hemotórax retido no paciente estável, não à hemorragia ativa com choque.",
+   "Levar à tomografia um paciente instável com hemotórax maciço atrasa o controle cirúrgico do sangramento."
+  ]
+ },
+ {
+  "q": "Homem de 24 anos sofreu ferimento por arma branca há 2 horas, com lesão de 2 cm no sétimo espaço intercostal esquerdo, na linha axilar anterior, abaixo do mamilo. Está com pressão arterial de 128/78 mmHg, frequência cardíaca de 88 bpm e saturação de 97% em ar ambiente. Não há sinais de irritação peritoneal, e a radiografia de tórax não mostra pneumotórax, hemotórax nem elevação diafragmática. O FAST é negativo para líquido pericárdico e abdominal. A tomografia de tórax e abdome com contraste não mostra lesão de víscera sólida, pneumoperitônio, líquido livre nem descontinuidade do diafragma. Hemoglobina de 14,1 g/dL. Qual é a conduta?",
+  "alts": [
+   "Alta após 24 horas de observação com exames seriados normais",
+   "Laparotomia mediana exploradora, já que o ferimento é penetrante",
+   "Videolaparoscopia diagnóstica para avaliar o diafragma esquerdo",
+   "Ressonância magnética do tórax para avaliar o diafragma esquerdo",
+   "Nova tomografia em 12 horas e cirurgia se surgir líquido livre"
+  ],
+  "gab": 2,
+  "tema": "tronco",
+  "sub": "Trauma abdominal",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "tit",
+  "base": "EAST 2018, Evaluation and management of traumatic diaphragmatic injuries (McDonald et al., J Trauma Acute Care Surg)",
+  "coment": "O ferimento penetrante na região toracoabdominal esquerda, entre o mamilo e o rebordo costal, tem risco relevante de lesão do diafragma, em geral pequena, silenciosa e invisível ao FAST e à tomografia. Não diagnosticada, evolui meses ou anos depois para hérnia diafragmática com encarceramento e estrangulamento de víscera, com mortalidade alta. A diretriz da EAST de 2018 recomenda laparoscopia, em vez de tomografia, para o diagnóstico de lesão diafragmática no paciente estável e sem peritonite com ferimento toracoabdominal esquerdo, e permite o reparo pela mesma via quando há experiência. À direita, o fígado protege contra a herniação, e a diretriz admite conduta mais conservadora.",
+  "porAlt": [
+   "Lesões diafragmáticas pequenas não dão sinais na observação, e a alta deixa o paciente exposto a hérnia diafragmática tardia.",
+   "Laparotomia de rotina em paciente estável sem peritonite expõe a cirurgia não terapêutica, com morbidade maior que a laparoscopia.",
+   "Correta: no ferimento toracoabdominal esquerdo com paciente estável e sem peritonite, a EAST recomenda laparoscopia para não deixar passar lesão diafragmática.",
+   "A ressonância não é o exame da urgência e tem sensibilidade limitada para pequenas lacerações do diafragma.",
+   "Tomografias seriadas mantêm a baixa sensibilidade para lesão diafragmática pequena e atrasam o diagnóstico."
+  ]
+ },
+ {
+  "q": "Homem de 35 anos, 80 kg, teve queimaduras por chama em ambiente aberto, de segundo grau profundo e terceiro grau, que somam 40% da superfície corporal, sem lesão inalatória. Iniciou Ringer lactato pela estimativa de 2 mL/kg por porcentagem de superfície queimada em 24 horas, com metade do volume programada para as primeiras 8 horas a partir da queimadura. Na quarta hora, tem pressão arterial de 108/64 mmHg, frequência cardíaca de 116 bpm e diurese de 18 mL/h nas duas últimas horas, por sonda vesical, com urina clara e sem pigmento. Lactato de 2,8 mmol/L. Qual é a conduta?",
+  "alts": [
+   "Furosemida venosa para elevar a diurese até o alvo de 40 mL por hora",
+   "Manter a vazão, pois a fórmula define o volume das primeiras 8 horas",
+   "Bolus de 2 L de Ringer lactato a cada hora até normalizar a diurese",
+   "Aumentar a vazão do Ringer lactato e reavaliar a diurese a cada 1 hora",
+   "Trocar o Ringer lactato por soro glicosado a 5% na mesma vazão atual"
+  ],
+  "gab": 3,
+  "tema": "queimados",
+  "sub": "Reposição volêmica",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "ABA, Clinical Practice Guidelines on Burn Shock Resuscitation (Cartotto et al., J Burn Care Res 2024;45:565-589); ATLS 11ª ed., 2025",
+  "coment": "A diretriz da American Burn Association sobre reanimação do choque do queimado (Cartotto et al., publicada em 2024) recomenda iniciar a reanimação do adulto com 2 mL/kg por porcentagem de superfície queimada, em vez dos 4 mL/kg da fórmula de Parkland, para reduzir o volume total, como já orientava o ATLS. A fórmula é só o ponto de partida: a vazão é titulada hora a hora pela diurese, com alvo de 0,5 mL/kg/h no adulto. Para 80 kg, o alvo é de 40 mL/h, e 18 mL/h com taquicardia e lactato elevado indicam reposição insuficiente: a vazão de cristaloide deve subir, com reavaliação horária. A ABA também recomenda considerar albumina humana, sobretudo nas queimaduras extensas, para reduzir o volume de cristaloide e melhorar a diurese. Bolus repetidos alimentam a sobrecarga (fluid creep), diurético mascara a hipovolemia e soro glicosado não repõe sódio.",
+  "porAlt": [
+   "Diurético aumenta a urina sem corrigir a hipovolemia e tira o único parâmetro confiável de titulação.",
+   "A fórmula estima o volume inicial, e a vazão deve ser ajustada hora a hora pela resposta do paciente.",
+   "Bolus repetidos favorecem a sobrecarga hídrica, com síndrome compartimental abdominal e de membros.",
+   "Correta: a fórmula é só o ponto de partida, e a vazão é titulada pela diurese, com alvo de 0,5 mL/kg/h no adulto.",
+   "Soro glicosado não repõe sódio nem expande o extracelular, o que a reanimação do queimado exige."
+  ]
+ },
+ {
+  "q": "Homem de 42 anos foi resgatado pelos bombeiros de um incêndio em apartamento após cerca de 20 minutos em ambiente fechado com fumaça. Chega ao pronto-socorro 40 minutos depois, com queimaduras de segundo grau em face e pescoço, pelos nasais chamuscados, fuligem na orofaringe e escarro escurecido. Refere rouquidão que piora desde o resgate, e há estridor inspiratório audível. Está com saturação de 97% em ar ambiente no oxímetro de pulso, frequência respiratória de 26 irpm, frequência cardíaca de 112 bpm, pressão arterial de 134/82 mmHg e Glasgow de 14. Qual é a conduta imediata?",
+  "alts": [
+   "Nebulização com adrenalina e reavaliar a via aérea em 2 horas",
+   "Oxigênio por cateter nasal guiado pela saturação de pulso",
+   "Broncoscopia diagnóstica antes de decidir pela intubação",
+   "Corticoide venoso em dose alta para reduzir o edema glótico",
+   "Intubação orotraqueal precoce, com tubo de grosso calibre"
+  ],
+  "gab": 4,
+  "tema": "queimados",
+  "sub": "Lesão inalatória",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "ATLS 11ª ed., 2025, lesões térmicas: via aérea e lesão inalatória",
+  "coment": "Exposição à fumaça em ambiente fechado, queimadura de face, pelos chamuscados e escarro carbonáceo sugerem lesão inalatória; rouquidão progressiva e estridor indicam edema supraglótico que vai aumentar nas próximas horas, sobretudo com a reposição volêmica. O ATLS orienta intubar cedo, com o maior tubo possível, que facilita aspiração de fuligem e broncoscopia, antes que uma intubação fácil se torne impossível. A oximetria de pulso não distingue carboxi-hemoglobina de oxi-hemoglobina e superestima a oxigenação, por isso o paciente deve receber oxigênio a 100% e dosagem de carboxi-hemoglobina na gasometria. Broncoscopia confirma a lesão, mas não deve atrasar a via aérea, e corticoide não tem papel.",
+  "porAlt": [
+   "A adrenalina inalatória não controla o edema térmico progressivo, e esperar 2 horas torna a intubação mais difícil.",
+   "A oximetria de pulso superestima a oxigenação na intoxicação por monóxido de carbono, e o cateter nasal não oferece oxigênio a 100%.",
+   "A broncoscopia confirma a lesão inalatória, mas não deve atrasar o controle da via aérea com estridor.",
+   "Corticoide não reduz o edema da lesão inalatória e aumenta o risco de infecção no queimado.",
+   "Correta: rouquidão progressiva e estridor indicam edema supraglótico em evolução, e a intubação precoce evita a via aérea impossível."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos foi internado com dor na fossa ilíaca direita havia 7 dias, febre de 38,2 °C e massa dolorosa palpável, sem peritonite difusa. A tomografia mostrou apendicite complicada com abscesso periapendicular de 5 cm, bem delimitado. Foi tratado com antibiótico venoso e drenagem percutânea guiada por tomografia, com melhora clínica, normalização dos leucócitos e retirada do dreno no quinto dia. Teve alta no sexto dia. Retorna ao ambulatório 3 semanas depois, assintomático, sem alteração do hábito intestinal e sem perda de peso. Nunca fez colonoscopia. Qual é a conduta de seguimento mais adequada?",
+  "alts": [
+   "Apendicectomia de intervalo, eletiva, entre 6 e 12 semanas do episódio",
+   "Colonoscopia e tomografia contrastada, sem nenhuma operação de intervalo",
+   "Alta sem novos exames nem cirurgia, já que o abscesso foi resolvido",
+   "Colectomia direita eletiva, já indicada pelo risco de câncer oculto",
+   "Antibiótico oral por 6 meses para evitar uma recidiva da apendicite"
+  ],
+  "gab": 0,
+  "tema": "abdome",
+  "sub": "Apendicite aguda",
+  "cenario": "amb",
+  "comp": "prev",
+  "nivel": "r3",
+  "base": "WSES 2025, Diagnosis and Treatment of Acute Appendicitis: 2025 Edition of the Jerusalem Guidelines (Podda et al., JAMA Surg 2026;161:283-295)",
+  "coment": "Pela edição 2025 das diretrizes de Jerusalém da WSES (Podda et al., JAMA Surg 2026), o adulto de 35 anos ou mais com abscesso apendicular é tratado de início sem cirurgia, com antibiótico venoso e drenagem percutânea quando a coleção é acessível, e depois se recomenda apendicectomia de intervalo em 6 a 12 semanas (recomendação forte, certeza moderada). O motivo é a neoplasia escondida no abscesso ou no plastrão, cuja frequência sobe com a idade e que só a peça cirúrgica confirma ou afasta. A regra de 2020 era outra: sem apendicectomia de intervalo de rotina abaixo de 40 anos e colonoscopia com tomografia a partir dos 40. Abaixo de 35 anos, a WSES 2025 prefere a laparoscopia precoce onde há experiência, e na criança não indica intervalo de rotina. Este paciente de 52 anos, assintomático 3 semanas após a alta, deve ter a apendicectomia programada para a janela de 6 a 12 semanas do episódio.",
+  "porAlt": [
+   "Correta: a partir dos 35 anos, depois do tratamento não operatório do abscesso, a WSES 2025 recomenda apendicectomia de intervalo em 6 a 12 semanas (forte).",
+   "Era a conduta da WSES 2020 a partir dos 40 anos; a edição 2025 trocou a vigilância por exames pela apendicectomia de intervalo a partir dos 35.",
+   "Aos 52 anos o risco de neoplasia oculta no apêndice é real, e a alta sem plano pode deixá-la passar.",
+   "Colectomia sem diagnóstico de neoplasia é tratamento excessivo; a apendicectomia dá o diagnóstico e na maioria das vezes basta.",
+   "Antibiótico prolongado não tem indicação depois da resolução e não substitui a retirada do apêndice."
+  ]
+ },
+ {
+  "q": "Mulher de 76 anos, com fibrilação atrial sem anticoagulação, tem dor abdominal súbita e intensa há 6 horas, desproporcional ao exame, que mostra abdome pouco doloroso à palpação. Teve um episódio de evacuação líquida. Está com frequência cardíaca de 118 bpm irregular, pressão arterial de 132/78 mmHg, leucócitos de 19.000/mm³ e lactato de 4,8 mmol/L. A angiotomografia mostra falha de enchimento na artéria mesentérica superior cerca de 6 cm após a origem, depois da saída da artéria cólica média, sem calcificação ostial e sem circulação colateral desenvolvida. Na laparotomia, qual padrão de isquemia é esperado?",
+  "alts": [
+   "Isquemia em bloco do intestino médio, do duodeno distal ao transverso",
+   "Jejuno proximal e transverso poupados; íleo e cólon direito isquêmicos",
+   "Cólon esquerdo e sigmoide isquêmicos, com o delgado e o ceco preservados",
+   "Segmentos isquêmicos salteados entre áreas sãs, com pulsos palpáveis",
+   "Ângulo esplênico isquêmico, com o reto preservado pela hipogástrica"
+  ],
+  "gab": 1,
+  "tema": "abdome",
+  "sub": "Isquemia mesentérica",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "tit",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023, isquemia mesentérica aguda; WSES 2022, guidelines on acute mesenteric ischaemia",
+  "coment": "O êmbolo, quase sempre de origem cardíaca, impacta na artéria mesentérica superior alguns centímetros depois da origem, onde a artéria se afila após dar a cólica média e os primeiros ramos jejunais. Por isso a embolia costuma poupar o jejuno proximal e o cólon transverso e compromete jejuno distal, íleo, ceco e cólon ascendente. A trombose ocorre sobre placa no óstio e isquemia o território inteiro, do duodeno distal ao transverso. A isquemia não oclusiva produz segmentos salteados com vasos pérvios, e o cólon esquerdo pertence à mesentérica inferior. Na laparotomia, a conduta é embolectomia pela raiz do mesentério, ressecção do que ficar inviável depois da revascularização e reavaliação programada (second look) quando a viabilidade é duvidosa.",
+  "porAlt": [
+   "A isquemia de todo o intestino médio, desde o duodeno distal, é o padrão da trombose ostial sobre placa aterosclerótica.",
+   "Correta: o êmbolo impacta após a origem da cólica média e das primeiras jejunais, poupando jejuno proximal e transverso e isquemiando o território distal.",
+   "Cólon esquerdo e sigmoide dependem da mesentérica inferior, não ocluída neste caso.",
+   "Segmentos salteados com vasos pérvios são o padrão da isquemia mesentérica não oclusiva, de baixo fluxo.",
+   "A isquemia do ângulo esplênico em zona de transição é típica da colite isquêmica de baixo fluxo, não da embolia."
+  ]
+ },
+ {
+  "q": "Mulher de 44 anos, auxiliar de enfermagem, tem abaulamento na região inguinal direita há 8 meses, que aumenta ao fim do plantão e causa dor ao carregar pacientes. Ao exame em pé, há abaulamento redutível acima do ligamento inguinal, sem abaulamento abaixo dele. A ultrassonografia descreve hérnia inguinal indireta à direita, sem hérnia contralateral. Não tem cirurgias abdominais prévias, índice de massa corporal de 26 kg/m², ASA I, e não usa anticoagulantes. O serviço tem cirurgiões treinados nas técnicas laparoendoscópicas. Qual é a técnica preferível?",
+  "alts": [
+   "Técnica de Lichtenstein, com tela fixada ao ligamento",
+   "Técnica de Shouldice, sem tela, pela idade da paciente",
+   "Reparo por via laparoendoscópica, TEP ou TAPP, com tela",
+   "Ligadura alta do saco, sem reforço da parede posterior",
+   "Conduta expectante, com operação se houver encarceramento"
+  ],
+  "gab": 2,
+  "tema": "hernias",
+  "sub": "Hérnia inguinal e femoral",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "HerniaSurge 2018 (International guidelines for groin hernia management, Hernia) e atualização 2023 (Stabilini, BJS Open 2023)",
+  "coment": "Na mulher, uma parcela relevante das hérnias operadas como inguinais tem hérnia femoral associada ou é, na verdade, femoral, e o exame físico e a ultrassonografia falham em identificá-la. A HerniaSurge de 2018 sugeriu o reparo laparoendoscópico (TEP ou TAPP) nas hérnias da virilha femininas, havendo experiência, para reduzir a dor crônica e não deixar passar hérnia femoral, porque a via posterior expõe e cobre o orifício miopectíneo inteiro, incluindo o anel femoral. A atualização de 2023 (Stabilini et al., BJS Open) foi além: recomenda com força forte a técnica laparoendoscópica na hérnia inguinal primária unilateral de pacientes de todos os sexos, desde que haja cirurgião experiente e recursos, pela menor dor pós-operatória e crônica. Na via anterior, a hérnia femoral não vista aparece depois como recidiva, muitas vezes já como urgência. O Shouldice é o reparo sem tela de escolha, reservado a casos selecionados, e a ligadura isolada do saco pertence à cirurgia pediátrica.",
+  "porAlt": [
+   "O Lichtenstein não explora nem cobre o orifício femoral, e hérnias femorais não vistas reaparecem como recidiva.",
+   "O Shouldice é o reparo sem tela de escolha só em casos selecionados, com hérnia femoral excluída, e a idade não justifica dispensar a tela.",
+   "Correta: a HerniaSurge sugere a via laparoendoscópica na mulher desde 2018, e a atualização de 2023 a recomenda para todos os sexos quando há experiência.",
+   "A ligadura alta do saco isolada é tática da hérnia pediátrica e não basta no adulto.",
+   "A paciente tem dor que limita o trabalho, e a conduta expectante não se aplica a hérnia sintomática."
+  ]
+ },
+ {
+  "q": "Homem de 50 anos está sendo submetido a hernioplastia inguinal esquerda por via transabdominal pré-peritoneal (TAPP), por hérnia direta. Após a abertura do peritônio e a dissecção do espaço pré-peritoneal, a tela de polipropileno de 15 x 12 cm está posicionada cobrindo os orifícios direto, indireto e femoral. O residente propõe aplicar um grampo na área triangular situada entre o ducto deferente, medialmente, e os vasos espermáticos, lateralmente, abaixo do trato iliopúbico, para evitar o deslocamento inferior da tela. Qual estrutura corre risco nesse ponto?",
+  "alts": [
+   "Nervo cutâneo femoral lateral, no triângulo da dor",
+   "Vasos epigástricos inferiores, no anel interno",
+   "Nervo ílio-hipogástrico, acima do trato iliopúbico",
+   "Vasos ilíacos externos, no triângulo da desgraça",
+   "Artéria obturatória aberrante, no ramo do púbis"
+  ],
+  "gab": 3,
+  "tema": "hernias",
+  "sub": "Hérnia inguinal e femoral",
+  "cenario": "cc",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023, anatomia laparoscópica da região inguinal; HerniaSurge 2018 e atualização 2023 (Stabilini, BJS Open 2023)",
+  "coment": "Na visão posterior da região inguinal, o triângulo da desgraça (triangle of doom) é limitado medialmente pelo ducto deferente e lateralmente pelos vasos espermáticos, com ápice no anel inguinal interno, e contém os vasos ilíacos externos. Lateral aos vasos espermáticos e abaixo do trato iliopúbico fica o triângulo da dor, com o nervo cutâneo femoral lateral e o ramo femoral do genitofemoral. Nenhum grampo ou tacker é aplicado abaixo do trato iliopúbico nesses dois triângulos; quando a fixação é usada, vai no ligamento de Cooper, no músculo reto e acima do trato iliopúbico. A coroa da morte, anastomose entre os sistemas obturatório e epigástrico, cruza o ramo superior do púbis e pode ser lesada na fixação ao ligamento de Cooper.",
+  "porAlt": [
+   "O nervo cutâneo femoral lateral está no triângulo da dor, lateral aos vasos espermáticos, não entre eles e o deferente.",
+   "Os vasos epigástricos inferiores ficam medialmente ao anel interno, acima do trato iliopúbico, fora do triângulo descrito.",
+   "O ílio-hipogástrico corre na parede anterior, acima do campo da TAPP, e não está no triângulo inferior descrito.",
+   "Correta: o triângulo da desgraça, entre o ducto deferente e os vasos espermáticos, contém os vasos ilíacos externos.",
+   "A coroa da morte cruza o ramo superior do púbis junto ao ligamento de Cooper, medialmente ao triângulo descrito."
+  ]
+ },
+ {
+  "q": "Mulher de 49 anos tem disfagia para sólidos e líquidos há 2 anos, episódios de dor retroesternal em aperto durante as refeições e perda de 5 kg. A endoscopia não mostra lesão mucosa nem neoplasia na cárdia, com pequena estase de líquido. O esofagograma mostra ondas terciárias e afilamento distal. A manometria de alta resolução mostra pressão de relaxamento integrada mediana de 28 mmHg, ausência de peristalse normal e contrações prematuras (latência distal abaixo de 4,5 segundos e integral contrátil distal acima de 450 mmHg·s·cm) em 60% das deglutições. Tem bom estado geral e não tem cirurgias prévias. Qual é o tratamento de escolha?",
+  "alts": [
+   "Dilatação pneumática seriada da cárdia como primeira opção",
+   "Toxina botulínica como tratamento definitivo da paciente",
+   "Bloqueador de canal de cálcio como tratamento definitivo",
+   "Fundoplicatura de Nissen isolada, sem miotomia do esôfago",
+   "Miotomia endoscópica peroral (POEM), com miotomia longa"
+  ],
+  "gab": 4,
+  "tema": "esofago",
+  "sub": "Acalasia e distúrbios motores",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ACG 2020, Clinical Guidelines: Diagnosis and Management of Achalasia (Vaezi et al.); Classificação de Chicago 4.0, 2021 (Yadlapati et al., Neurogastroenterol Motil)",
+  "coment": "Pressão de relaxamento integrada elevada, ausência de peristalse normal e 20% ou mais de deglutições com contração prematura (latência distal abaixo de 4,5 segundos, com integral contrátil distal acima de 450 mmHg·s·cm) definem acalasia tipo III, espástica, pela Classificação de Chicago 4.0. Nesse subtipo, a obstrução se estende ao corpo do esôfago, e os tratamentos dirigidos só ao esfíncter, como a dilatação pneumática e a miotomia limitada à junção, têm resultado pior. A diretriz do ACG de 2020 sugere o POEM no tipo III, porque permite uma miotomia tão longa quanto o segmento espástico visto na manometria. Toxina botulínica e bloqueadores de canal de cálcio são paliativos para quem não pode ser tratado, e a fundoplicatura de Nissen, completa, agrava a disfagia.",
+  "porAlt": [
+   "A dilatação pneumática tem resultado pior no tipo III, em que o problema se estende ao corpo esofágico.",
+   "A toxina botulínica tem efeito transitório e fica para quem não pode receber tratamento definitivo.",
+   "Os bloqueadores de canal de cálcio têm efeito modesto e transitório, sem papel como tratamento definitivo.",
+   "A fundoplicatura completa de Nissen agrava a disfagia na acalasia e não trata a obstrução da junção.",
+   "Correta: na acalasia tipo III, a ACG aponta o POEM como opção preferível, porque a miotomia pode ser estendida por todo o segmento espástico."
+  ]
+ },
+ {
+  "q": "Mulher de 34 anos fez bypass gástrico em Y de Roux por via laparoscópica há 18 meses e perdeu 38 kg. Há 3 semanas tem episódios de dor abdominal em cólica após as refeições, que melhoram sozinhos em algumas horas. Há 8 horas a dor ficou contínua, no mesogástrio e no hipocôndrio esquerdo, com náuseas e um vômito pequeno. Está com frequência cardíaca de 104 bpm, pressão arterial de 118/72 mmHg, temperatura de 37,3 °C e abdome com dor difusa leve, sem sinais de peritonite. Leucócitos de 11.200/mm³, lactato de 2,1 mmol/L e amilase normal. A tomografia mostra o sinal do redemoinho no mesentério, com alças de delgado agrupadas no quadrante superior esquerdo. Qual é a conduta?",
+  "alts": [
+   "Laparoscopia de urgência, redução das alças e fechamento dos defeitos",
+   "Endoscopia digestiva alta para avaliar úlcera da anastomose gastrojejunal",
+   "Sonda nasogástrica, jejum e nova tomografia de abdome após 24 horas",
+   "Colecistectomia videolaparoscópica por provável colelitíase sintomática",
+   "Dilatação endoscópica da anastomose gastrojejunal por estenose tardia"
+  ],
+  "gab": 0,
+  "tema": "esofago",
+  "sub": "Cirurgia bariátrica e metabólica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "tit",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023, cirurgia bariátrica: complicações tardias do bypass gástrico",
+  "coment": "Depois do bypass gástrico, a perda de peso reduz a gordura mesentérica e alarga o espaço de Petersen, entre a alça alimentar e o mesocólon transverso, e a brecha do mesentério na enteroenteroanastomose, por onde o delgado pode herniar e torcer. A dor costuma ser em cólica, pós-prandial e intermitente, com exame pobre até que haja sofrimento de alça. Na tomografia, o redemoinho dos vasos mesentéricos é o achado mais associado à hérnia interna. Como a alça biliopancreática é excluída do trânsito, a obstrução dela pode cursar sem vômitos importantes e não se descomprime por sonda. Suspeita fundamentada indica exploração de urgência, em geral laparoscópica, com redução das alças e fechamento de todos os defeitos.",
+  "porAlt": [
+   "Correta: o quadro e o sinal do redemoinho indicam hérnia interna após o bypass, que exige exploração de urgência com fechamento dos espaços mesentéricos.",
+   "Úlcera marginal causa dor epigástrica contínua e sangramento, e não explica o redemoinho mesentérico.",
+   "A alça biliopancreática obstruída não é descomprimida pela sonda, e esperar 24 horas arrisca necrose do delgado.",
+   "A litíase é comum após perda de peso, mas não explica a dor em cólica com alterações do mesentério na tomografia.",
+   "A estenose da anastomose causa disfagia e vômitos precoces, não dor em cólica com redemoinho mesentérico."
+  ]
+ },
+ {
+  "q": "Homem de 67 anos, em uso de anti-inflamatório para artrose, foi internado com melena e hipotensão. A endoscopia mostrou úlcera de 2 cm na parede posterior do bulbo duodenal com vaso visível, tratada com injeção de adrenalina e clipes, e iniciou-se inibidor de bomba de prótons em dose alta. Trinta horas depois, teve nova melena volumosa com pressão arterial de 82/50 mmHg. Na segunda endoscopia, foi aplicado clipe montado em cap (over-the-scope), sem conseguir hemostasia. Após 4 concentrados de hemácias, está com pressão de 92/60 mmHg e frequência de 112 bpm. O hospital dispõe de radiologia intervencionista. Qual é a conduta?",
+  "alts": [
+   "Nova tentativa endoscópica com clipes e adrenalina injetável",
+   "Embolização arterial transcateter da artéria gastroduodenal",
+   "Gastrectomia subtotal urgente com reconstrução a Billroth II",
+   "Duodenotomia com sutura do vaso e vagotomia, sem embolização",
+   "Octreotida em infusão contínua e reavaliação clínica após 24 h"
+  ],
+  "gab": 1,
+  "tema": "hemorragia",
+  "sub": "Hemorragia digestiva alta não varicosa",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESGE 2021, Endoscopic diagnosis and management of nonvariceal upper gastrointestinal hemorrhage: guideline update (Gralnek et al.)",
+  "coment": "Pela diretriz da ESGE de 2021, o ressangramento de úlcera péptica deve ser tratado com nova endoscopia, considerando clipe montado em cap. Se essa segunda tentativa falha, a recomendação é embolização arterial transcateter, e a cirurgia é indicada quando a embolização não está disponível localmente ou falha (recomendação forte, evidência moderada). Na úlcera da parede posterior do bulbo, o vaso responsável é a artéria gastroduodenal, que corre atrás do duodeno. A embolização tem morbidade menor que a cirurgia em pacientes idosos e graves, à custa de algum ressangramento a mais. A suspensão do anti-inflamatório e a pesquisa de Helicobacter pylori completam o tratamento.",
+  "porAlt": [
+   "Depois de duas falhas, incluindo clipe montado em cap, nova tentativa endoscópica tem pouca chance e atrasa a hemostasia.",
+   "Correta: após falha da segunda tentativa endoscópica, a ESGE recomenda embolização transcateter, e a úlcera bulbar posterior sangra da gastroduodenal.",
+   "A gastrectomia é cirurgia de grande porte em paciente grave e fica para falha da embolização ou falta de radiologia intervencionista.",
+   "A sutura do vaso é a opção cirúrgica quando a embolização não está disponível ou falha, não a primeira escolha aqui.",
+   "A octreotida não tem papel no sangramento por úlcera péptica, e esperar 24 horas mantém o choque."
+  ]
+ },
+ {
+  "q": "Homem de 79 anos, hipertenso, com diverticulose conhecida, chega ao pronto-socorro com três episódios de hematoquezia volumosa nas últimas 3 horas. Na admissão, está com pressão arterial de 86/52 mmHg e frequência cardíaca de 124 bpm. Recebe 2 L de cristaloide e 2 concentrados de hemácias, com pressão de 98/60 mmHg e frequência de 112 bpm, mas mantém eliminação de sangue vivo pelo reto. A endoscopia digestiva alta até a segunda porção do duodeno não mostra sangue nem lesão. Hemoglobina de 7,4 g/dL, INR de 1,1 e plaquetas de 210.000/mm³. Qual é o próximo exame?",
+  "alts": [
+   "Colonoscopia de urgência nas primeiras 2 horas da admissão",
+   "Cintilografia com hemácias marcadas como exame inicial",
+   "Angiotomografia de abdome para localizar o sangramento",
+   "Cápsula endoscópica para avaliar o intestino delgado",
+   "Retossigmoidoscopia rígida à beira do leito na emergência"
+  ],
+  "gab": 2,
+  "tema": "hemorragia",
+  "sub": "Hemorragia digestiva baixa",
+  "cenario": "emg",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ACG 2023, Clinical Guideline: Management of Patients With Acute Lower Gastrointestinal Bleeding (Sengupta et al.)",
+  "coment": "Na hemorragia digestiva baixa com instabilidade hemodinâmica ou sangramento ativo, a diretriz do ACG de 2023 indica angiotomografia como primeiro exame diagnóstico, depois de afastar fonte alta, já que sangramento alto volumoso pode se apresentar como hematoquezia (aqui a endoscopia alta foi feita e é normal). Se a angiotomografia mostra extravasamento de contraste, o paciente vai para arteriografia com embolização. A colonoscopia, quando indicada, é feita de forma não emergencial, depois de preparo, porque a colonoscopia urgente não melhorou ressangramento nem mortalidade. A reanimação para otimizar pressão e frequência precede a investigação, e a colectomia sem localização prévia tem alta mortalidade e ressangramento.",
+  "porAlt": [
+   "A colonoscopia, quando necessária, é feita de forma não emergencial e com preparo, porque a urgente não melhorou desfechos.",
+   "A cintilografia é menos disponível, demora e localiza mal o ponto de sangramento.",
+   "Correta: na hemorragia digestiva baixa com instabilidade e sangramento ativo, a ACG indica angiotomografia como primeiro exame, seguida de embolização se houver extravasamento.",
+   "A cápsula não serve no sangramento volumoso e ativo, e não permite tratamento.",
+   "A retossigmoidoscopia avalia só o segmento distal e não localiza um sangramento diverticular proximal."
+  ]
+ },
+ {
+  "q": "Homem de 84 anos, com insuficiência cardíaca de fração reduzida, doença pulmonar obstrutiva crônica e doença renal crônica (índice de comorbidade de Charlson de 7, ASA III), tem dor no hipocôndrio direito e febre há 3 dias. Na UTI, recebe noradrenalina 0,2 mcg/kg/min, está confuso (Glasgow de 13) e tem relação PaO2/FiO2 de 240. Exames: leucócitos de 21.000/mm³, bilirrubina total de 1,2 mg/dL, creatinina de 1,9 mg/dL (basal de 1,7 mg/dL) e plaquetas de 150.000/mm³. A ultrassonografia mostra vesícula distendida, parede de 7 mm, cálculo impactado no infundíbulo, líquido perivesicular e colédoco de 5 mm. Já recebe antibiótico e suporte. Qual é a conduta?",
+  "alts": [
+   "Colecistectomia laparoscópica de urgência em até 24 horas",
+   "CPRE com papilotomia e prótese no colédoco de forma imediata",
+   "Antibiótico por 4 dias e reavaliação, sem drenar a vesícula",
+   "Colecistostomia percutânea trans-hepática guiada por imagem",
+   "Colecistectomia subtotal aberta de urgência pela gravidade"
+  ],
+  "gab": 3,
+  "tema": "hepatobiliar",
+  "sub": "Colelitíase e colecistite",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Tokyo Guidelines 2018 (TG18), flowchart for the management of acute cholecystitis",
+  "coment": "Pelas Diretrizes de Tóquio de 2018, disfunção cardiovascular com necessidade de noradrenalina, disfunção neurológica e relação PaO2/FiO2 abaixo de 300 classificam a colecistite como grau III. A colecistectomia laparoscópica precoce no grau III só é admitida em centro avançado quando a disfunção é favorável (cardiovascular ou renal rapidamente reversível), sem fatores preditivos negativos (disfunção neurológica, respiratória ou bilirrubina total de 2 mg/dL ou mais) e com Charlson até 3 e ASA até 2. Este paciente tem disfunções neurológica e respiratória, Charlson de 7 e ASA III: a conduta é suporte, antibiótico e drenagem urgente da vesícula, de preferência percutânea trans-hepática, com colecistectomia diferida se ele se recuperar.",
+  "porAlt": [
+   "A colecistectomia precoce no grau III exige disfunção favorável, sem fatores preditivos negativos, Charlson até 3 e ASA até 2, o que este paciente não tem.",
+   "Colédoco fino e bilirrubina normal não indicam obstrução biliar, e a CPRE não drena a vesícula obstruída no infundíbulo.",
+   "Com choque e disfunção orgânica, manter o foco infeccioso sem drenagem aumenta a mortalidade.",
+   "Correta: colecistite grau III com disfunções desfavoráveis e alto risco cirúrgico pede drenagem da vesícula, preferencialmente percutânea trans-hepática.",
+   "Cirurgia aberta em paciente instável e de alto risco tem morbimortalidade alta e não é a recomendação no grau III."
+  ]
+ },
+ {
+  "q": "Mulher de 61 anos é internada com cólica biliar há 2 dias, sem febre e sem calafrios. Está com pressão arterial de 132/80 mmHg, frequência cardíaca de 84 bpm e temperatura de 36,8 °C, com leve icterícia de escleras e dor à palpação do hipocôndrio direito, sem sinal de Murphy. A ultrassonografia mostra vesícula com múltiplos cálculos, parede de 2 mm e colédoco de 8 mm, sem cálculo visível no colédoco. Exames: bilirrubina total de 2,6 mg/dL, fosfatase alcalina de 320 U/L, gama-GT de 410 U/L, ALT de 180 U/L, lipase normal e leucócitos de 8.900/mm³. Qual é o próximo passo?",
+  "alts": [
+   "CPRE diagnóstica e terapêutica antes da colecistectomia",
+   "Colecistectomia laparoscópica, sem estudar o colédoco",
+   "Tomografia com contraste para afastar câncer periampular",
+   "Repetir as provas hepáticas em 48 horas e então decidir",
+   "Colangiorressonância ou ecoendoscopia antes de operar"
+  ],
+  "gab": 4,
+  "tema": "hepatobiliar",
+  "sub": "Coledocolitíase e colangite",
+  "cenario": "enf",
+  "comp": "dx",
+  "nivel": "r2",
+  "base": "ASGE 2019, Guideline on the role of endoscopy in the evaluation and management of choledocholithiasis (Buxbaum et al.)",
+  "coment": "A ASGE de 2019 estratifica a suspeita de coledocolitíase. Alto risco: cálculo no colédoco à ultrassonografia ou tomografia, colangite ascendente, ou bilirrubina total acima de 4 mg/dL com colédoco dilatado; nesses se vai direto à CPRE. Risco intermediário: provas hepáticas alteradas, idade acima de 55 anos ou colédoco dilatado à ultrassonografia; aqui se confirma antes, com ecoendoscopia ou colangiorressonância, ou durante a operação, com colangiografia ou ultrassonografia laparoscópica. Pelos critérios antigos de 2010, colédoco dilatado com bilirrubina entre 1,8 e 4 mg/dL já levaria à CPRE; a revisão de 2019 deslocou esse perfil para o risco intermediário. Esta paciente reúne os três critérios intermediários, mas tem bilirrubina de 2,6 mg/dL e nenhum cálculo visto. CPRE direta a exporia à pancreatite pós-CPRE sem garantia de cálculo, e operar sem avaliar o colédoco arrisca cálculo residual.",
+  "porAlt": [
+   "A CPRE direta é reservada ao alto risco; aqui a bilirrubina não passa de 4 mg/dL, não há cálculo visto e não há colangite.",
+   "Operar sem avaliar o colédoco numa paciente de risco intermediário arrisca deixar cálculo residual.",
+   "Não há massa nem dilatação desproporcional que sugira tumor periampular, e a tomografia é pouco sensível para cálculo no colédoco.",
+   "Repetir exames não muda a estratificação de risco e atrasa a definição sobre o colédoco.",
+   "Correta: provas hepáticas alteradas, idade acima de 55 anos e colédoco dilatado, sem os critérios de alto risco, colocam a paciente no risco intermediário da ASGE, que pede confirmação antes de intervir."
+  ]
+ },
+ {
+  "q": "Mulher de 45 anos foi internada há 18 horas com pancreatite aguda biliar: dor epigástrica em faixa, lipase de 2.400 U/L e ultrassonografia com colelitíase, colédoco de 5 mm. Está com pressão arterial de 124/78 mmHg, frequência cardíaca de 86 bpm, temperatura de 37,1 °C, diurese adequada, creatinina de 0,8 mg/dL, ureia estável e saturação de 98% em ar ambiente. Recebe Ringer lactato em volume moderado e analgesia, com dor controlada. Não tem náuseas nem vômitos e refere fome. Não há disfunção orgânica. Qual é a conduta nutricional?",
+  "alts": [
+   "Dieta oral sólida com pouca gordura nas primeiras 24 a 48 horas",
+   "Jejum até a normalização da lipase sérica e o fim completo da dor",
+   "Nutrição parenteral total nos primeiros 7 dias de internação",
+   "Sonda nasojejunal e dieta enteral contínua por cinco a sete dias",
+   "Dieta líquida clara por 72 horas antes de liberar os sólidos"
+  ],
+  "gab": 0,
+  "tema": "pancreas",
+  "sub": "Pancreatite aguda",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r1",
+  "base": "ACG 2024, Guidelines: Management of Acute Pancreatitis (Tenner et al., Am J Gastroenterol)",
+  "coment": "Na pancreatite aguda leve, a diretriz do ACG de 2024 recomenda alimentação oral precoce, com dieta sólida pobre em gordura nas primeiras 24 a 48 horas, conforme tolerância, sem esperar a dor desaparecer por completo ou a lipase normalizar; a enzima não guarda relação com gravidade nem com o tempo de recuperação. Começar por dieta sólida é seguro e dispensa a progressão a partir de líquidos claros. Quando a via oral não é possível, na pancreatite grave, prefere-se a nutrição enteral à parenteral. A diretriz desaconselha antibiótico profilático e orienta reposição volêmica guiada por metas clínicas, sem a hidratação agressiva de outrora. Na pancreatite biliar leve, a colecistectomia deve ser feita na mesma internação.",
+  "porAlt": [
+   "Correta: na pancreatite leve, a ACG recomenda dieta sólida pobre em gordura nas primeiras 24 a 48 horas, conforme tolerância.",
+   "O jejum prolongado não acelera a recuperação, e a lipase não guarda relação com gravidade nem com a melhora.",
+   "A nutrição parenteral tem mais infecção e complicações e não tem indicação em paciente que pode comer.",
+   "A sonda enteral fica para quem não tolera a via oral, geralmente na pancreatite grave, não neste caso leve.",
+   "Começar por líquidos claros não traz vantagem sobre a dieta sólida pobre em gordura e atrasa a alta."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos está no 32º dia de internação por pancreatite aguda alcoólica necrosante. Há 3 dias tem febre de 38,8 °C, leucócitos de 22.000/mm³ e procalcitonina de 4,2 ng/mL, com hemoculturas negativas. Recebe meropeném há 48 horas, está com pressão arterial de 118/70 mmHg sem vasopressor, saturação de 95% em ar ambiente e creatinina de 1,0 mg/dL, e tolera dieta por sonda nasoenteral. A tomografia mostra necrose encapsulada (walled-off) de 14 cm na retrocavidade dos epíploos, com bolhas de gás, parede bem definida e íntimo contato com a parede posterior do estômago. Qual é a conduta?",
+  "alts": [
+   "Necrosectomia aberta por laparotomia nas próximas 24 horas",
+   "Drenagem endoscópica transgástrica, com prótese de aposição",
+   "Antibiótico por 6 semanas e nova tomografia, sem drenagem",
+   "Punção aspirativa por agulha fina para cultura da necrose",
+   "Pancreatectomia corpocaudal com esplenectomia de urgência"
+  ],
+  "gab": 1,
+  "tema": "pancreas",
+  "sub": "Coleções e necrose pancreática",
+  "cenario": "uti",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "ACG 2024, Guidelines: Management of Acute Pancreatitis; AGA 2020, Clinical Practice Update on the Management of Pancreatic Necrosis (Baron et al.)",
+  "coment": "Gás em necrose pancreática, em paciente febril, define necrose infectada, e a punção para cultura é dispensável. A abordagem atual é a estratégia em degraus (step-up): antibiótico com boa penetração, como carbapenêmico, e drenagem adiada até a necrose se encapsular, de preferência depois de 4 semanas do início. Com a coleção encapsulada e encostada na parede gástrica, a drenagem endoscópica transmural, em geral com prótese metálica de aposição luminal, é a preferida, seguida de necrosectomia endoscópica se não houver melhora; a drenagem percutânea é alternativa quando a coleção não é acessível pelo estômago. A necrosectomia aberta precoce tem morbimortalidade maior e ficou para a falha dos métodos minimamente invasivos.",
+  "porAlt": [
+   "A necrosectomia aberta tem morbimortalidade maior e ficou para falha das abordagens minimamente invasivas.",
+   "Correta: na necrose infectada encapsulada aderida ao estômago, a estratégia em degraus começa pela drenagem endoscópica transmural, com necrosectomia endoscópica se necessário.",
+   "Antibiótico isolado resolve só parte das necroses infectadas; com febre persistente numa coleção de 14 cm já encapsulada, após 4 semanas, a drenagem está indicada.",
+   "O gás na coleção de um paciente febril já define infecção, e a punção para cultura é dispensável.",
+   "Ressecção pancreática não é tratamento da necrose infectada e tem morbimortalidade proibitiva neste cenário."
+  ]
+ },
+ {
+  "q": "Homem de 58 anos, com laparotomia por apendicite perfurada há 10 anos, tem dor abdominal em cólica, vômitos e parada de eliminação de gases e fezes há 30 horas. Está com frequência cardíaca de 92 bpm, pressão arterial de 128/80 mmHg, temperatura de 36,9 °C e abdome distendido, timpânico e sem sinais de peritonite. Leucócitos de 9.800/mm³, lactato de 1,4 mmol/L e potássio de 3,4 mEq/L. A tomografia mostra obstrução do delgado com zona de transição na fossa ilíaca direita, alças com realce normal, sem líquido livre, sem pneumatose e sem sinal de alça fechada. A sonda nasogástrica drenou 900 mL. Qual é o próximo passo?",
+  "alts": [
+   "Laparotomia exploradora imediata para liberação das bridas",
+   "Colonoscopia descompressiva para tentar resolver a obstrução",
+   "Contraste hidrossolúvel pela sonda e radiografias seriadas",
+   "Enema opaco baritado para localizar o ponto da obstrução",
+   "Procinético venoso e dieta líquida para estimular o trânsito"
+  ],
+  "gab": 2,
+  "tema": "intestino",
+  "sub": "Obstrução do intestino delgado",
+  "cenario": "enf",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "WSES 2017, Bologna guidelines for diagnosis and management of adhesive small bowel obstruction (atualização de 2017, publicada em 2018)",
+  "coment": "Sem sinais de estrangulamento, isquemia ou peritonite, a obstrução por bridas começa com tratamento não operatório: jejum, sonda nasogástrica, reposição de volume e de eletrólitos. As diretrizes de Bolonha da WSES (atualização de 2017) recomendam contraste hidrossolúvel, por via oral ou pela sonda, com finalidade diagnóstica e terapêutica: o contraste no cólon em até 24 horas prediz resolução sem cirurgia, e o uso reduz a necessidade de operação, o tempo até a resolução e a internação. Se o contraste não progride ao cólon, ou se surgem sinais de sofrimento de alça, indica-se a cirurgia, de preferência por laparoscopia em casos selecionados. Colonoscopia e enema não avaliam o delgado.",
+  "porAlt": [
+   "Sem isquemia, estrangulamento ou peritonite, a primeira linha é o tratamento não operatório com contraste hidrossolúvel.",
+   "A colonoscopia descomprime o cólon e não alcança uma obstrução de delgado.",
+   "Correta: na obstrução por bridas sem sinais de sofrimento, o contraste hidrossolúvel tem papel diagnóstico e terapêutico, e sua chegada ao cólon em 24 horas prediz resolução.",
+   "O enema opacifica o cólon e não avalia o delgado, e bário é evitado quando há risco de perfuração.",
+   "Procinético e dieta estão contraindicados na obstrução mecânica, que exige jejum e descompressão."
+  ]
+ },
+ {
+  "q": "Homem de 38 anos teve abscesso perianal drenado no pronto-socorro há 4 meses. Desde então, tem saída intermitente de secreção purulenta por um pequeno orifício na pele perianal, com períodos de melhora e piora. Não tem diarreia, perda de peso, lesões orais nem doença inflamatória conhecida. Ao exame em posição de litotomia, há orifício externo na metade posterior do ânus, às 7 horas, a 2 cm da borda anal, com cordão endurecido palpável. Toque retal sem massas e esfíncter com tônus normal. Pela regra de Goodsall, onde se espera o orifício interno?",
+  "alts": [
+   "Na cripta em frente ao orifício, com trajeto radial reto",
+   "Na cripta da linha média anterior, com trajeto curvo",
+   "Na cripta das 3 horas, após cruzar a linha transversa",
+   "Na cripta da linha média posterior, com trajeto curvo",
+   "Acima da linha pectínea, na parede posterior da ampola"
+  ],
+  "gab": 3,
+  "tema": "intestino",
+  "sub": "Doenças orificiais",
+  "cenario": "amb",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Sabiston Tratado de Cirurgia, 21ª ed., 2023, doenças anorretais: abscesso e fístula perianal",
+  "coment": "A fístula perianal criptoglandular nasce da infecção de uma glândula anal, que desemboca numa cripta na linha pectínea. A regra de Goodsall relaciona a posição do orifício externo com a do interno: traçando uma linha transversa pelo ânus, orifícios externos na metade anterior costumam ter trajeto radial curto até a cripta em frente, e os da metade posterior seguem trajeto curvo até a linha média posterior, onde as glândulas são mais numerosas e profundas. A exceção clássica são orifícios anteriores a mais de 3 cm da borda, que também terminam na linha média posterior. A regra orienta a busca com estilete no exame sob anestesia, mas falha numa parte dos casos, e a ressonância ajuda nas fístulas complexas ou recidivadas.",
+  "porAlt": [
+   "O trajeto radial curto até a cripta em frente é o padrão dos orifícios da metade anterior, a menos de 3 cm da borda.",
+   "A linha média anterior não é o destino dos orifícios posteriores; é na linha média posterior que eles terminam.",
+   "Trajetos que cruzam a linha transversa em direção a uma cripta lateral não fazem parte da regra.",
+   "Correta: orifícios externos na metade posterior seguem trajeto curvo até a cripta da linha média posterior.",
+   "O orifício interno criptoglandular fica na linha pectínea, onde estão as criptas, e não acima dela."
+  ]
+ },
+ {
+  "q": "Mulher de 39 anos tem nódulo de 1,8 cm no lobo direito da tireoide, sólido, hipoecoico, com microcalcificações, descoberto em exame de rotina. A punção aspirativa foi classificada como Bethesda VI, carcinoma papilífero. A ultrassonografia cervical completa não mostra linfonodos suspeitos nos compartimentos central e lateral, não há sinais de extensão extratireoidiana e o lobo esquerdo é normal. TSH de 1,8 mUI/L. Não tem história de irradiação cervical nem de câncer de tireoide na família, e a voz e a laringoscopia são normais. Qual é a cirurgia indicada?",
+  "alts": [
+   "Tireoidectomia total seguida de iodo-131",
+   "Tireoidectomia total e esvaziamento central",
+   "Tireoidectomia total e esvaziamento lateral",
+   "Nodulectomia com margem de tecido normal",
+   "Lobectomia direita com istmectomia isolada"
+  ],
+  "gab": 4,
+  "tema": "endocrina",
+  "sub": "Câncer de tireoide",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "ATA 2025, Management Guidelines for Adult Patients with Differentiated Thyroid Cancer",
+  "coment": "Pela diretriz da American Thyroid Association de 2025, o carcinoma diferenciado de até 2 cm, restrito a um lobo, sem extensão extratireoidiana e sem metástase linfonodal deve ser tratado com lobectomia. Entre 2 e 4 cm, nas mesmas condições, a lobectomia pode ser a preferida, com tireoidectomia total como opção por decisão compartilhada, por exemplo para permitir iodo radioativo ou diante de nódulos contralaterais suspeitos. A paciente deve ser informada da possibilidade de totalização se a histologia mostrar fatores de risco mais alto. O esvaziamento cervical é terapêutico quando há linfonodo comprometido; profilático, no compartimento central, não se indica em tumor pequeno sem invasão. A lobectomia preserva função tireoidiana em boa parte das pacientes e reduz o risco às paratireoides e aos laríngeos.",
+  "porAlt": [
+   "Em doença de baixo risco não se indica tireoidectomia total nem iodo radioativo de rotina.",
+   "O esvaziamento central profilático não é indicado em tumor pequeno, sem invasão e sem linfonodo suspeito.",
+   "O esvaziamento lateral é terapêutico, feito quando há metástase comprovada, e não eletivo.",
+   "A nodulectomia não é cirurgia oncológica da tireoide e deixa margem e controle local inadequados.",
+   "Correta: carcinoma diferenciado de até 2 cm, restrito a um lobo e sem linfonodo suspeito deve ser tratado com lobectomia, pela diretriz da ATA de 2025."
+  ]
+ },
+ {
+  "q": "Mulher de 46 anos, assintomática, teve cálcio sérico de 10,9 mg/dL (referência até 10,2 mg/dL) em exames de rotina, confirmado em segunda dosagem. O PTH é de 112 pg/mL, a 25-hidroxivitamina D de 34 ng/mL, o fósforo de 2,6 mg/dL, a creatinina de 0,7 mg/dL, com filtração estimada de 104 mL/min/1,73 m², e o cálcio urinário de 160 mg em 24 horas. A densitometria mostra T-score de -1,8 na coluna lombar e de -1,4 no colo do fêmur, e a radiografia não mostra fratura vertebral. A ultrassonografia renal não tem cálculos. A cintilografia com sestamibi sugere adenoma de paratireoide inferior esquerda. Qual é a conduta?",
+  "alts": [
+   "Paratireoidectomia, só pela idade abaixo de 50 anos",
+   "Observação anual, pois o cálcio está pouco elevado",
+   "Cinacalcete como tratamento definitivo da paciente",
+   "Alendronato e densitometria em 2 anos, sem operar",
+   "Paratireoidectomia, pela calciúria acima do normal"
+  ],
+  "gab": 0,
+  "tema": "endocrina",
+  "sub": "Hiperparatireoidismo",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r2",
+  "base": "Fifth International Workshop on the Evaluation and Management of Primary Hyperparathyroidism, 2022 (Bilezikian et al.)",
+  "coment": "No hiperparatireoidismo primário assintomático, o Quinto Workshop Internacional, de 2022, recomenda paratireoidectomia quando há pelo menos um dos critérios: cálcio sérico mais de 1 mg/dL acima do limite superior, critério esquelético (osteoporose na densitometria ou fratura vertebral), critério renal (filtração abaixo de 60 mL/min, nefrolitíase, nefrocalcinose ou hipercalciúria acentuada) ou idade abaixo de 50 anos. Esta paciente preenche apenas a idade, o que basta: a cirurgia é o único tratamento curativo e evita a perda óssea e as complicações renais das próximas décadas. Com adenoma localizado, a paratireoidectomia focada é a via habitual. Cinacalcete e bisfosfonato ficam para quem não pode ou não quer operar.",
+  "porAlt": [
+   "Correta: idade abaixo de 50 anos é, por si, critério de cirurgia no hiperparatireoidismo primário assintomático.",
+   "O cálcio está menos de 1 mg/dL acima do limite, mas a idade abaixo de 50 anos já indica a cirurgia.",
+   "O cinacalcete reduz o cálcio sem curar a doença nem proteger o osso, e fica para quem não pode ou não quer operar.",
+   "O bisfosfonato protege o osso sem tratar a causa, e a paciente tem indicação cirúrgica.",
+   "A calciúria de 160 mg em 24 horas é normal e não é o motivo da indicação."
+  ]
+ },
+ {
+  "q": "Homem de 52 anos, de pele clara, fez biópsia excisional com margem estreita de uma lesão pigmentada de 9 mm no dorso, de bordas irregulares e cores variadas. O anatomopatológico mostrou melanoma extensivo superficial com espessura de Breslow de 1,6 mm, sem ulceração, 2 mitoses/mm² e margens livres. Ao exame, não há linfonodos palpáveis nas axilas nem nas regiões inguinais, e não há lesões satélites. Está assintomático, com desidrogenase lática normal. Qual é o próximo passo?",
+  "alts": [
+   "Ampliação com margem de 0,5 cm e seguimento clínico sem estadiar",
+   "Ampliação com margem de 1 a 2 cm e biópsia do linfonodo sentinela",
+   "Ampliação com margem de 3 cm e com linfadenectomia axilar eletiva",
+   "Ampliação com margem de 2 cm e PET-TC, sem linfonodo sentinela",
+   "Seguimento clínico, já que a excisão inicial teve margens livres"
+  ],
+  "gab": 1,
+  "tema": "onco",
+  "sub": "Tumores de pele e melanoma",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "AAD 2019, Guidelines of care for the management of primary cutaneous melanoma; ASCO/SSO 2018, sentinel lymph node biopsy in melanoma; AJCC 8ª ed., 2017",
+  "coment": "Breslow de 1,6 mm sem ulceração classifica o tumor como T2a pela 8ª edição do AJCC. Para espessura entre 1,01 e 2 mm, a diretriz da Academia Americana de Dermatologia de 2019, em linha com o NCCN, recomenda ampliação com margem clínica de 1 a 2 cm, até a fáscia. A diretriz ASCO/SSO de 2018 recomenda oferecer biópsia do linfonodo sentinela a melanomas de espessura intermediária (T2 e T3), pelo valor prognóstico e porque o resultado orienta a terapia adjuvante. A linfadenectomia eletiva foi abandonada, e mesmo com sentinela positivo a dissecção completa deixou de ser rotina. Exame de imagem de corpo inteiro não é indicado no estágio clínico I ou II assintomático.",
+  "porAlt": [
+   "Margem de 0,5 a 1 cm é a do melanoma in situ, e omitir o sentinela perde a informação prognóstica de um T2.",
+   "Correta: melanoma T2a pede ampliação com margem de 1 a 2 cm e oferta de biópsia do linfonodo sentinela.",
+   "Margens de 3 cm não melhoram a sobrevida, e a linfadenectomia eletiva foi abandonada em favor do sentinela.",
+   "Exame de imagem de corpo inteiro não é indicado no estágio clínico I ou II assintomático e não substitui o sentinela.",
+   "A margem da biópsia excisional é diagnóstica, e o tratamento exige ampliação com margem clínica adequada."
+  ]
+ },
+ {
+  "q": "Homem de 47 anos percebeu há 4 meses uma massa na face anterior da coxa esquerda, indolor, que vem crescendo. Nega trauma local, febre ou perda de peso. Ao exame, há massa de cerca de 9 cm, endurecida, pouco móvel, situada profundamente à fáscia muscular, sem alteração da pele e sem linfonodos inguinais palpáveis. A radiografia da coxa não mostra lesão óssea nem calcificações. Hemograma e provas inflamatórias normais. O paciente quer resolver logo e pergunta se não seria melhor tirar a massa de uma vez. Qual é o próximo passo?",
+  "alts": [
+   "Biópsia excisional com margem estreita para ter o diagnóstico rápido",
+   "Ultrassonografia e observação por 3 meses, por provável lipoma comum",
+   "Ressonância e biópsia por agulha grossa no trajeto da futura incisão",
+   "Biópsia incisional transversal na pele sobre o ponto mais saliente",
+   "Punção aspirativa por agulha fina e ressecção se houver malignidade"
+  ],
+  "gab": 2,
+  "tema": "onco",
+  "sub": "Sarcomas de partes moles",
+  "cenario": "amb",
+  "comp": "dx",
+  "nivel": "r1",
+  "base": "ESMO-EURACAN-GENTURIS 2021, Clinical Practice Guidelines for soft tissue and visceral sarcomas",
+  "coment": "Massa de partes moles profunda à fáscia, ou superficial maior que 5 cm, deve ser tratada como sarcoma até prova em contrário. A diretriz da ESMO, EURACAN e GENTURIS de 2021 orienta ressonância magnética como imagem local e biópsia por agulha grossa, com várias amostras, antes de qualquer cirurgia, idealmente no centro de referência que fará a ressecção. O trajeto da agulha deve ficar dentro da área da futura incisão, para ser ressecado em bloco com o tumor, porque pode semear células. Biópsia excisional, enucleação ou incisão transversal contaminam compartimentos e aumentam o risco de ressecções maiores ou amputação. A punção aspirativa por agulha fina não define subtipo nem grau histológico.",
+  "porAlt": [
+   "A excisão sem diagnóstico contamina os planos e pode obrigar a ressecções maiores ou amputação na reoperação.",
+   "Massa profunda, endurecida e crescendo não pode ser tratada como lipoma, e observar atrasa o diagnóstico.",
+   "Correta: massa profunda à fáscia e maior que 5 cm é sarcoma até prova em contrário e pede ressonância e biópsia por agulha grossa planejada.",
+   "A incisão transversal contamina vários compartimentos e não fica dentro da incisão longitudinal da ressecção.",
+   "A citologia por agulha fina não define subtipo nem grau histológico, essenciais para planejar o tratamento."
+  ]
+ },
+ {
+  "q": "Mulher de 69 anos, ex-tabagista de 40 maços-ano, hipertensa e com dislipidemia controladas, está em vigilância de aneurisma de aorta abdominal infrarrenal. Há 12 meses o diâmetro máximo era de 4,7 cm, e a angiotomografia atual mostra 5,1 cm, com colo proximal de 22 mm de diâmetro e 25 mm de extensão, sem angulação importante, e ilíacas adequadas para acesso. Está assintomática, sem dor abdominal ou lombar, com boa capacidade funcional, taxa de filtração estimada de 78 mL/min/1,73 m² e ecocardiograma normal. Usa estatina e ácido acetilsalicílico. Qual é a conduta?",
+  "alts": [
+   "Manter vigilância até 5,5 cm, limiar de reparo para ambos os sexos",
+   "Indicar reparo eletivo pelo crescimento rápido, acima de 1 cm/ano",
+   "Repetir a angiotomografia em três meses e operar só se houver dor",
+   "Indicar reparo eletivo, pelo diâmetro acima do limiar feminino",
+   "Associar betabloqueador para estabilizar o diâmetro e reavaliar"
+  ],
+  "gab": 3,
+  "tema": "especialidades",
+  "sub": "Aneurisma de aorta",
+  "cenario": "amb",
+  "comp": "tto",
+  "nivel": "r3",
+  "base": "ESVS 2024, Clinical Practice Guidelines on the Management of Abdominal Aorto-iliac Artery Aneurysms (Wanhainen et al.)",
+  "coment": "A diretriz da Sociedade Europeia de Cirurgia Vascular de 2024 manteve os diâmetros a partir dos quais se considera o reparo eletivo do aneurisma de aorta abdominal, 5,5 cm nos homens e 5,0 cm nas mulheres, com a força da recomendação rebaixada por falta de evidência de alta qualidade, e passou a recomendar contra o reparo abaixo desses valores. O limiar feminino é menor porque, para o mesmo diâmetro, a mulher tem risco de ruptura maior e uma aorta de base menor. Crescimento rápido, de 1 cm ou mais em um ano, confirmado em nova imagem, é motivo de avaliação prioritária pelo cirurgião vascular, mas aqui o aumento foi de 0,4 cm. Com 5,1 cm, sem sintomas, boa expectativa de vida e anatomia favorável, o reparo eletivo deve ser indicado, por via endovascular quando a anatomia permite. Estatina e antiagregante entram pelo risco cardiovascular; nenhum medicamento tem efeito comprovado sobre o crescimento do aneurisma.",
+  "porAlt": [
+   "O limiar de 5,5 cm vale para homens; na mulher o risco de ruptura é maior para o mesmo diâmetro.",
+   "O crescimento rápido, de 1 cm ou mais em um ano, pede avaliação prioritária, mas aqui o aumento foi de 0,4 cm em 12 meses.",
+   "Esperar sintoma num aneurisma que já atingiu o limiar expõe à ruptura, cuja mortalidade é muito alta.",
+   "Correta: a ESVS de 2024 mantém 5,0 cm como o diâmetro a partir do qual se considera o reparo eletivo na mulher, e esta paciente tem 5,1 cm.",
+   "Nenhum medicamento mostrou reduzir o crescimento do aneurisma, e o betabloqueador não substitui o reparo."
+  ]
+ },
+ {
+  "q": "Adolescente de 15 anos acordou há 3 horas com dor súbita e intensa no testículo esquerdo, irradiada para a região inguinal, acompanhada de náuseas e dois episódios de vômito. Nega trauma, disúria, febre ou atividade sexual. Está com frequência cardíaca de 104 bpm e temperatura de 36,8 °C. Ao exame, o testículo esquerdo está elevado, com eixo horizontalizado, edemaciado e muito doloroso, e o reflexo cremastérico está ausente à esquerda e presente à direita. O sumário de urina é normal. O hospital tem centro cirúrgico disponível de imediato. Qual é a conduta?",
+  "alts": [
+   "Doppler escrotal e exploração se o fluxo estiver ausente",
+   "Antibiótico para epididimite e reavaliação em 48 horas",
+   "Distorção manual e alta com retorno ambulatorial marcado",
+   "Orquiectomia esquerda pela dor com duração acima de 2 horas",
+   "Exploração escrotal imediata com orquidopexia bilateral"
+  ],
+  "gab": 4,
+  "tema": "especialidades",
+  "sub": "Urologia cirúrgica",
+  "cenario": "emg",
+  "comp": "urg",
+  "nivel": "r1",
+  "base": "EAU Guidelines on Paediatric Urology, 2026, escroto agudo: torção testicular",
+  "coment": "Dor testicular súbita com náuseas, testículo alto e horizontalizado e reflexo cremastérico ausente em adolescente é torção do cordão espermático até prova em contrário. O tempo de isquemia determina a viabilidade, e a chance de salvar o testículo cai progressivamente com as horas. As diretrizes de urologia pediátrica da EAU (edição 2026) tratam a torção como emergência: exploração cirúrgica o quanto antes, idealmente nas primeiras 4 a 6 horas (forte), com diagnóstico baseado no exame físico; o Doppler é útil, mas não deve atrasar a intervenção (forte). Na exploração, distorce-se o cordão, avalia-se a viabilidade e fixa-se o testículo, e o contralateral costuma ser fixado no mesmo ato, porque a anomalia em badalo de sino costuma ser bilateral. A distorção manual pode ser tentada no pronto-socorro enquanto se aguarda a cirurgia, mas não a adia nem a dispensa.",
+  "porAlt": [
+   "O Doppler serve aos casos duvidosos; com quadro típico, esperar o exame consome o tempo de viabilidade do testículo.",
+   "Epididimite tem início gradual e reflexo cremastérico presente, e tratar como infecção perde o testículo torcido.",
+   "A distorção manual é medida temporária e não dispensa a exploração e a fixação cirúrgica no mesmo atendimento.",
+   "A decisão sobre orquiectomia é tomada na exploração, pela viabilidade, e 3 horas de evolução não a indicam.",
+   "Correta: com suspeita clínica alta de torção, a EAU indica exploração cirúrgica sem atraso, com fixação do testículo torcido e, em geral, do contralateral."
+  ]
+ },
+ {
+  "q": "Mulher de 41 anos é submetida a colecistectomia videolaparoscópica eletiva por colelitíase sintomática. O termo de consentimento, assinado no ambulatório, autoriza apenas a colecistectomia e a eventual conversão para cirurgia aberta. Durante o inventário da cavidade, a equipe encontra um cisto no ovário direito de cerca de 6 cm, de paredes finas e conteúdo claro, sem sinais de torção, ruptura ou sangramento. A paciente não tinha queixa ginecológica. O marido aguarda na sala de espera. Um membro da equipe sugere retirar o ovário para aproveitar a anestesia. Qual é a conduta adequada?",
+  "alts": [
+   "Não ampliar, registrar o achado e conversar com a paciente depois",
+   "Fazer a ooforectomia, já que o benefício justifica a ampliação",
+   "Ampliar com autorização verbal do marido, presente no hospital",
+   "Fazer a cistectomia, que é procedimento menor que a ooforectomia",
+   "Ampliar e registrar o procedimento no prontuário como urgência"
+  ],
+  "gab": 0,
+  "tema": "etica",
+  "sub": "Consentimento e documentação",
+  "cenario": "cc",
+  "comp": "tto",
+  "nivel": "tit",
+  "base": "Código de Ética Médica, Resolução CFM nº 2.217/2018, arts. 22 e 31",
+  "coment": "O Código de Ética Médica (Resolução CFM 2.217/2018) veda ao médico deixar de obter o consentimento do paciente ou de seu representante legal, depois de esclarecê-lo sobre o procedimento, salvo em caso de risco iminente de morte (art. 22), e desrespeitar o direito do paciente de decidir livremente sobre práticas diagnósticas ou terapêuticas, com a mesma exceção (art. 31). Um cisto ovariano de aspecto simples, sem torção, ruptura ou sangramento, não representa risco iminente. A paciente é adulta e capaz, e o fato de estar anestesiada não transfere a decisão à equipe nem ao marido. A conduta é concluir a operação consentida, descrever o achado na folha cirúrgica e discutir com ela a investigação e o tratamento.",
+  "porAlt": [
+   "Correta: sem risco iminente de morte, ampliar sem consentimento viola os artigos 22 e 31 do Código de Ética Médica.",
+   "O benefício presumido não substitui a decisão da paciente, que é adulta e capaz e só não decide agora porque está anestesiada.",
+   "O familiar não consente no lugar de quem tem capacidade, e a paciente poderá decidir quando acordar.",
+   "Mesmo menor, a cistectomia é um procedimento não autorizado, e o tamanho da ampliação não muda a exigência de consentimento.",
+   "Registrar como urgência um achado sem risco iminente falseia o prontuário, o que agrava a infração."
+  ]
+ },
+ {
+  "q": "Homem de 33 anos foi admitido com ferimento por projétil de arma de fogo no abdome, submetido a laparotomia com enterectomia e colostomia, e evoluiu com peritonite por deiscência e choque séptico. Faleceu na UTI no nono dia de internação, após reabordagem cirúrgica. O intensivista de plantão constatou o óbito às 3 horas da manhã. A família pergunta se o corpo pode ser liberado com a declaração de óbito assinada no próprio hospital, já que a causa final da morte foi infecção. Quem deve fornecer a declaração de óbito?",
+  "alts": [
+   "O cirurgião assistente, pois a causa final foi sepse hospitalar",
+   "O serviço médico-legal (IML), por ser morte de causa externa",
+   "O intensivista de plantão, que constatou o óbito na própria UTI",
+   "O Serviço de Verificação de Óbitos, pois o óbito foi no hospital",
+   "O médico da comissão de óbitos, após revisar o prontuário"
+  ],
+  "gab": 1,
+  "tema": "etica",
+  "sub": "Legislação e resoluções do CFM",
+  "cenario": "enf",
+  "comp": "bas",
+  "nivel": "r2",
+  "base": "Resolução CFM nº 1.779/2005, responsabilidade médica no fornecimento da Declaração de Óbito",
+  "coment": "A Resolução CFM 1.779/2005 determina que, nas mortes violentas ou não naturais, a declaração de óbito seja fornecida obrigatoriamente pelos serviços médico-legais. Morte violenta é a que decorre de lesão provocada por causa externa, seja homicídio, suicídio, acidente ou morte suspeita, qualquer que seja o tempo decorrido entre o evento e o óbito. A sepse no nono dia é complicação do ferimento por arma de fogo, que é a causa básica da morte: o corpo é encaminhado ao IML mesmo depois de dias de internação e de cirurgias. O Serviço de Verificação de Óbitos atende mortes naturais sem causa esclarecida. Ao médico do hospital cabe comunicar o óbito à autoridade e registrar no prontuário as lesões, os procedimentos e a evolução.",
+  "porAlt": [
+   "A sepse é complicação da lesão por arma de fogo, que é a causa básica do óbito e torna a morte violenta.",
+   "Correta: em morte violenta, a declaração de óbito é fornecida obrigatoriamente pelo serviço médico-legal, qualquer que seja o tempo entre a lesão e a morte.",
+   "Constatar o óbito não autoriza emitir a declaração quando a morte decorre de causa externa.",
+   "O Serviço de Verificação de Óbitos atende mortes naturais sem diagnóstico definido, não mortes violentas.",
+   "A comissão de óbitos analisa a qualidade da assistência e não substitui o serviço médico-legal na morte violenta."
+  ]
+ }
+]
