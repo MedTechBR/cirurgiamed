@@ -58,3 +58,18 @@ provas: `docs/PROVAS_REAIS.md` e scripts em `docs/extracao/`; triagem e campos e
 `docs/BRIEF_REAIS.md` (relatórios de descarte em `provas-reais/relatorios/`, fora do git).
 Atenção ao `docs/extrai_prova.py` herdado: apaga linhas só com número (perde dado de tabela); a extração
 daqui contornou isso. USP: `fonte.ano` = ano da EDIÇÃO (2025, 2026), como no ClínicaMed.
+
+## Erratas da administração (10/10/2026, cg-v4) — `mterrata.js`
+Mesma integração do ClínicaMed (ver o CLAUDE.md de lá). A administração corrige ou tira do ar uma questão
+sinalizada (admin.html → Sinalizações) e responde a quem sinalizou. `mterrata.js` (fonte única em
+`~/Documents/Claude/_mterrata/`, não editar a cópia) busca as erratas na função `mtSinal` (op `erratas`, app
+`cirurgiamed`), guarda em `localStorage["mterr:cirurgiamed"]` e o app aplica ANTES de desenhar (`aplicaErratas`).
+- `BANCO_BASE` = `window.BANCO` intacto (e `QBASE`, índice dele por chave); `BANCO`/`QIDX` = vista das VISÍVEIS.
+  A chave `_ch` sai do enunciado ORIGINAL, antes da errata: corrigir o enunciado não solta o progresso.
+- Gabarito corrigido: `okH(q,h)` reavalia respostas antigas só na EXIBIÇÃO (h.alt = índice no banco); o histórico
+  salvo não muda. `acerta(q,j)`: gabarito -1 (anulada) aceita qualquer resposta. `cadaResposta`/`nVistas`/`nErros`
+  contam sem as ocultas; `recontaBanco()` refaz NREAIS/BANCAS/NQ_AREA quando chega errata nova da rede.
+- `ordemQuestoes` preserva as chaves ocultas na ordem salva. Simulado EM CURSO com questão tirada do ar: ela sai
+  da prova, a chave fica em `s.tiradas` e a resposta dada continua em `s.res`.
+- Errata é remendo: a correção definitiva vai para o banco e depois se desfaz a errata no painel. Mudar o
+  enunciado no banco muda a chave.

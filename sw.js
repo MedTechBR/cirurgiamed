@@ -3,10 +3,10 @@
    versão velha e a correção vira fantasma.
    Estáticos usam stale-while-revalidate: bump de versão não basta quando a borda do CDN
    devolve conteúdo velho para o precache. HTML é network-first. */
-const CACHE="cg-v3", FONTES="cg-fontes-v1", LIVROS="cg-livros-v1";
-const PRE=["./assets/fonts/inter-400.ttf","./assets/fonts/inter-500.ttf","./assets/fonts/inter-600.ttf","./assets/fonts/inter-700.ttf","./","./index.html","./taxonomia.js?v=3","./provas.js?v=3","./banco.js?v=3","./flash.js?v=3",
-           "./pratica.js?v=3","./leituras.js?v=3","./mtsync.js?v=3","./nuvem.js?v=3","./turma.js?v=3","./mtfiltro.js?v=3","./mtsinal.js?v=3","./indice-leituras.js?v=3","./manifest.webmanifest",
-           "./leituras/_leitura.css?v=3","./leituras/_leitura.js?v=3"];
+const CACHE="cg-v4", FONTES="cg-fontes-v1", LIVROS="cg-livros-v1";
+const PRE=["./assets/fonts/inter-400.ttf","./assets/fonts/inter-500.ttf","./assets/fonts/inter-600.ttf","./assets/fonts/inter-700.ttf","./","./index.html","./taxonomia.js?v=4","./provas.js?v=4","./banco.js?v=4","./flash.js?v=4",
+           "./pratica.js?v=4","./leituras.js?v=4","./mtsync.js?v=4","./nuvem.js?v=4","./turma.js?v=4","./mtfiltro.js?v=4","./mtsinal.js?v=4","./mterrata.js?v=4","./indice-leituras.js?v=4","./manifest.webmanifest",
+           "./leituras/_leitura.css?v=4","./leituras/_leitura.js?v=4"];
 /* SDK da conta (Firebase 10.13.2), vendorizado. Fica no balde FONTES, que sobrevive ao bump:
    sem ele o app não abre offline depois de um deploy, e baixar 515 KB a cada versão é
    desperdício. Sem "./" de propósito: o bump.py não versiona, e o mtsync pede estes caminhos. */
